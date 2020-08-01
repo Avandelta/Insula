@@ -7,7 +7,7 @@
 
 ![forge](https://img.shields.io/badge/forge-14.23.5.2854-brightgreen?style=flat-square)
 ![Optifine](https://img.shields.io/badge/Optifine-OptiFine%201.12.2%20HD%20U%20F6%20pre1-brightgreen?style=flat-square)
-![Версия](https://img.shields.io/badge/Версия-1.0.4.3-green?style=flat-square)
+![Версия](https://img.shields.io/badge/Версия-1.0.4.4-green?style=flat-square)
 
 ## Предисловие
 
