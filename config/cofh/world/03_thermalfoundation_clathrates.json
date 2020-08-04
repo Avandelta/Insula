@@ -55,8 +55,8 @@
 				"material": "minecraft:netherrack",
 				"cluster-size": 20
 			},
-			"cluster-count": 2,
-			"chunk-chance": 12,
+			"cluster-count": 3,
+			"chunk-chance": 11,
 			"min-height": 10,
 			"max-height": 40,
 			"retrogen": "true",
@@ -82,10 +82,10 @@
 					}
 				},
 				"material": "minecraft:end_stone",
-				"cluster-size": 24
+				"cluster-size": 22
 			},
-			"cluster-count": 10,
-			"chunk-chance": 4,
+			"cluster-count": 11,
+			"chunk-chance": 5,
 			"min-height": 10,
 			"max-height": 80,
 			"retrogen": "true",
