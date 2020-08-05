@@ -2,8 +2,8 @@
   "path": "vanilla/plants/wheat_plant.json",
   "enabled": true,
   "id": "vanilla:wheat_plant",
-  "plant_name": "Wheat",
-  "seed_name": "Wheat Seeds",
+  "plant_name": "Пшеница",
+  "seed_name": "Семена пшеницы",
   "seed_items": [
     {
       "item": "minecraft:wheat_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "The cornerstone of the Agriculutural Revolution."
+    "default": "Пшеница - однолетнее и двухлетнее растение, относящееся к семейству злаков. Является символом Промышленной революции, а также составляет 2/3 мирового экспорта зерна."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

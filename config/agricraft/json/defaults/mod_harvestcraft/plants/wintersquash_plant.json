@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/wintersquash_plant.json",
   "enabled": true,
   "id": "harvestcraft:wintersquash_plant",
-  "plant_name": "Winter Squash",
-  "seed_name": "Winter Squash Seeds",
+  "plant_name": "Зимний сквош",
+  "seed_name": "Семена зимнего сквоша",
   "seed_items": [
     {
       "item": "harvestcraft:wintersquashseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Winter Squash Seeds."
+    "default": "Сквош - это плод, принадлежащий семейству тыквенных. Он является прекрасным источником бета-каротина, мощного антиоксиданта, калия, витамина С и фолиевых кислот. Сквош не едят сырыми его готовят."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

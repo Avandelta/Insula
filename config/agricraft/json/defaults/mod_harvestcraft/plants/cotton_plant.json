@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/cotton_plant.json",
   "enabled": true,
   "id": "harvestcraft:cotton_plant",
-  "plant_name": "Cotton",
-  "seed_name": "Cotton Seeds",
+  "plant_name": "Хлопок",
+  "seed_name": "Семена хлопка",
   "seed_items": [
     {
       "item": "harvestcraft:cottonseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Cotton Seeds."
+    "default": "Хлопчатник - древесных и травянистых, многолетних, двулетних и однолетних растений, происходящих из тропических и субтропических районов Азии, Америки, Африки и Австралии. Культурные формы в промышленных масштабах выращивают по всему свету как прядильные растения. Является источником растительных волокон для текстильной промышленности - хлопка."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

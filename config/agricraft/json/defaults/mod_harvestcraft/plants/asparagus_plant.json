@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/asparagus_plant.json",
   "enabled": true,
   "id": "harvestcraft:asparagus_plant",
-  "plant_name": "Asparagus",
-  "seed_name": "Asparagus Seeds",
+  "plant_name": "Спаржа",
+  "seed_name": "Семена спаржи",
   "seed_items": [
     {
       "item": "harvestcraft:asparagusseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Asparagus Seeds."
+    "default": "Спаржа – один из самых вкусных, полезных и дорогих овощных культур. Первые ростки аспарагуса бывают белыми, зелеными, розовато-зелеными или фиолетовыми, насыщены витаминами, минералами и клетчаткой."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

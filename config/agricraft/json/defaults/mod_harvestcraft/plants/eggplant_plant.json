@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/eggplant_plant.json",
   "enabled": true,
   "id": "harvestcraft:eggplant_plant",
-  "plant_name": "Eggplant",
-  "seed_name": "Eggplant Seeds",
+  "plant_name": "Баклажаны",
+  "seed_name": "Семена баклажана",
   "seed_items": [
     {
       "item": "harvestcraft:eggplantseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Eggplant Seeds."
+    "default": "Баклажан, еще именуемое паслен темноплодный - является представителем рода паслен. Именно арабы стали первыми распространять данную культуру по миру. Баклажаны были завезены ими в Африку в 9 веке нашей эры."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

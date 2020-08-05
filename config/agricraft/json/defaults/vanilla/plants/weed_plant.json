@@ -2,12 +2,12 @@
   "path": "vanilla/plants/weed_plant.json",
   "enabled": true,
   "id": "vanilla:weed_plant",
-  "plant_name": "Weed",
-  "seed_name": "Weed Seeds",
+  "plant_name": "Трава",
+  "seed_name": "Семена травы",
   "seed_items": [],
   "description": {
     "translations": {},
-    "default": "An annoying plant of no use."
+    "default": "Трава (сорняки) - дикорастущие растения, обитающие на землях, используемых в качестве сельскохозяйственных угодий. Вред, который наносят сорные растения, связан как со снижением урожайности, так и с ухудшением качества сельскохозяйственной продукции."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

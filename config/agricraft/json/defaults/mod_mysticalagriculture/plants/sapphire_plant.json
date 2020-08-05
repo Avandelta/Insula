@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/sapphire_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:sapphire_plant",
-  "plant_name": "Sapphire",
-  "seed_name": "Sapphire Seeds",
+  "plant_name": "Сапфировая культура",
+  "seed_name": "Семена сапфира",
   "seed_items": [
     {
       "item": "mysticalagriculture:sapphire_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Sapphire Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

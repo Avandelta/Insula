@@ -2,12 +2,12 @@
   "path": "mod_Botania/plants/botania_cyan_plant.json",
   "enabled": true,
   "id": "botania:cyan_flower_plant",
-  "plant_name": "Mystical Cyan Flower",
-  "seed_name": "Mystical Cyan Seeds",
+  "plant_name": "Мифический бирюзовый цветок",
+  "seed_name": "Семена мифического бирюзового цветка",
   "seed_items": [],
   "description": {
     "translations": {},
-    "default": "A beautiful flower of indeterminate color, being both green and blue."
+    "default": "Цветок, излучающий некоторую магическую энергию при определенных обстоятельствах. Данный выделяет её неизвестным способом, чем-то похожим на способы зелёного и синего мифическиъ цветков."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,

@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/aquamarine_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:aquamarine_plant",
-  "plant_name": "Aquamarine Crop",
-  "seed_name": "Aquamarine Seeds",
+  "plant_name": "Аквамариновая культура",
+  "seed_name": "Семена аквамарина",
   "seed_items": [
     {
       "item": "mysticalagriculture:aquamarine_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Aquamarine Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

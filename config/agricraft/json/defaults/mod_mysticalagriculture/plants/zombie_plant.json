@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/zombie_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:zombie_plant",
-  "plant_name": "Zombie Crop",
-  "seed_name": "Zombie Seeds",
+  "plant_name": "Культура зомби",
+  "seed_name": "Семена зомби",
   "seed_items": [
     {
       "item": "mysticalagriculture:zombie_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Zombie Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

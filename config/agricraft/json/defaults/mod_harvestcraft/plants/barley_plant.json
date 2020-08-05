@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/barley_plant.json",
   "enabled": true,
   "id": "harvestcraft:barley_plant",
-  "plant_name": "Barley",
-  "seed_name": "Barley Seeds",
+  "plant_name": "Ячмень",
+  "seed_name": "Семена ячменя",
   "seed_items": [
     {
       "item": "harvestcraft:barleyseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Barley Seeds."
+    "default": "Ячмень считается древнейшей зерновой культурой, которая известна человечеству - упоминания о его возделывании относятся к историческим временам древнего мира. Например, следы этого злака найдены в египетских захоронениях, датированных пятью тысячами лет до н.э."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

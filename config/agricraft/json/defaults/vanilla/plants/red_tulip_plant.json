@@ -2,12 +2,12 @@
   "path": "vanilla/plants/red_tulip_plant.json",
   "enabled": true,
   "id": "vanilla:red_tulip_plant",
-  "plant_name": "Red Tulip",
-  "seed_name": "Red Tulip Seeds",
+  "plant_name": "Красный тюльпан",
+  "seed_name": "Семена красного тюльпана",
   "seed_items": [],
   "description": {
     "translations": {},
-    "default": "A vibrant red varient of the perrenial tulip plant. The plant is valued mostly for its distinctive blooms."
+    "default": "Тюльпан относится к роду луковичных многолетних растений и к семейству лилейные. Этот цветок пользуется огромной популярностью, и его с удовольствием растят как цветоводы на частных подворьях, так и специалисты в промышленных масштабах."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,

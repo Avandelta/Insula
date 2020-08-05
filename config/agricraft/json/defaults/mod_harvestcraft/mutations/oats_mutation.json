@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/mutations/oats_mutation.json",
   "enabled": true,
-  "chance": 0.5,
+  "chance": 0.45,
   "child": "harvestcraft:oats_plant",
   "parent1": "harvestcraft:corn_plant",
   "parent2": "harvestcraft:rice_plant"

@@ -2,12 +2,12 @@
   "path": "mod_Botania/plants/botania_brown_plant.json",
   "enabled": true,
   "id": "botania:brown_flower_plant",
-  "plant_name": "Mystical Brown Flower",
-  "seed_name": "Mystical Brown Seeds",
+  "plant_name": "Мифический коричневый цветок",
+  "seed_name": "Семена мифического коричневого цветка",
   "seed_items": [],
   "description": {
     "translations": {},
-    "default": "A beautiful flower that is as brown as the dirt."
+    "default": "Цветок, излучающий некоторую магическую энергию при определенных обстоятельствах. Данный выделяет её через землю."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,

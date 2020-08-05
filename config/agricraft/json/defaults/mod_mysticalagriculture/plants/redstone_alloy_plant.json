@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/redstone_alloy_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:redstone_alloy_plant",
-  "plant_name": "Redstone Alloy Crop",
-  "seed_name": "Redstone Alloy Seeds",
+  "plant_name": "Культура краснокаменного сплава",
+  "seed_name": "Семена краснокаменного сплава",
   "seed_items": [
     {
       "item": "mysticalagriculture:redstone_alloy_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Redstone Alloy Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/rice_plant.json",
   "enabled": true,
   "id": "harvestcraft:rice_plant",
-  "plant_name": "Rice",
-  "seed_name": "Rice Seeds",
+  "plant_name": "Рис",
+  "seed_name": "Семена риса",
   "seed_items": [
     {
       "item": "harvestcraft:riceseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Rice Seeds."
+    "default": "Рис - это однолетнее злаковое растение, популярное в странах Азии. Считается, что это второй по распространению злак на планете (после кукурузы). Его выращивают на всех континентах, кроме Антарктиды. Кроме традиционного белого зерна, в пищу используют и другие виды риса: коричневый, красный, пурпурный и даже черный."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

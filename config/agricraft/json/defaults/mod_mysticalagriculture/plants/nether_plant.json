@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/nether_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:nether_plant",
-  "plant_name": "Nether Crop",
-  "seed_name": "Nether Seeds",
+  "plant_name": "Культура Нижнего мира",
+  "seed_name": "Семена Нижнего мира",
   "seed_items": [
     {
       "item": "mysticalagriculture:nether_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Nether Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

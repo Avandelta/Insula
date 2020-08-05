@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/chilipepper_plant.json",
   "enabled": true,
   "id": "harvestcraft:chilipepper_plant",
-  "plant_name": "Chili Pepper",
-  "seed_name": "Chili Pepper Seeds",
+  "plant_name": "Чилийский перец",
+  "seed_name": "Семена чилийского перца",
   "seed_items": [
     {
       "item": "harvestcraft:chilipepperseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Chili Pepper Seeds."
+    "default": "Перец чили является самым острым персонажем в огромной кулинарной истории. Само название происходит от chilli, что в переводе с ацтекского означает красный."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/sesameseed_plant.json",
   "enabled": true,
   "id": "harvestcraft:sesameseed_plant",
-  "plant_name": "Sesame Seeds",
-  "seed_name": "Sesame Seeds Seeds",
+  "plant_name": "Кунжутные семечки",
+  "seed_name": "Кунжутные семечки",
   "seed_items": [
     {
       "item": "harvestcraft:sesameseedsseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Sesame Seeds Seeds."
+    "default": "Кунжут, или как его еще называют сезам, – одна из первых масличных культур на планете. Кунжутные семена – крошечные и плоские, овальной формы с тонким ореховым привкусом."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/nature_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:nature_plant",
-  "plant_name": "Nature Crop",
-  "seed_name": "Nature Seeds",
+  "plant_name": "Природная культура",
+  "seed_name": "Семена природы",
   "seed_items": [
     {
       "item": "mysticalagriculture:nature_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Nature Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/spiceleaf_plant.json",
   "enabled": true,
   "id": "harvestcraft:spiceleaf_plant",
-  "plant_name": "Spiceleaf",
-  "seed_name": "Spiceleaf Seeds",
+  "plant_name": "Пряное растение",
+  "seed_name": "Семена пряного растения",
   "seed_items": [
     {
       "item": "harvestcraft:spiceleafseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Spiceleaf Seeds."
+    "default": "Пряные растения - отличный способ улучшить состояние организма и обогатить его многими витаминами, минералами. Просто нужно знать, когда сеять и собирать их, и чем полезны разные травы. Многие травы соблазняют уникальным ароматом."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

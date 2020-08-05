@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/mutations/cucumber_mutation.json",
   "enabled": true,
-  "chance": 0.5,
+  "chance": 0.45,
   "child": "harvestcraft:cucumber_plant",
   "parent1": "harvestcraft:peas_plant",
   "parent2": "harvestcraft:okra_plant"

@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/ginger_plant.json",
   "enabled": true,
   "id": "harvestcraft:ginger_plant",
-  "plant_name": "Ginger",
-  "seed_name": "Ginger Seeds",
+  "plant_name": "Имбирь",
+  "seed_name": "Семена имбиря",
   "seed_items": [
     {
       "item": "harvestcraft:gingerseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Ginger Seeds."
+    "default": "Имбирь принадлежит к тому же семейству специй, что и куркума и кардамон. Его родиной считают Индию, Китай и просторы Юго-Восточной Азии. Но известно, что в древние времена это растение за превосходные вкусовые и лечебные свойства почитали также в Древней Греции и Древнем Риме."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

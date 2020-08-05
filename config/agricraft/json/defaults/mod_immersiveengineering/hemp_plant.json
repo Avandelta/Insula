@@ -2,8 +2,8 @@
   "path": "mod_immersiveengineering/hemp_plant.json",
   "enabled": true,
   "id": "immersiveengineering:hemp_plant",
-  "plant_name": "Hemp",
-  "seed_name": "Hemp Seeds",
+  "plant_name": "Конопля",
+  "seed_name": "Семена конопли",
   "seed_items": [
     {
       "item": "immersiveengineering:seed",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Testing 1, 2, 3."
+    "default": "Конопля – это однолетнее растение, которое может достигать 2 метров в высоту. На Руси выращивали ради конопляных волокон, из которых изготовляли нитки. Правда, древние славяне культивировали так называемую не наркотическую разновидность растения."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,

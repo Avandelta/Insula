@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/refined_obsidian_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:refined_obsidian_plant",
-  "plant_name": "Refined Obsidian",
-  "seed_name": "Refined Obsidian Seeds",
+  "plant_name": "Культура обсидианого сплава",
+  "seed_name": "Семена обсидианого сплава",
   "seed_items": [
     {
       "item": "mysticalagriculture:refined_obsidian_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Refined Obsidian Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

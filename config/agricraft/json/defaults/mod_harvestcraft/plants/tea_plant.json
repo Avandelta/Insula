@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/tea_plant.json",
   "enabled": true,
   "id": "harvestcraft:tea_plant",
-  "plant_name": "Tea",
-  "seed_name": "Tea Seeds",
+  "plant_name": "Чай",
+  "seed_name": "Семена чая",
   "seed_items": [
     {
       "item": "harvestcraft:teaseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Tea Seeds."
+    "default": "Чай – безалкогольный напиток, получаемый путем заваривания или варки специально обработанных чайных листьев. Изначально чай использовали только как лекарственное средство, однако во времена правления династии Тан в Китае, чай стал популярным напитком ежедневного употребления."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

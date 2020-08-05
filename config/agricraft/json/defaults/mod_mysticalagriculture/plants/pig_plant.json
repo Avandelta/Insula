@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/pig_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:pig_plant",
-  "plant_name": "Pig Crop",
-  "seed_name": "Pig Seeds",
+  "plant_name": "Свиная культура",
+  "seed_name": "Семена свиньи",
   "seed_items": [
     {
       "item": "mysticalagriculture:pig_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Pig Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

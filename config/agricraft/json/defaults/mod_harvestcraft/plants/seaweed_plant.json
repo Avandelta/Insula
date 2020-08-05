@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/seaweed_plant.json",
   "enabled": true,
   "id": "harvestcraft:seaweed_plant",
-  "plant_name": "Seaweed",
-  "seed_name": "Seaweed Seeds",
+  "plant_name": "Морская капуста",
+  "seed_name": "Семена морской капусты",
   "seed_items": [
     {
       "item": "harvestcraft:seaweedseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Seaweed Seeds."
+    "default": "Морская капуста - съедобная водоросль, относящаяся к классу бурых морских водорослей. Раньше этот полезный продукт в основном потреблялся жителями прибрежных районов."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/manyullyn_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:manyullyn_plant",
-  "plant_name": "Manyullyn Crop",
-  "seed_name": "Manyullyn Seeds",
+  "plant_name": "Маньюлиновая культура",
+  "seed_name": "Семена маньюлина",
   "seed_items": [
     {
       "item": "mysticalagriculture:manyullyn_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Manyullyn Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

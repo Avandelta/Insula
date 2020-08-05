@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/invar_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:invar_plant",
-  "plant_name": "Invar Crop",
-  "seed_name": "Invar Seeds",
+  "plant_name": "Инваровая культура",
+  "seed_name": "Семена инвара",
   "seed_items": [
     {
       "item": "mysticalagriculture:invar_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Invar Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

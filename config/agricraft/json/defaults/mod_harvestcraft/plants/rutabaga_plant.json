@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/rutabaga_plant.json",
   "enabled": true,
   "id": "harvestcraft:rutabaga_plant",
-  "plant_name": "Rutabaga",
-  "seed_name": "Rutabaga Seeds",
+  "plant_name": "Брюква",
+  "seed_name": "Семена брюквы",
   "seed_items": [
     {
       "item": "harvestcraft:rutabagaseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Rutabaga Seeds."
+    "default": "Брюква является двухлетним пищевым и кормовым растением, которое относится к роду Капуста семейства Крестоцветные. Впервые о данном растении упомянул швейцарский ботаник Каспар Баугин, который дал его описание, а также написал, что в диких условиях оно встречается на территории Швеции."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

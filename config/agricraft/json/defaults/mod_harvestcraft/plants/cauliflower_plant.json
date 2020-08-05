@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/cauliflower_plant.json",
   "enabled": true,
   "id": "harvestcraft:cauliflower_plant",
-  "plant_name": "Cauliflower",
-  "seed_name": "Cauliflower Seeds",
+  "plant_name": "Цветная капуста",
+  "seed_name": "Семена цветной капусты",
   "seed_items": [
     {
       "item": "harvestcraft:cauliflowerseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Cauliflower Seeds."
+    "default": "Цветная капуста - однолетнее яровое или озимое растение. Корневая система мочковатая, близко расположенная к поверхности почвы. Стебель цилиндрический, 15 - 70 см высоты, с горизонтально расположенными или прямо или косо вверх направленными листьями, весьма часто спиральнообразно изогнутыми."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

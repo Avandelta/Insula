@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/peas_plant.json",
   "enabled": true,
   "id": "harvestcraft:peas_plant",
-  "plant_name": "Peas",
-  "seed_name": "Peas Seeds",
+  "plant_name": "Горох",
+  "seed_name": "Семена гороха",
   "seed_items": [
     {
       "item": "harvestcraft:peasseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Peas Seeds."
+    "default": "Горох - является представителем семейства Бобовые. Родом оно с Юго-Западной Азии, где его стали культивировать еще в древние времена."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

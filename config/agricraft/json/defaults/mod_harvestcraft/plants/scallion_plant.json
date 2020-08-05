@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/scallion_plant.json",
   "enabled": true,
   "id": "harvestcraft:scallion_plant",
-  "plant_name": "Scallion",
-  "seed_name": "Scallion Seeds",
+  "plant_name": "Лук-шалот",
+  "seed_name": "Семя лука-шалота",
   "seed_items": [
     {
       "item": "harvestcraft:scallionseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Scallion Seeds."
+    "default": "Шалот, или акшелонский лук – это одна из разновидностей лука, выращиваемых преимущественно ради зеленых листьев-перьев. Чтобы достигнуть зрелости, овощу требуется примерно 100 дней."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/manasteel_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:manasteel_plant",
-  "plant_name": "Manasteel",
-  "seed_name": "Manasteel Seeds",
+  "plant_name": "Манасталевая культура",
+  "seed_name": "Семена манастали",
   "seed_items": [
     {
       "item": "mysticalagriculture:manasteel_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Manasteel Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

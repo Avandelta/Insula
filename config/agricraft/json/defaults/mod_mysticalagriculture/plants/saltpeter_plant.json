@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/saltpeter_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:saltpeter_plant",
-  "plant_name": "Saltpeter Crop",
-  "seed_name": "Saltpeter Seeds",
+  "plant_name": "Селитровая культура",
+  "seed_name": "Семена селитры",
   "seed_items": [
     {
       "item": "mysticalagriculture:saltpeter_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Saltpeter Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

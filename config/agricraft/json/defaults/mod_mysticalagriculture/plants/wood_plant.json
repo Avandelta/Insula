@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/wood_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:wood_plant",
-  "plant_name": "Wood Crop",
-  "seed_name": "Wood Seeds",
+  "plant_name": "Деревянная культура",
+  "seed_name": "Семена дерева",
   "seed_items": [
     {
       "item": "mysticalagriculture:wood_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Wood Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

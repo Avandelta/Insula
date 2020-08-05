@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/wither_skeleton_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:wither_skeleton_plant",
-  "plant_name": "Wither Skeleton Crop",
-  "seed_name": "Wither Skeleton Seeds",
+  "plant_name": "Культура скелета-иссушителя",
+  "seed_name": "Семена скелета-иссушителя",
   "seed_items": [
     {
       "item": "mysticalagriculture:wither_skeleton_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Wither Skeleton Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

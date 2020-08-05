@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/mustard_plant.json",
   "enabled": true,
   "id": "harvestcraft:mustard_plant",
-  "plant_name": "Mustard",
-  "seed_name": "Mustard Seeds",
+  "plant_name": "Горчица",
+  "seed_name": "Семена горчица",
   "seed_items": [
     {
       "item": "harvestcraft:mustardseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Mustard Seeds."
+    "default": "Горчица - однолетнее растение, принадлежащее к семейству крестоцветных культур. Самой востребованной частью травы являются семена, которые широко используют в кулинарных целях. Так, из обезжиренного жмыха зерен готовят столовую горчицу, а из молотого сырья получают одноименную приправу."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/diamond_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:diamond_plant",
-  "plant_name": "Diamond Crop",
-  "seed_name": "Diamond Seeds",
+  "plant_name": "Алмазная культура",
+  "seed_name": "Семена алмаза",
   "seed_items": [
     {
       "item": "mysticalagriculture:diamond_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Diamond Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/zucchini_plant.json",
   "enabled": true,
   "id": "harvestcraft:zucchini_plant",
-  "plant_name": "Zucchini",
-  "seed_name": "Zucchini Seeds",
+  "plant_name": "Цукини",
+  "seed_name": "Семена цукини",
   "seed_items": [
     {
       "item": "harvestcraft:zucchiniseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Zucchini Seeds."
+    "default": "Цуккини - европейский сорт кабачков, разновидность тыквы, плоды имеют продолговатую форму зеленого цвета. Распространен в странах Западной Европы и на среднеземноморском побережье."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

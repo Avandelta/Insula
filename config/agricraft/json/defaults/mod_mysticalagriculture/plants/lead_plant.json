@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/lead_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:lead_plant",
-  "plant_name": "Lead Crop",
-  "seed_name": "Lead Seeds",
+  "plant_name": "Свинцовая культура",
+  "seed_name": "Семена свинца",
   "seed_items": [
     {
       "item": "mysticalagriculture:lead_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Lead Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

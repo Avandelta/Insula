@@ -2,12 +2,12 @@
   "path": "mod_Botania/plants/botania_green_plant.json",
   "enabled": true,
   "id": "botania:green_flower_plant",
-  "plant_name": "Mystical Green Flower",
-  "seed_name": "Mystical Green Seeds",
+  "plant_name": "Мифический зелёный цветок",
+  "seed_name": "Семена мифического зелёного цветка",
   "seed_items": [],
   "description": {
     "translations": {},
-    "default": "This flower seems to be envious of its other cousins with better descriptions."
+    "default": "Цветок, излучающий некоторую магическую энергию при определенных обстоятельствах. Данный выделяет её находять рядом с другими представителями флоры."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,

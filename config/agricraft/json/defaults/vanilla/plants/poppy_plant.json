@@ -2,12 +2,12 @@
   "path": "vanilla/plants/poppy_plant.json",
   "enabled": true,
   "id": "vanilla:poppy_plant",
-  "plant_name": "Poppy",
-  "seed_name": "Poppy Seeds",
+  "plant_name": "Мак",
+  "seed_name": "Семена мака",
   "seed_items": [],
   "description": {
     "translations": {},
-    "default": "Producing colorful blooms, this plant has gained a reputation for certain medicinal uses. A better use, perhaps, this plant produces seeds that go well with baked goods, particularly for lemon-flavored ones."
+    "default": "Травянистое растение мак является представителем семейства Маковые. Данный род объединяет больше 100 видов. Родиной такого растения считается Южная и Средняя Европа, Австралия и Азия."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,

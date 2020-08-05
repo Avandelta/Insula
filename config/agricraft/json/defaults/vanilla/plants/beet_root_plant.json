@@ -2,8 +2,8 @@
   "path": "vanilla/plants/beet_root_plant.json",
   "enabled": true,
   "id": "vanilla:beet_root_plant",
-  "plant_name": "Beets",
-  "seed_name": "Beet Seeds",
+  "plant_name": "Свекла",
+  "seed_name": "Семена свеклы",
   "seed_items": [
     {
       "item": "minecraft:beetroot_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Beet. It\u0027s what\u0027s for dinner."
+    "default": "Свекла представлена однолетними, двулетними и многолетними травянистыми растениями, которые являются представителями семейства Амарантовые. Однако совсем недавно такую культуру причисляли к семейству Маревые. В Беларуси это растение именуют бурак, а на Украине - буряк."
   },
   "growth_chance": 1.0,
   "growth_bonus": 0.025,

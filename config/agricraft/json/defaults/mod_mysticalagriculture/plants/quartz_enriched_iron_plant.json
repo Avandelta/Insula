@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/quartz_enriched_iron_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:quartz_enriched_iron_plant",
-  "plant_name": "Quartz Enriched Iron Crop",
-  "seed_name": "Quartz Enriched Iron Seeds",
+  "plant_name": "Культура обогащённого кварцем железа",
+  "seed_name": "Семена обогащённого кварцем железа",
   "seed_items": [
     {
       "item": "mysticalagriculture:quartz_enriched_iron_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Quartz Enriched Iron Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

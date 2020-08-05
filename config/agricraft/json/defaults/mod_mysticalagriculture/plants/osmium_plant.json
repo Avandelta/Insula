@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/osmium_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:osmium_plant",
-  "plant_name": "Osmium",
-  "seed_name": "Osmium Seeds",
+  "plant_name": "Осмиевая культура",
+  "seed_name": "Семена осмия",
   "seed_items": [
     {
       "item": "mysticalagriculture:osmium_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Osmium Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

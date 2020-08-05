@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/radish_plant.json",
   "enabled": true,
   "id": "harvestcraft:radish_plant",
-  "plant_name": "Radish",
-  "seed_name": "Radish Seeds",
+  "plant_name": "Редис",
+  "seed_name": "Семена редиса",
   "seed_items": [
     {
       "item": "harvestcraft:radishseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Radish Seeds."
+    "default": "Редис - это однолетний овощ-корнеплод. Первое письменное воспоминание о редисе датируют третьим веком до нашей эры, хотя есть предположение, что этот корнеплод употребляли в пищу еще древние египтяне. Причем задолго до появления Великих пирамид."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

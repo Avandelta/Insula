@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/cabbage_plant.json",
   "enabled": true,
   "id": "harvestcraft:cabbage_plant",
-  "plant_name": "Cabbage",
-  "seed_name": "Cabbage Seeds",
+  "plant_name": "Капуста",
+  "seed_name": "Семена капусты",
   "seed_items": [
     {
       "item": "harvestcraft:cabbageseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Cabbage Seeds."
+    "default": "Капуста белокочанная является представителем семейства крестоцветные. Форма у нее круглая, стебель высокий, листья плотные, завернутые во внутрь. Эту огородную культуру выращивают в разных уголках планеты. Ее едят в любом виде: свежей, квашеной, тушеной, жареной, вареной. Хороший урожай капусты получают в странах с умеренно прохладным климатом."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

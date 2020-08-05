@@ -2,12 +2,12 @@
   "path": "mod_Botania/plants/botania_white_plant.json",
   "enabled": true,
   "id": "botania:white_flower_plant",
-  "plant_name": "Mystical White Flower",
-  "seed_name": "Mystical White Seeds",
+  "plant_name": "Мифический белый цветок",
+  "seed_name": "Семена мифического белого цветка",
   "seed_items": [],
   "description": {
     "translations": {},
-    "default": "A purely divine flower."
+    "default": "Цветок, излучающий некоторую магическую энергию при определенных обстоятельствах. Данный выделяет её древним неизвестным способом."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,

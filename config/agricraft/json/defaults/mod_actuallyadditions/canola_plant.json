@@ -2,8 +2,8 @@
   "path": "mod_actuallyadditions/canola_plant.json",
   "enabled": true,
   "id": "actuallyadditions:canola_plant",
-  "plant_name": "Canola",
-  "seed_name": "Canola Seeds",
+  "plant_name": "Рапс",
+  "seed_name": "Семена рапса",
   "seed_items": [
     {
       "item": "actuallyadditions:item_canola_seed",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Hola, canola! According to something called the internet, the term \u0027canola\u0027 is a contraction of \u0027Canada\u0027 and \u0027ola\u0027, meaning oil"
+    "default": "Рапс - вид травянистых растений рода Капуста семейства Капустные или Крестоцветные. Важная масличная культура; экономическое значение рапса к концу XX века существенно выросло в связи с тем, что он начал использоваться для получения биодизеля."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,

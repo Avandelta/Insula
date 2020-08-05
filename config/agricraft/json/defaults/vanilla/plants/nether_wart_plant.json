@@ -2,8 +2,8 @@
   "path": "vanilla/plants/nether_wart_plant.json",
   "enabled": true,
   "id": "vanilla:nether_wart_plant",
-  "plant_name": "Nether Wart",
-  "seed_name": "Nether Spores",
+  "plant_name": "Нарост из Нижнего мира",
+  "seed_name": "Споры нароста Нижнего мира",
   "seed_items": [
     {
       "item": "agricraft:agri_seed",
@@ -28,7 +28,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "An oddity from the nether, said to have somewhat mystical properties. The fungus appears to have a strong aptitude for heat, yet oddly cannot withstand the burning of the sun. Its fruit makes a covetable prize for the aspiring young brewer."
+    "default": "Нарост Нижнего мира - единственное растение Нижнего мира, предназначенное для декора помещения и изготовления препаратов. Имеет 4 стадии роста."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

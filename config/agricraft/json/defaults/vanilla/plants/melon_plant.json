@@ -2,8 +2,8 @@
   "path": "vanilla/plants/melon_plant.json",
   "enabled": true,
   "id": "vanilla:melon_plant",
-  "plant_name": "Melon",
-  "seed_name": "Melon Seeds",
+  "plant_name": "Арбуз",
+  "seed_name": "Семена арбуза",
   "seed_items": [
     {
       "item": "minecraft:melon_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Sweet \u0026 Juicy."
+    "default": "Арбуз – сочный сладкий десерт, всеми любимое лакомство. Он прекрасно утоляет жажду, притупляет чувство голода. Кроме того, имеет богатый состав и обладает рядом полезных свойств. Арбуз давно знаком человеку и по-прежнему не утратил признания и популярности."
   },
   "growth_chance": 0.65,
   "growth_bonus": 0.025,

@@ -2,12 +2,12 @@
   "path": "mod_Botania/plants/botania_light_gray_plant.json",
   "enabled": true,
   "id": "botania:light_gray_flower_plant",
-  "plant_name": "Mystical Light Gray Flower",
-  "seed_name": "Mystical Light Gray Seeds",
+  "plant_name": "Мифический светло-серый цветок",
+  "seed_name": "Семена мифического светло-серого цветка",
   "seed_items": [],
   "description": {
     "translations": {},
-    "default": "A beautiful flower, albiet even more non-descript than its cousin, the Mystical Gray Flower."
+    "default": "Цветок, излучающий некоторую магическую энергию при определенных обстоятельствах. Данный выделяет её неизвестным способом."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,

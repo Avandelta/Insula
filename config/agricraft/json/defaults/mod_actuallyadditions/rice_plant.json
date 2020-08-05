@@ -2,8 +2,8 @@
   "path": "mod_actuallyadditions/rice_plant.json",
   "enabled": true,
   "id": "actuallyadditions:rice_plant",
-  "plant_name": "Rice",
-  "seed_name": "Rice Seeds",
+  "plant_name": "Рис",
+  "seed_name": "Семена риса",
   "seed_items": [
     {
       "item": "actuallyadditions:item_rice_seed",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Rice, a grain that is a staple for many. While commonly associated with flooded rice paddies, rice does not have to grow in flooded plains, but often is."
+    "default": "Рис - род однолетних и многолетних травянистых растений семейства Злаки, крупяная культура. Очень требователен к условиям выращивания, может быть погублен заморозками. Рис очень любит влагу, и его побеги растут прямо из воды."
   },
   "growth_chance": 1.0,
   "growth_bonus": 0.025,

@@ -2,12 +2,12 @@
   "path": "vanilla/plants/orange_tulip_plant.json",
   "enabled": true,
   "id": "vanilla:orange_tulip_plant",
-  "plant_name": "Orange Tulip",
-  "seed_name": "Orange Tulip Seeds",
+  "plant_name": "Оранжевый тюльпан",
+  "seed_name": "Семена оранжевого тюльпана",
   "seed_items": [],
   "description": {
     "translations": {},
-    "default": "A rarity by any measure."
+    "default": "Тюльпан относится к роду луковичных многолетних растений и к семейству лилейные. Этот цветок пользуется огромной популярностью, и его с удовольствием растят как цветоводы на частных подворьях, так и специалисты в промышленных масштабах."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,

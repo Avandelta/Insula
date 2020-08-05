@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/conductive_iron_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:conductive_iron_plant",
-  "plant_name": "Conductive Iron Crop",
-  "seed_name": "Conductive Iron Seeds",
+  "plant_name": "Культура проводящего железа",
+  "seed_name": "Семена проводящего железа",
   "seed_items": [
     {
       "item": "mysticalagriculture:conductive_iron_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Conductive Iron Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

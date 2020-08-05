@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/celery_plant.json",
   "enabled": true,
   "id": "harvestcraft:celery_plant",
-  "plant_name": "Celery",
-  "seed_name": "Celery Seeds",
+  "plant_name": "Сельдерей",
+  "seed_name": "Семена сельдерея",
   "seed_items": [
     {
       "item": "harvestcraft:celeryseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Celery Seeds."
+    "default": "Травянистое растение сельдерей является представителем семейства Зонтичные. Такое растение люди начали культивировать очень давно, так, в Древней Греции сельдерей растили особым способом, а в пищу использовались только листовые черешки."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

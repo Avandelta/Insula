@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/cantaloupe_plant.json",
   "enabled": true,
   "id": "harvestcraft:cantaloupe_plant",
-  "plant_name": "Cantaloupe",
-  "seed_name": "Cantaloupe Seeds",
+  "plant_name": "Мускусная дыня",
+  "seed_name": "Семена мускусной дыни",
   "seed_items": [
     {
       "item": "harvestcraft:cantaloupeseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Cantaloupe Seeds."
+    "default": "Мускусная дыня, или канталупа, растет на внушительных мощных кустах с крупными темно-зелеными листьями. Свежие ростки формой похожи на клевер - это следует учитывать, проводя прополку грядок"
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

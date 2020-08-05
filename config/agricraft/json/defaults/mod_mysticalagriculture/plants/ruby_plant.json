@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/ruby_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:rubyr_plant",
-  "plant_name": "Ruby",
-  "seed_name": "Ruby Seeds",
+  "plant_name": "Рубиновая культура",
+  "seed_name": "Семена рубина",
   "seed_items": [
     {
       "item": "mysticalagriculture:ruby_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Ruby Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

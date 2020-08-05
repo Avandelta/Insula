@@ -2,12 +2,12 @@
   "path": "vanilla/plants/allium_plant.json",
   "enabled": true,
   "id": "vanilla:allium_plant",
-  "plant_name": "Allium",
-  "seed_name": "Allium Seeds",
+  "plant_name": "Лук-батун",
+  "seed_name": "Семена лука-батуна",
   "seed_items": [],
   "description": {
     "translations": {},
-    "default": "From the family of plants including the garlic, onion, and chive this plant produces a beautiful umbel consisting of many small purple blooms."
+    "default": "Лук батун – популярная многолетняя огородная культура семейства лилейных, которую легко развести. Зелень может использоваться в салатах и основных блюдах."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,

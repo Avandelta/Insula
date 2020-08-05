@@ -2,8 +2,8 @@
   "path": "vanilla/plants/sugarcane_plant.json",
   "enabled": true,
   "id": "vanilla:sugarcane_plant",
-  "plant_name": "Sugarcane",
-  "seed_name": "Sugarcane Seeds",
+  "plant_name": "Сахарный тростник",
+  "seed_name": "Семена сахарного тростника",
   "seed_items": [
     {
       "item": "agricraft:agri_seed",
@@ -27,11 +27,8 @@
     }
   ],
   "description": {
-    "translations": {
-      "en_US": "High in fructose, a healthy part of your daily breakfast.",
-      "es_ES": "Mucho azucar."
-    },
-    "default": "A good source of sugar."
+    "translations": {},
+    "default": "Сахарный тростник злаковое однолетнее растение, с многолетней историей возделывания. Это единственный источник производства сахара в Африке и некоторых странах Азии."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

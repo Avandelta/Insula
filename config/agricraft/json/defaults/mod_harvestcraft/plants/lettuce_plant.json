@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/lettuce_plant.json",
   "enabled": true,
   "id": "harvestcraft:lettuce_plant",
-  "plant_name": "Lettuce",
-  "seed_name": "Lettuce Seeds",
+  "plant_name": "Салат",
+  "seed_name": "Семена салата",
   "seed_items": [
     {
       "item": "harvestcraft:lettuceseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Lettuce Seeds."
+    "default": "Салат, латук - огородная однолетняя или двухлетняя культура из семейства Астровые, Сложноцветные. Зеленые листья салата едят в свежем виде, используют для украшения блюд, подают к супам, мясу и рыбе, острым заправкам."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/leek_plant.json",
   "enabled": true,
   "id": "harvestcraft:leek_plant",
-  "plant_name": "Leek",
-  "seed_name": "Leek Seeds",
+  "plant_name": "Лук-порей",
+  "seed_name": "Семена лука-порея",
   "seed_items": [
     {
       "item": "harvestcraft:leekseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Leek Seeds."
+    "default": "Травянистое растение лук-порей, еще именуемое жемчужным луком, является представителем рода Лук. Его родина - Передняя Азия, несколько позже он оказался на территории Средиземноморья, там и на сегодняшний день в природных условиях можно повстречать лук виноградный, который является исходной дикорастущей формой данного овоща."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/end_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:end_plant",
-  "plant_name": "End Crop",
-  "seed_name": "End Seeds",
+  "plant_name": "Культура Края",
+  "seed_name": "Семена Края",
   "seed_items": [
     {
       "item": "mysticalagriculture:end_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "End Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

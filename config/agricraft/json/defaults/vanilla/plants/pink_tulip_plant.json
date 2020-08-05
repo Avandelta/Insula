@@ -2,12 +2,12 @@
   "path": "vanilla/plants/pink_tulip_plant.json",
   "enabled": true,
   "id": "vanilla:pink_tulip_plant",
-  "plant_name": "Pink Tulip",
-  "seed_name": "Pink Tulip Seeds",
+  "plant_name": "Розовый тюльпан",
+  "seed_name": "Семена розового тюльпана",
   "seed_items": [],
   "description": {
     "translations": {},
-    "default": "A pink varient of the perrenial tulip plant. The plant is valued mostly for its distinctive blooms."
+    "default": "Тюльпан относится к роду луковичных многолетних растений и к семейству лилейные. Этот цветок пользуется огромной популярностью, и его с удовольствием растят как цветоводы на частных подворьях, так и специалисты в промышленных масштабах."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,

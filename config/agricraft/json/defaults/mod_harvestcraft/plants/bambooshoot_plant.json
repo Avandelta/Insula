@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/bambooshoot_plant.json",
   "enabled": true,
   "id": "harvestcraft:bambooshoot_plant",
-  "plant_name": "Bamboo Shoot",
-  "seed_name": "Bamboo Shoot Seeds",
+  "plant_name": "Побеги бамбука",
+  "seed_name": "Семена побегов бамбука",
   "seed_items": [
     {
       "item": "harvestcraft:bambooshootseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Bamboo Shoot Seeds."
+    "default": "Побеги бамбука - это молодые ростки одноименного растения. По внешнему виду они напоминают молодые гигантские початки кукурузы, выступающие из земли, только сизо-голубого цвета. Бамбук - это злак."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

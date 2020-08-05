@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/bellpepper_plant.json",
   "enabled": true,
   "id": "harvestcraft:bellpepper_plant",
-  "plant_name": "Bellpepper",
-  "seed_name": "Bellpepper Seeds",
+  "plant_name": "Сладкий перец",
+  "seed_name": "Семена сладкого перца",
   "seed_items": [
     {
       "item": "harvestcraft:bellpepperseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Bellpepper Seeds."
+    "default": "Сладкий перец - это растение из семейства пасленовых, к которому также принадлежат помидоры, баклажаны, картофель. И кстати, несмотря на то, что в обиходе все привыкли называть плоды перца овощами, на самом деле они таковыми не являются. Плоды сладкого перца с точки зрения ботаники – это фрукты."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

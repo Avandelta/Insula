@@ -2,8 +2,8 @@
   "path": "vanilla/plants/pumpkin_plant.json",
   "enabled": true,
   "id": "vanilla:pumpkin_plant",
-  "plant_name": "Pumpkin",
-  "seed_name": "Pumpkin Seeds",
+  "plant_name": "Тыква",
+  "seed_name": "Семена тыквы",
   "seed_items": [
     {
       "item": "minecraft:pumpkin_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "If I eat enough of these will I turn orange?"
+    "default": "Травянистое однолетнее растение тыква обыкновенная является представителем рода Тыква семейства Тыквенные. Это растение считается бахчевой культурой, родом оно из Мексики."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,

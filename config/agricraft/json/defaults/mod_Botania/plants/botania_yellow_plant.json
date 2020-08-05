@@ -2,12 +2,12 @@
   "path": "mod_Botania/plants/botania_yellow_plant.json",
   "enabled": true,
   "id": "botania:yellow_flower_plant",
-  "plant_name": "Mystical Yellow Flower",
-  "seed_name": "Mystical Yellow Seeds",
+  "plant_name": "Мифический жёлтый цветок",
+  "seed_name": "Семена мифического жёлтого цветка",
   "seed_items": [],
   "description": {
     "translations": {},
-    "default": "Almost as bad as ragweed."
+    "default": "Цветок, излучающий некоторую магическую энергию при определенных обстоятельствах. Данный выделяет её неизвестным способом."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,

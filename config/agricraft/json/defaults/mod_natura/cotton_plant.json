@@ -1,6 +1,6 @@
 {
   "path": "mod_natura/cotton_plant.json",
-  "enabled": true,
+  "enabled": false,
   "id": "natura:cotton_plant",
   "plant_name": "Cotton",
   "seed_name": "Cotton Seeds",

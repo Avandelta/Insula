@@ -2,12 +2,12 @@
   "path": "vanilla/plants/daisy_plant.json",
   "enabled": true,
   "id": "vanilla:daisy_plant",
-  "plant_name": "Daisy",
-  "seed_name": "Daisy Seeds",
+  "plant_name": "Ромашка",
+  "seed_name": "Семена ромашки",
   "seed_items": [],
   "description": {
     "translations": {},
-    "default": "A rarity by any measure."
+    "default": "Ромашка относится к роду цветковых травянистых многолетних растений, которые являются представителями семейства астровые либо сложноцветные. Этот род объединяет приблизительно 20 видов душистых трав, отличающихся не очень высоким ростом, которые начинают цвести в первый год жизни."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,

@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/okra_plant.json",
   "enabled": true,
   "id": "harvestcraft:okra_plant",
-  "plant_name": "Okra",
-  "seed_name": "Okra Seeds",
+  "plant_name": "Окра",
+  "seed_name": "Семена окры",
   "seed_items": [
     {
       "item": "harvestcraft:okraseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Okra Seeds."
+    "default": "Бамия - ценная овощная культура, относящаяся к семейству Мальвовых. Ничего не известно о родине этого растения, но она широко распространена в Африке, Северной Америке, Индии и тропиках."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

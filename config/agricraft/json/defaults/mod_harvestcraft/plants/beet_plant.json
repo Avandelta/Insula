@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/beet_plant.json",
   "enabled": true,
   "id": "harvestcraft:beet_plant",
-  "plant_name": "Beet",
-  "seed_name": "Beet Seeds",
+  "plant_name": "Свёкла",
+  "seed_name": "Семена свёклы",
   "seed_items": [
     {
       "item": "harvestcraft:beetseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Beet Seeds."
+    "default": "Свёкла - это овощная культура с древнейшей историей из семейства Амарантовых. Выращивали свёклу, родиной которой считают регион Средиземноморья, еще 4000 лет назад."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

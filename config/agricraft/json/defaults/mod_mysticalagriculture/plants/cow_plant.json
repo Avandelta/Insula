@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/cow_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:cow_plant",
-  "plant_name": "Cow Crop",
-  "seed_name": "Cow Seeds",
+  "plant_name": "Коровья культура",
+  "seed_name": "Семена коровы",
   "seed_items": [
     {
       "item": "mysticalagriculture:cow_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Cow Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

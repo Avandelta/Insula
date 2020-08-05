@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/tomato_plant.json",
   "enabled": true,
   "id": "harvestcraft:tomato_plant",
-  "plant_name": "Tomato",
-  "seed_name": "Tomato Seeds",
+  "plant_name": "Томат",
+  "seed_name": "Семена томата",
   "seed_items": [
     {
       "item": "harvestcraft:tomatoseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Tomato Seeds."
+    "default": "Томат - травянистое растение рода пасленовые, выращивается как овощная культура. Согласно кулинарной классификации, томат – овощ, а ботанической – ягода."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

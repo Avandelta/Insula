@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/raspberry_plant.json",
   "enabled": true,
   "id": "harvestcraft:raspberry_plant",
-  "plant_name": "Raspberry",
-  "seed_name": "Raspberry Seeds",
+  "plant_name": "Малина",
+  "seed_name": "Семена малина",
   "seed_items": [
     {
       "item": "harvestcraft:raspberryseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Raspberry Seeds."
+    "default": "Малина - является представителем рода рубус семейства розовые. Этот род объединяет около 600 видов.Большинство данных видов были известны уже в Древнем мире, так, первое упоминание о существовании дикой малины имеются в рукописях 3 в. до нашей эры."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

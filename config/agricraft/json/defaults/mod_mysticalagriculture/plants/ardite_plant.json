@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/ardite_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:ardite_plant",
-  "plant_name": "Ardite Crop",
-  "seed_name": "Ardite Seeds",
+  "plant_name": "Ардитовая культура",
+  "seed_name": "Семена ардита",
   "seed_items": [
     {
       "item": "mysticalagriculture:ardite_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Ardite Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

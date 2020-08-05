@@ -2,8 +2,8 @@
   "path": "vanilla/plants/red_mushroom_plant.json",
   "enabled": true,
   "id": "vanilla:red_mushroom_plant",
-  "plant_name": "Red Mushroom",
-  "seed_name": "Red Mushroom Spores",
+  "plant_name": "Мухомор",
+  "seed_name": "Споры мухомора",
   "seed_items": [
     {
       "item": "agricraft:agri_seed",
@@ -27,10 +27,8 @@
     }
   ],
   "description": {
-    "translations": {
-      "en_US": "Shrooms, ever so trippy."
-    },
-    "default": "Badger, badger, badger."
+    "translations": {},
+    "default": "Мухомор – ядовитый галлюциногенный гриб, который в микродозах обладает лечебными свойствами, а в больших количествах является смертельно опасным. Мухоморы распространены в лесах Европы, Азии, Северной Америки. Особенно много «волшебных грибов» в Сибири и на Британских островах."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

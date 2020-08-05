@@ -2,8 +2,8 @@
   "path": "vanilla/plants/potato_plant.json",
   "enabled": true,
   "id": "vanilla:potato_plant",
-  "plant_name": "Potato",
-  "seed_name": "Potato Seeds",
+  "plant_name": "Картофель",
+  "seed_name": "Семена картофеля",
   "seed_items": [
     {
       "item": "agricraft:agri_seed",
@@ -28,7 +28,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Po-ta-toes! Boil them, mash them, stick them in a stew."
+    "default": "Картофель, еще именуемый пасленом клубненосным, является видом клубненосных травянистых многолетних растений относящихся к роду Паслен семейства Пасленовые. В 1596 г. Каспар Баугин, который являлся швейцарским анатомом и ботаником, а также систематиком растительного мира, дал картофелю современное научное название."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

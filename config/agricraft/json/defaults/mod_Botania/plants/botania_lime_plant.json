@@ -2,12 +2,12 @@
   "path": "mod_Botania/plants/botania_lime_plant.json",
   "enabled": true,
   "id": "botania:lime_flower_plant",
-  "plant_name": "Mystical Lime Flower",
-  "seed_name": "Mystical Lime Seeds",
+  "plant_name": "Мифический лаймовый цветок",
+  "seed_name": "Семена мифического лаймового цветка",
   "seed_items": [],
   "description": {
     "translations": {},
-    "default": "I wonder if this flower would taste sour?"
+    "default": "Цветок, излучающий некоторую магическую энергию при определенных обстоятельствах. Данный выделяет её неизвестным способом."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,

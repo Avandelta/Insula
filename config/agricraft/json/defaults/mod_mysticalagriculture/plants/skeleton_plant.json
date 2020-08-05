@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/skeleton_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:skeleton_plant",
-  "plant_name": "Skeleton Crop",
-  "seed_name": "Skeleton Seeds",
+  "plant_name": "Культура скелета",
+  "seed_name": "Семена скелета",
   "seed_items": [
     {
       "item": "mysticalagriculture:skeleton_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Skeleton Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/parsnip_plant.json",
   "enabled": true,
   "id": "harvestcraft:parsnip_plant",
-  "plant_name": "Parsnip",
-  "seed_name": "Parsnip Seeds",
+  "plant_name": "Пастернак",
+  "seed_name": "Семена пастернака",
   "seed_items": [
     {
       "item": "harvestcraft:parsnipseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Parsnip Seeds."
+    "default": "Пастернак является видом рода Пастернак семейства Сельдерейные. Пастернак известен человеку с очень давних пор, при этом первые упоминания о нем были найдены в трудах Диоскорида и Плиния, которые датируются 1 веком до нашей эры."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

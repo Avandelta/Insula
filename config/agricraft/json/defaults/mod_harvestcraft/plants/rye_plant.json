@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/rye_plant.json",
   "enabled": true,
   "id": "harvestcraft:rye_plant",
-  "plant_name": "Rye",
-  "seed_name": "Rye Seeds",
+  "plant_name": "Рожь",
+  "seed_name": "Семена ржи",
   "seed_items": [
     {
       "item": "harvestcraft:ryeseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Rye Seeds."
+    "default": "Рожь - одна из злаковых культур, которые сыграли важную роль в развитии человечества. Как удалось выяснить историкам, впервые культивировать рожь начали в Азии еще более двух тысячелетий назад."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

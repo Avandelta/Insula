@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/tin_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:tin_plant",
-  "plant_name": "Tin Crop",
-  "seed_name": "Tin Seeds",
+  "plant_name": "Оловянная культура",
+  "seed_name": "Семена олова",
   "seed_items": [
     {
       "item": "mysticalagriculture:tin_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Tin Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

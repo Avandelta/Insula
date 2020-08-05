@@ -2,8 +2,8 @@
   "path": "mod_actuallyadditions/flax_plant.json",
   "enabled": true,
   "id": "actuallyadditions:flax_plant",
-  "plant_name": "Flax",
-  "seed_name": "Flax Seeds",
+  "plant_name": "Лён",
+  "seed_name": "Семена льна",
   "seed_items": [
     {
       "item": "actuallyadditions:item_flax_seed",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "The source of Linseed oil, as that makes total sense."
+    "default": "Лён - род травянистых растений семейства Льновые. Лён не косят, а выдёргивают с корнем — теребят. Раньше эту работу делали вручную, но сейчас для этого есть специальные машины. Стебли льна связывают в снопы, просушивают и обмолачивают, чтобы отделить семена."
   },
   "growth_chance": 1.0,
   "growth_bonus": 0.025,

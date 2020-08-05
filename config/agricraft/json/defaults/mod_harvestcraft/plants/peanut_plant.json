@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/peanut_plant.json",
   "enabled": true,
   "id": "harvestcraft:peanut_plant",
-  "plant_name": "Peanut",
-  "seed_name": "Peanut Seeds",
+  "plant_name": "Арахис",
+  "seed_name": "Семена арахиса",
   "seed_items": [
     {
       "item": "harvestcraft:peanutseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Peanut Seeds."
+    "default": "Арахис культурный - с научной точки зрения арахис является бобовой травой, а не орехом. Родом арахис с Южной Америки, там он был популярен уже тогда, когда материк еще не был открыт Колумбом."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

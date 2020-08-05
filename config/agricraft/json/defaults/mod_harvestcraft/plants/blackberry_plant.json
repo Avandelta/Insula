@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/blackberry_plant.json",
   "enabled": true,
   "id": "harvestcraft:blackberry_plant",
-  "plant_name": "Blackberry",
-  "seed_name": "Blackberry Seeds",
+  "plant_name": "Ежевика",
+  "seed_name": "Семена ежевики",
   "seed_items": [
     {
       "item": "harvestcraft:blackberryseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Blackberry Seeds."
+    "default": "Ежевика считается подродом рода рубус, который относится к семейству розовые. В средних широтах наиболее часто садоводы культивируют ежевику кустистую, ее еще очень часто именуют куманикой, а также ежевику сизую - на Украине называемую «ожина»."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

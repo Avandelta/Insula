@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/corn_plant.json",
   "enabled": true,
   "id": "harvestcraft:corn_plant",
-  "plant_name": "Corn",
-  "seed_name": "Corn Seeds",
+  "plant_name": "Кукуруза",
+  "seed_name": "Семена кукурузы",
   "seed_items": [
     {
       "item": "harvestcraft:cornseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Corn Seeds."
+    "default": "Растение кукуруза относится к роду злаковых, который объединяет 6 видов. Однако культивируется лишь один вид - однолетняя кукуруза сахарная, этот злак был самым первым, который начал выращивать человек."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/aluminum_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:aluminum_plant",
-  "plant_name": "Aluminum Crop",
-  "seed_name": "Aluminum Seeds",
+  "plant_name": "Алюминиевая культура",
+  "seed_name": "Семена алюминия",
   "seed_items": [
     {
       "item": "mysticalagriculture:aluminum_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Aluminum Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

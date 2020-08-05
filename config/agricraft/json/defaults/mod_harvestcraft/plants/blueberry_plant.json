@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/blueberry_plant.json",
   "enabled": true,
   "id": "harvestcraft:blueberry_plant",
-  "plant_name": "Blueberry",
-  "seed_name": "Blueberry Seeds",
+  "plant_name": "Голубика",
+  "seed_name": "Семена голубики",
   "seed_items": [
     {
       "item": "harvestcraft:blueberryseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Blueberry Seeds."
+    "default": "Голубика - кустарниковое растение, плоды которого имеют серовато-синий цвет. Раньше голубику считали опьяняющей и вредной ягодой. Причина тому – банальная невнимательность. Несформированные плоды голубики часто путают с багульником. Именно это растение обладает опьяняющим эффектом, провоцирует головную боль и тошноту."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

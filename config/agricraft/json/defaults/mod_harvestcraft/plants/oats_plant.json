@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/oats_plant.json",
   "enabled": true,
   "id": "harvestcraft:oats_plant",
-  "plant_name": "Oats",
-  "seed_name": "Oats Seeds",
+  "plant_name": "Овсянка",
+  "seed_name": "Семена овсянки",
   "seed_items": [
     {
       "item": "harvestcraft:oatsseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Oats Seeds."
+    "default": "Овсянка - это, попросту говоря, пропаренные и сплющенные зерна обычного овса. И хоть сегодня многие считают Геркулес современным блюдом, на самом деле этой каше уже более тысячи лет - первыми, кто ее приготовил, были древние греки. "
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

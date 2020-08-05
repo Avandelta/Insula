@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/cucumber_plant.json",
   "enabled": true,
   "id": "harvestcraft:cucumber_plant",
-  "plant_name": "Cucumber",
-  "seed_name": "Cucumber Seeds",
+  "plant_name": "Огурец",
+  "seed_name": "Семена огурца",
   "seed_items": [
     {
       "item": "harvestcraft:cucumberseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Cucumber Seeds."
+    "default": "Огурец обыкновенный является видом рода Огурец семейства Тыквенные. Родиной такого вида является Индия, на сегодняшний день эта культура до сих пор встречается в диком виде у подножия Гималаев. Упоминание об огурце имеется в Библии, он там именуется овощ Египта."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

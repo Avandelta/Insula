@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/onion_plant.json",
   "enabled": true,
   "id": "harvestcraft:onion_plant",
-  "plant_name": "Onion",
-  "seed_name": "Onion Seeds",
+  "plant_name": "Лук",
+  "seed_name": "Семена лука",
   "seed_items": [
     {
       "item": "harvestcraft:onionseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Onion Seeds."
+    "default": "Лук репчатый - многолетнее луковичное растение, высотой 60-100 см. Разные сорта лука репчатого отличаются прежде всего формой луковиц и окраской сухих чешуй, покрывающих их. Чаще всего луковицы бывают желтыми, но есть сорта с белыми и фиолетовыми луковицами."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

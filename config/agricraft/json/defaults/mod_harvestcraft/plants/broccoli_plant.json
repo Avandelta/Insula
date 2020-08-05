@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/broccoli_plant.json",
   "enabled": true,
   "id": "harvestcraft:broccoli_plant",
-  "plant_name": "Broccoli",
-  "seed_name": "Broccoli Seeds",
+  "plant_name": "Брокколи",
+  "seed_name": "Семена брокколи",
   "seed_items": [
     {
       "item": "harvestcraft:broccoliseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Broccoli Seeds."
+    "default": "Растение брокколи, которое еще именуется спаржевая капуста - является разновидностью хорошо всем известной огородной капусты. Данная овощная культура является однолетником и представителем семейства Капустные."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

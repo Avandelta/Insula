@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/brusselsprout_plant.json",
   "enabled": true,
   "id": "harvestcraft:brusselsprout_plant",
-  "plant_name": "Brussel Sprout",
-  "seed_name": "Brussel Sprout Seeds",
+  "plant_name": "Брюссельская капуста",
+  "seed_name": "Семена брюссельской капусты",
   "seed_items": [
     {
       "item": "harvestcraft:brusselsproutseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Brussel Sprout Seeds."
+    "default": "Брюссельская капуста представляет семейство крестоцветных. Ее ближайшие родственники – брокколи, цветная, романеско и другие виды капусты. Этот овощ внешне напоминает миниатюрную белокочанную капусту, диаметр которой не превышает 2-3 см. Брюссельская разновидность растет пучками."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

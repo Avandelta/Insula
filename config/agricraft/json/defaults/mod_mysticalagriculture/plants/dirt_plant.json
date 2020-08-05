@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/dirt_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:dirt_plant",
-  "plant_name": "Dirt Crop",
-  "seed_name": "Dirt Seeds",
+  "plant_name": "Земляная культура",
+  "seed_name": "Семена земли",
   "seed_items": [
     {
       "item": "mysticalagriculture:dirt_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Dirt Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

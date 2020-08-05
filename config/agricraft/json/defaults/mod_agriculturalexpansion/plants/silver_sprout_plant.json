@@ -1,6 +1,6 @@
 {
   "path": "mod_agriculturalexpansion/plants/silver_sprout_plant.json",
-  "enabled": true,
+  "enabled": false,
   "id": "agriculturalexpansion:silver_sprout_plant",
   "plant_name": "Silver Crop",
   "seed_name": "Silver Sprout",

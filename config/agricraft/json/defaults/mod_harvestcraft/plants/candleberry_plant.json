@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/candleberry_plant.json",
   "enabled": true,
   "id": "harvestcraft:candleberry_plant",
-  "plant_name": "Candleberry",
-  "seed_name": "Candleberry Seeds",
+  "plant_name": "Восковница",
+  "seed_name": "Семена восковницы",
   "seed_items": [
     {
       "item": "harvestcraft:candleberryseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Candleberry Seeds."
+    "default": "Восковница - двудомные кустарники или небольшие деревца с простыми, большей частью кожистыми, смолисто-точечными, ароматными листьями. Очень мелкие цветки в сережках, декоративного значения не имеют."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

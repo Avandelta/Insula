@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/turnip_plant.json",
   "enabled": true,
   "id": "harvestcraft:turnip_plant",
-  "plant_name": "Turnip",
-  "seed_name": "Turnip Seeds",
+  "plant_name": "Репа",
+  "seed_name": "Семена репы",
   "seed_items": [
     {
       "item": "harvestcraft:turnipseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Turnip Seeds."
+    "default": "Травянистое растение репа может быть однолетником и многолетником. Репу начали культивировать примерно 4 тысячи лет назад. Такой овощ в Древней Греции и в Древнем Египте считался основной пищей рабов и бедного населения, зато в Римской Империи из него готовили блюда все сословия."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

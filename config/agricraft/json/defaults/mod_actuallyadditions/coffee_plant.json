@@ -2,8 +2,8 @@
   "path": "mod_actuallyadditions/coffee_plant.json",
   "enabled": true,
   "id": "actuallyadditions:coffee_plant",
-  "plant_name": "Coffee",
-  "seed_name": "Coffee Seeds",
+  "plant_name": "Кофе",
+  "seed_name": "Семена кофе",
   "seed_items": [
     {
       "item": "actuallyadditions:item_coffee_seed",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Do I really need to describe this one to you?"
+    "default": "Кофейное дерево - род вечнозелёных растений. Все части растений содержат кофеин, служащий отпугивающим вредителей средством, однако некоторые виды содержат его достаточно много, а другие очень мало."
   },
   "growth_chance": 1.0,
   "growth_bonus": 0.025,

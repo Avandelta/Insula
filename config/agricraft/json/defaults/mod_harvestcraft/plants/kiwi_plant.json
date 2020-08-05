@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/kiwi_plant.json",
   "enabled": true,
   "id": "harvestcraft:kiwi_plant",
-  "plant_name": "Kiwi",
-  "seed_name": "Kiwi Seeds",
+  "plant_name": "Киви",
+  "seed_name": "Семена киви",
   "seed_items": [
     {
       "item": "harvestcraft:kiwiseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Kiwi Seeds."
+    "default": "Киви - травянистая лоза Актинидия китайская и ее плоды – ягоды с зеленой мякотью и коричневой опушенной мелкими волосками кожицей. История киви весьма необычна. Родиной лианы с названием михутао, которая стала прародительницей киви, является Китай."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

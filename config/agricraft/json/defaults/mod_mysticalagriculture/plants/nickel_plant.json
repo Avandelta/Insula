@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/nickel_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:nickel_plant",
-  "plant_name": "Nickel Crop",
-  "seed_name": "Nickel Seeds",
+  "plant_name": "Никелевая культура",
+  "seed_name": "Семена никеля",
   "seed_items": [
     {
       "item": "mysticalagriculture:nickel_seeds",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Nickel Seeds."
+    "default": "Культура, содержащая в себе материю, из которой наверняка можно сделать ресурс."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

@@ -2,8 +2,8 @@
   "path": "vanilla/plants/cactus_plant.json",
   "enabled": true,
   "id": "vanilla:cactus_plant",
-  "plant_name": "Cactus",
-  "seed_name": "Cactus Seeds",
+  "plant_name": "Кактус",
+  "seed_name": "Семена кактуса",
   "seed_items": [
     {
       "item": "agricraft:agri_seed",
@@ -28,7 +28,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "A very prickly plant."
+    "default": "Кактусы - одни из самых древних растений на планете. Родом они из Северной и Южной Америки. В зависимости от места обитания выделяют пустынные и тропические (лесные) кактусы."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

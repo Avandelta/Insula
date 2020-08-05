@@ -2,12 +2,12 @@
   "path": "vanilla/plants/dandelion_plant.json",
   "enabled": true,
   "id": "vanilla:dandelion_plant",
-  "plant_name": "Dandelion",
-  "seed_name": "Dandelion Seeds",
+  "plant_name": "Одуванчик",
+  "seed_name": "Семена одуванчика",
   "seed_items": [],
   "description": {
     "translations": {},
-    "default": "While colloquially considered a weed, this yellow-flowering plant is one of unspoken value. Having a deep-rooting taproot, the plant brings up nutrients from lower levels of soil, making it a good companion plant for shallow rooting plants."
+    "default": "Одуванчик — это уникальный природный барометр и часы. В послеобеденное время, в 15 часов, или во влажную погоду, перед дождём корзинки «барометра» прячутся, берегут пыльцу от влаги. В 6 утра и ясную погоду они снова открывают свои жёлтые головки."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,

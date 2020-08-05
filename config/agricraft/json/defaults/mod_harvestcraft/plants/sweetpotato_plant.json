@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/sweetpotato_plant.json",
   "enabled": true,
   "id": "harvestcraft:sweetpotato_plant",
-  "plant_name": "Sweet Potato",
-  "seed_name": "Sweet Potato Seeds",
+  "plant_name": "Сладкий картофель",
+  "seed_name": "Семена сладкого картофеля",
   "seed_items": [
     {
       "item": "harvestcraft:sweetpotatoseeditem",
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Sweet Potato Seeds."
+    "default": "Батат - травянистая лиана с длинными ползучими стеблями-плетями, укореняющимися в узлах. Существует два основных сорта батата: тот, что становится рассыпчатым при варке, и тот, что становится влажным и рыхлым обычно его неправильно называют ямсом."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
