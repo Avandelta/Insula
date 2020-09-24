@@ -1,18 +1,3 @@
-** **
-
-## Introduction
-
-**Insula** - is a modpack of ProjectSky (modded SkyBlock) genre for Minecraft 1.12.2. It's based on the process of transition from one stage of development to another, with the parallel discovery of new recipes, this mechanics is very similar to [SevTech](https://www.curseforge.com/minecraft/modpacks/sevtech-ages). But unlike the aforementioned, Insula combines magic, technology, survival and all sorts of different areas in one playthrough: where the player survives on one island and extracts resources as they progress, this assembly literally combines all areas of the game and genres of assemblies in one playthrough.
-
-There are 271 mods in total, the list of the main (core) modifications cannot be specified due to their huge number, except that the gameplay is based on the [Sky Resources](https://www.curseforge.com/minecraft/mc-mods/sky-resources) modification (and children).
-
-If you want to see full mods list, just  check folder with mods.
-
-## License
-
-This repository and modpack are licensed under [GNU General Public License v2.0](https://github.com/Avandelta/Fabrica/blob/master/LICENSE).
-
-```LICENSE
                     GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
@@ -352,5 +337,3 @@ proprietary programs.  If your program is a subroutine library, you may
 consider it more useful to permit linking proprietary applications with the
 library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.
-```
-
