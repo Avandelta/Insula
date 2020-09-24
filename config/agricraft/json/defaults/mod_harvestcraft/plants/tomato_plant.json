@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/tomato_plant.json",
   "enabled": true,
   "id": "harvestcraft:tomato_plant",
-  "plant_name": "Tomato",
-  "seed_name": "Tomato Seeds",
+  "plant_name": "Solanum lycopersicum",
+  "seed_name": "Solanum lycopersicum semina",
   "seed_items": [
     {
       "item": "harvestcraft:tomatoseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Tomato Seeds."
+    "translations": {
+      "en_us": "Tomato is a type of herbaceous annuals and perennials. Previously, the tomato was grown as an exotic plant, as its fruits were considered inedible for a long time. In 1692, in Naples, a recipe for a supposedly Spanish tomato dish was first included in a cookbook.",
+      "ru_ru": "Томат - вид травянистых однолетних и многолетних растений. Ранее томат выращивали в качестве экзотического растения, так как его плоды продолжительное время считались несъедобными. В 1692 году в Неаполе в поваренную книгу впервые попал рецепт якобы испанского блюда из томатов."
+    },
+    "default": "Tomato is a type of herbaceous annuals and perennials. Previously, the tomato was grown as an exotic plant, as its fruits were considered inedible for a long time. In 1692, in Naples, a recipe for a supposedly Spanish tomato dish was first included in a cookbook."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

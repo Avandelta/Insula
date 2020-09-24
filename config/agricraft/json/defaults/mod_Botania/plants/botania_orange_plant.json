@@ -2,12 +2,24 @@
   "path": "mod_Botania/plants/botania_orange_plant.json",
   "enabled": true,
   "id": "botania:orange_flower_plant",
-  "plant_name": "Mystical Orange Flower",
-  "seed_name": "Mystical Orange Seeds",
-  "seed_items": [],
+  "plant_name": "Fabulosa aurantiaco flos",
+  "seed_name": "Semina fabulosa aurantiaco flos",
+  "seed_items": [
+    {
+      "item": "botania:petal",
+      "meta": 1,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [],
+      "useOreDict": false
+    }
+  ],
   "description": {
-    "translations": {},
-    "default": "A beautiful flower with a firey disposition."
+    "translations": {
+      "en_us": "This type of plant is much older than others and has learned to absorb ancient energy, there is only one question, under what conditions you can start using this energy.",
+      "ru_ru": "Данный вид растений намного старше других и научился впитывать в себя древнюю энергию, остаётся лишь один вопрос, при каких условиях можно начать использовать эту энергию."
+    },
+    "default": "This type of plant is much older than others and has learned to absorb ancient energy, there is only one question, under what conditions you can start using this energy."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,

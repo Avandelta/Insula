@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/artichoke_plant.json",
   "enabled": true,
   "id": "harvestcraft:artichoke_plant",
-  "plant_name": "Artichoke",
-  "seed_name": "Artichoke Seeds",
+  "plant_name": "Cynara cardunculus",
+  "seed_name": "Cynara cardunculus semina",
   "seed_items": [
     {
       "item": "harvestcraft:artichokeseeditem",
@@ -17,9 +17,12 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Artichoke Seeds."
-  },
+    "translations": {
+      "en_us": "The artichoke is used in cooking only partly of its plant; only an unopened flower is used for food. In some continents, the artichoke is considered a malignant weed.",
+      "ru_ru": "Артишок используется в кулинарии лишь отчасти своего растения, в пищу употребляется лишь нераскрывшийся цветок. На некоторых континентнах артишок считается злостным сорняком."
+    },
+    "default": "The artichoke is used in cooking only partly of its plant; only an unopened flower is used for food. In some continents, the artichoke is considered a malignant weed."
+  },	
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
   "bonemeal": true,

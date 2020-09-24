@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/tea_plant.json",
   "enabled": true,
   "id": "harvestcraft:tea_plant",
-  "plant_name": "Tea",
-  "seed_name": "Tea Seeds",
+  "plant_name": "Camellia sinensis",
+  "seed_name": "Camellia sinensis semina",
   "seed_items": [
     {
       "item": "harvestcraft:teaseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Tea Seeds."
+    "translations": {
+      "en_us": "A tea bush is an evergreen shrub or a small tree up to 10 m high and more with spaced branches. Currently, tea grows in South America, Asia and even in Europe: England, Russia, the Caucasus and so on.",
+      "ru_ru": "Чайный куст - вечнозелёный кустарник или небольшое дерево высотой до 10 м и более с отстоящими ветвями. В настоящее время чай растёт в Южной Америке, Азии и даже в Европе: Англии, России, Кавказе и так далее."
+    },
+    "default": "A tea bush is an evergreen shrub or a small tree up to 10 m high and more with spaced branches. Currently, tea grows in South America, Asia and even in Europe: England, Russia, the Caucasus and so on."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

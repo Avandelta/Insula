@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/peanut_plant.json",
   "enabled": true,
   "id": "harvestcraft:peanut_plant",
-  "plant_name": "Peanut",
-  "seed_name": "Peanut Seeds",
+  "plant_name": "Arachis hypogaea",
+  "seed_name": "Arachis hypogaea semina",
   "seed_items": [
     {
       "item": "harvestcraft:peanutseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Peanut Seeds."
+    "translations": {
+      "en_us": "Peanuts are an extremely popular and demanded crop, also referred to as underground nuts. Scientifically, peanuts are legumes, not nuts. Peanuts are native to South America, where they were popular even when the mainland was not yet discovered by Columbus.",
+      "ru_ru": "Арахис - крайне популярная и востребованная культура, ещё именуемая подземным орехом. С научной точки зрения арахис является бобовой травой, а не орехом. Родом арахис с Южной Америки, там он был популярен уже тогда, когда материк еще не был открыт Колумбом."
+    },
+    "default": "Peanuts are an extremely popular and demanded crop, also referred to as underground nuts. Scientifically, peanuts are legumes, not nuts. Peanuts are native to South America, where they were popular even when the mainland was not yet discovered by Columbus."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

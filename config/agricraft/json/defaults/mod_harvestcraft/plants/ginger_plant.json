@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/ginger_plant.json",
   "enabled": true,
   "id": "harvestcraft:ginger_plant",
-  "plant_name": "Ginger",
-  "seed_name": "Ginger Seeds",
+  "plant_name": "Zingiber officinale",
+  "seed_name": "Zingiber officinale semina",
   "seed_items": [
     {
       "item": "harvestcraft:gingerseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Ginger Seeds."
+    "translations": {
+      "en_us": "Ginger is the root of the plant, its agricultural age is 5000 years. Ginger was used in ancient Greece and the Roman Empire. Merchants supplied ginger. At the same time, no one knows exactly where they got the spices.",
+      "ru_ru": "Имбирь – корень растения, его агрокультурный возраст равен 5000 лет. Имбирь использовали в Древней Греции и Римской империи. Имбирь поставляли купцы. При этом никто точно не знает, где они брали специи."
+    },
+    "default": "Ginger is the root of the plant, its agricultural age is 5000 years. Ginger was used in ancient Greece and the Roman Empire. Merchants supplied ginger. At the same time, no one knows exactly where they got the spices."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

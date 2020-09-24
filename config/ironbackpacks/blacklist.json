@@ -1,4 +1,9 @@
 {
-  "itemBlacklist": [],
+  "itemBlacklist": [
+    {
+      "item": "ironbackpacks:backpack",
+      "meta": 0
+    }
+  ],
   "nbtBlacklist": []
 }

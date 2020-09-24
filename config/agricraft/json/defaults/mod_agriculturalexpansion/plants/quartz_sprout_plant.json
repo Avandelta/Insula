@@ -1,6 +1,6 @@
 {
   "path": "mod_agriculturalexpansion/plants/quartz_sprout_plant.json",
-  "enabled": true,
+  "enabled": false,
   "id": "agriculturalexpansion:quartz_sprout_plant",
   "plant_name": "Quartz Crop",
   "seed_name": "Quartz Sprout",

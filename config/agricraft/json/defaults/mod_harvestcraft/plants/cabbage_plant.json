@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/cabbage_plant.json",
   "enabled": true,
   "id": "harvestcraft:cabbage_plant",
-  "plant_name": "Cabbage",
-  "seed_name": "Cabbage Seeds",
+  "plant_name": "Brassica",
+  "seed_name": "Brassica semina",
   "seed_items": [
     {
       "item": "harvestcraft:cabbageseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Cabbage Seeds."
+    "translations": {
+      "en_us": "The concept of cabbage includes turnips, radishes, rutabagas and even mustard. Cabbage as a vegetable crop was noticed 4000 years ago by Greeks, Egyptians, Romans.",
+      "ru_ru": "В понятие капусты входят репа, редька, брюква и даже горчица. Капуста как овощная культура была замечена 4000 лет назад греками, египтянами, римлянами."
+    },
+    "default": "The concept of cabbage includes turnips, radishes, rutabagas and even mustard. Cabbage as a vegetable crop was noticed 4000 years ago by Greeks, Egyptians, Romans."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

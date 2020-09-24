@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/radish_plant.json",
   "enabled": true,
   "id": "harvestcraft:radish_plant",
-  "plant_name": "Radish",
-  "seed_name": "Radish Seeds",
+  "plant_name": "Raphanus sativus",
+  "seed_name": "Raphanus sativus semina",
   "seed_items": [
     {
       "item": "harvestcraft:radishseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Radish Seeds."
+    "translations": {
+      "en_us": "Radish is the leader among all fast growing vegetable crops. The name is derived from the Latin word radix, which means root.",
+      "ru_ru": "Редис является лидером среди всех быстрорастущих овощных культур. Название образовано от латинского слова radix, что означает корень."
+    },
+    "default": "Radish is the leader among all fast growing vegetable crops. The name is derived from the Latin word radix, which means root."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

@@ -2,8 +2,8 @@
   "path": "mod_actuallyadditions/coffee_plant.json",
   "enabled": true,
   "id": "actuallyadditions:coffee_plant",
-  "plant_name": "Coffee",
-  "seed_name": "Coffee Seeds",
+  "plant_name": "Coffea",
+  "seed_name": "Coffea fabam",
   "seed_items": [
     {
       "item": "actuallyadditions:item_coffee_seed",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Do I really need to describe this one to you?"
+    "translations": {
+      "en_us": "The coffee beans are located inside the fruit of the coffee tree. Caffeine is a substance that is banned by the International Olympic Committee.",
+      "ru_ru": "Кофейные зёрна расположены внутри плодов кофейного дерева. Кофеин - это вещество, которое запрещено Международным Олимпийским Комитетом."
+    },
+    "default": "The coffee beans are located inside the fruit of the coffee tree. Caffeine is a substance that is banned by the International Olympic Committee."
   },
   "growth_chance": 1.0,
   "growth_bonus": 0.025,

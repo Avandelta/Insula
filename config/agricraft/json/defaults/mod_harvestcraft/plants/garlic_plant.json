@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/garlic_plant.json",
   "enabled": true,
   "id": "harvestcraft:garlic_plant",
-  "plant_name": "Garlic",
-  "seed_name": "Garlic Seeds",
+  "plant_name": "Allium sativum",
+  "seed_name": "Allium sativum semina",
   "seed_items": [
     {
       "item": "harvestcraft:garlicseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Garlic Seeds."
+    "translations": {
+      "en_us": "Garlic is a plant native to Central Asia and a relative of onions. Depending on the variety of garlic, its bulb can contain from 2 to 50 cloves.",
+      "ru_ru": "Чеснок - растение родом из Средней Азии и родственник лука. В зависимости от сорта чеснока в его луковице может быть от 2 до 50 зубчиков."
+    },
+    "default": "Garlic is a plant native to Central Asia and a relative of onions. Depending on the variety of garlic, its bulb can contain from 2 to 50 cloves."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

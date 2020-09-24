@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/candleberry_plant.json",
   "enabled": true,
   "id": "harvestcraft:candleberry_plant",
-  "plant_name": "Candleberry",
-  "seed_name": "Candleberry Seeds",
+  "plant_name": "Myrica gale",
+  "seed_name": "Myrica gale semina",
   "seed_items": [
     {
       "item": "harvestcraft:candleberryseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Candleberry Seeds."
+    "translations": {
+      "en_us": "Candleberry is a genus that combines shrubs from 1 meter to trees 20 meters tall. This plant is named after its plant wax, which was used to make candles.",
+      "ru_ru": "Восковница - род, объединяющий в себе кустарники от 1 метра до деревьев ростом 20 метров. Данное растение получило своё название в честь своего растительного воска, который использовался для создания свечей."
+    },
+    "default": "Candleberry is a genus that combines shrubs from 1 meter to trees 20 meters tall. This plant is named after its plant wax, which was used to make candles."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

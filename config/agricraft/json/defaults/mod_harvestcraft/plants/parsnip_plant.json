@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/parsnip_plant.json",
   "enabled": true,
   "id": "harvestcraft:parsnip_plant",
-  "plant_name": "Parsnip",
-  "seed_name": "Parsnip Seeds",
+  "plant_name": "Pastinaca sativa",
+  "seed_name": "Pastinaca sativa semina",
   "seed_items": [
     {
       "item": "harvestcraft:parsnipseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Parsnip Seeds."
+    "translations": {
+      "en_us": "Parsnip is a plant from the Mediterranean Celery family. The ancient Romans, as well as the Greeks, knew such a plant under the name of pastinaka, it was eaten and also used as a medicinal plant, and was also used as feed for livestock.",
+      "ru_ru": "Пастернак - растение из Средиземноморья семейства Сельдерейных. Древним римлянам, а также грекам такое растение было известно под названием пастинака, оно употреблялось в пищу, а также использовалось в качестве целебного растения, а еще применялось как корм скотине."
+    },
+    "default": "Parsnip is a plant from the Mediterranean Celery family. The ancient Romans, as well as the Greeks, knew such a plant under the name of pastinaka, it was eaten and also used as a medicinal plant, and was also used as feed for livestock."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

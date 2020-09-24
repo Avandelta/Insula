@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/rhubarb_plant.json",
   "enabled": true,
   "id": "harvestcraft:rhubarb_plant",
-  "plant_name": "Rhubarb",
-  "seed_name": "Rhubarb Seeds",
+  "plant_name": "Rheum",
+  "seed_name": "Rheum semina",
   "seed_items": [
     {
       "item": "harvestcraft:rhubarbseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Rhubarb Seeds."
+    "translations": {
+      "en_us": "Rhubarb has a rather confusing origin story. A mention of him was found in the writings of Pedanius Dioscorides, who lived in the 1st century AD.",
+      "ru_ru": "Ревень обладает достаточно запутанной историей происхождения. Упоминание о нем были обнаружены в трудах Педания Диоскорида, который жил в 1 веке нашей эры."
+    },
+    "default": "Rhubarb has a rather confusing origin story. A mention of him was found in the writings of Pedanius Dioscorides, who lived in the 1st century AD."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

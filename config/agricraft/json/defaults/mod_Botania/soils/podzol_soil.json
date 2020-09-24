@@ -2,7 +2,7 @@
   "path": "mod_Botania/soils/podzol_soil.json",
   "enabled": true,
   "id": "podzol_soil",
-  "name": "podzol",
+  "name": "Podzol",
   "varients": [
     {
       "item": "minecraft:dirt",

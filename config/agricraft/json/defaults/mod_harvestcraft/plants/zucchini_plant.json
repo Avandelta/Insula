@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/zucchini_plant.json",
   "enabled": true,
   "id": "harvestcraft:zucchini_plant",
-  "plant_name": "Zucchini",
-  "seed_name": "Zucchini Seeds",
+  "plant_name": "Cucurbita Zucchini",
+  "seed_name": "Cucurbita Zucchini semina",
   "seed_items": [
     {
       "item": "harvestcraft:zucchiniseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Zucchini Seeds."
+    "translations": {
+      "en_us": "Zucchini is a common variety of squash, native to Italy. The first description of a zucchini variety called zucchini comes from a work published in Milan in 1901. The word zucchini originated in the nineteenth century in the region of northern Italy.",
+      "ru_ru": "Цуккини - распространённая разновидность кабачка обыкновенного, родом из Италии. Первое описание сорта кабачка под названием цуккини происходит в работе, опубликованной в Милане в 1901. Слово цуккини возникло в девятнадцатом веке в районе Северной Италии."
+    },
+    "default": "Zucchini is a common variety of squash, native to Italy. The first description of a zucchini variety called zucchini comes from a work published in Milan in 1901. The word zucchini originated in the nineteenth century in the region of northern Italy."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/raspberry_plant.json",
   "enabled": true,
   "id": "harvestcraft:raspberry_plant",
-  "plant_name": "Raspberry",
-  "seed_name": "Raspberry Seeds",
+  "plant_name": "Rubus idaeus",
+  "seed_name": "Rubus idaeus semina",
   "seed_items": [
     {
       "item": "harvestcraft:raspberryseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Raspberry Seeds."
+    "translations": {
+      "en_us": "Raspberry is a semi-shrub and is a representative of the rubus genus. Most of these species were already known in the Ancient World, so the first mention of the existence of wild raspberries is in the manuscripts of the 3rd century BC.",
+      "ru_ru": "Малина - полукустарник и является представителем рода рубус. Большинство данных видов были известны уже в Древнем мире, так, первое упоминание о существовании дикой малины имеются в рукописях 3 веке до нашей эры."
+    },
+    "default": "Raspberry is a semi-shrub and is a representative of the rubus genus. Most of these species were already known in the Ancient World, so the first mention of the existence of wild raspberries is in the manuscripts of the 3rd century BC."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

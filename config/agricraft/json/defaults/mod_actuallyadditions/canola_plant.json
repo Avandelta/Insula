@@ -2,8 +2,8 @@
   "path": "mod_actuallyadditions/canola_plant.json",
   "enabled": true,
   "id": "actuallyadditions:canola_plant",
-  "plant_name": "Canola",
-  "seed_name": "Canola Seeds",
+  "plant_name": "Brassica napus",
+  "seed_name": "Brassica napus semina",
   "seed_items": [
     {
       "item": "actuallyadditions:item_canola_seed",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Hola, canola! According to something called the internet, the term \u0027canola\u0027 is a contraction of \u0027Canada\u0027 and \u0027ola\u0027, meaning oil"
+    "translations": {
+      "en_us": "Canola is a Canadian rapeseed variety. Canola acreage in Canada is steadily increasing due to the strong demand for biofuels.",
+      "ru_ru": "Канола - канадский сорт рапса и сурепицы. Площади под канолой в Канаде неуклонно увеличиваются, что обусловлено высоким спросом на биотопливо."
+    },
+    "default": "Canola is a Canadian rapeseed variety. Canola acreage in Canada is steadily increasing due to the strong demand for biofuels."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,

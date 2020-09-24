@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/asparagus_plant.json",
   "enabled": true,
   "id": "harvestcraft:asparagus_plant",
-  "plant_name": "Asparagus",
-  "seed_name": "Asparagus Seeds",
+  "plant_name": "Asparagus officinalis",
+  "seed_name": "Asparagus officinalis semina",
   "seed_items": [
     {
       "item": "harvestcraft:asparagusseeditem",
@@ -17,9 +17,12 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Asparagus Seeds."
-  },
+    "translations": {
+      "en_us": "Asparagus is a genus that unites more than 200 species: mostly semi-shrubs. Of this genus, only a few species of asparagus are edible.",
+      "ru_ru": "Спаржа - род, обьединяющий больше 200 видов: в большинстве своём полу-кустарники. Из данного рода лишь несколько видов спаржи, или аспарагуса, являются съедобными."
+    },
+    "default": "Asparagus is a genus that unites more than 200 species: mostly semi-shrubs. Of this genus, only a few species of asparagus are edible."
+  },	
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
   "bonemeal": true,

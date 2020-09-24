@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/onion_plant.json",
   "enabled": true,
   "id": "harvestcraft:onion_plant",
-  "plant_name": "Onion",
-  "seed_name": "Onion Seeds",
+  "plant_name": "Allium cepa",
+  "seed_name": "Allium cepa semina",
   "seed_items": [
     {
       "item": "harvestcraft:onionseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Onion Seeds."
+    "translations": {
+      "en_us": "Onions are one of the most popular plants from the Allium family. It is used in medicine, cooking, science and beekeeping.",
+      "ru_ru": "Лук репчатый - одно из самых популярных растений из семейства Луковых. Используется в медицине, кулинарии, науке и в пчеловодстве."
+    },
+    "default": "Onions are one of the most popular plants from the Allium family. It is used in medicine, cooking, science and beekeeping."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

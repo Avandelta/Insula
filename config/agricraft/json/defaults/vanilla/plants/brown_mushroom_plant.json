@@ -2,8 +2,8 @@
   "path": "vanilla/plants/brown_mushroom_plant.json",
   "enabled": true,
   "id": "vanilla:brown_mushroom_plant",
-  "plant_name": "Brown Mushroom",
-  "seed_name": "Brown Mushroom Spores",
+  "plant_name": "Boletus badius",
+  "seed_name": "Boletus badius sporis",
   "seed_items": [
     {
       "item": "agricraft:agri_seed",
@@ -27,8 +27,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "A simple decomposer."
+    "translations": {
+      "en_us": "The Polish mushroom, or brown mushroom, is a type of mushroom that, in various classification systems, belongs to the genera Borovik or Mokhovik. Widespread, in places common in the northern temperate zone.",
+      "ru_ru": "Польский гриб, или коричневый гриб - вид грибов, в различных системах классификации относимый к родам Боровик или Моховик. Распространённый, местами обычный вид в северной умеренной зоне."
+    },
+    "default": "The Polish mushroom, or brown mushroom, is a type of mushroom that, in various classification systems, belongs to the genera Borovik or Mokhovik. Widespread, in places common in the northern temperate zone."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

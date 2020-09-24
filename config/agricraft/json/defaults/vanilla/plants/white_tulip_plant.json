@@ -2,12 +2,15 @@
   "path": "vanilla/plants/white_tulip_plant.json",
   "enabled": true,
   "id": "vanilla:white_tulip_plant",
-  "plant_name": "White Tulip",
-  "seed_name": "White Tulip Seeds",
+  "plant_name": "Alba Tulipa",
+  "seed_name": "Alba Tulipa semina",
   "seed_items": [],
   "description": {
-    "translations": {},
-    "default": "A snow-white varient of the perrenial tulip plant. The plant is valued mostly for its distinctive blooms."
+    "translations": {
+      "en_us": "The tulip is one of the most popular industrial flowers. In the 17th century, the tulip caused the European economic crisis. A tulip can be of any color from the light spectrum, including black.",
+      "ru_ru": "Тюльпан - один из самых популярных промышленных цветков. В 17 веке тюльпан стал причиной европейского экономического кризиса. Тюльпан может иметь любой цвет из светового спектра, включая чёрный."
+    },
+    "default": "The tulip is one of the most popular industrial flowers. In the 17th century, the tulip caused the European economic crisis. A tulip can be of any color from the light spectrum, including black."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,

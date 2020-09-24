@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/seaweed_plant.json",
   "enabled": true,
   "id": "harvestcraft:seaweed_plant",
-  "plant_name": "Seaweed",
-  "seed_name": "Seaweed Seeds",
+  "plant_name": "Algae",
+  "seed_name": "Algae semina",
   "seed_items": [
     {
       "item": "harvestcraft:seaweedseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Seaweed Seeds."
+    "translations": {
+      "en_us": "Algae is the oldest form of life that has survived several eras of life on Earth and even once destroyed all other living creatures. In the modern world, algae are used in biogeocenosis, in food, as an element of water purification, in medicines, in the chemical industry, as biofuel and in science.",
+      "ru_ru": "Водоросли - древнейшая форма жизни, пережившая несколько эр жизни на Земле и даже однажды уничтожившая всю остальную живность. В современном мире водоросли используются в биогеоценозе, в пищу, как элемент водоочистки, в лекарствах, в химической промышленности, как биотопливо и в науке."
+    },
+    "default": "Algae is the oldest form of life that has survived several eras of life on Earth and even once destroyed all other living creatures. In the modern world, algae are used in biogeocenosis, in food, as an element of water purification, in medicines, in the chemical industry, as biofuel and in science."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

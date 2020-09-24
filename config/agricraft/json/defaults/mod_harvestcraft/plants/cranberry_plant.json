@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Cranberry Seeds."
+    "translations": {
+      "en_us": "Cranberries are a shrub that grows only in the Northern Hemisphere of the Earth. In 1994, cranberries were named the official berry of Massachusetts (USA), and some bushes have beaks over 100 years old.",
+      "ru_ru": "Клюква - кустарник, растущий только в Северном полушарии Земли. 1994 году клюкву назвали официальной ягодой штата Массачусетс (США), а некоторым кустам клювы более 100 лет."
+    },
+    "default": "Cranberries are a shrub that grows only in the Northern Hemisphere of the Earth. In 1994, cranberries were named the official berry of Massachusetts (USA), and some bushes have beaks over 100 years old."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

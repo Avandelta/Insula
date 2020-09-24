@@ -2,8 +2,8 @@
   "path": "vanilla/plants/beet_root_plant.json",
   "enabled": true,
   "id": "vanilla:beet_root_plant",
-  "plant_name": "Beets",
-  "seed_name": "Beet Seeds",
+  "plant_name": "Beta vulgaris",
+  "seed_name": "Beta vulgaris semina",
   "seed_items": [
     {
       "item": "minecraft:beetroot_seeds",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Beet. It\u0027s what\u0027s for dinner."
+    "translations": {
+      "en_us": "Initially, only leaves were used for food from beets, root crops were intended for medicinal purposes. In ancient Greece, beets were used as a sacrifice to Apollo.",
+      "ru_ru": "Первоначально в пищу от свеклы использовали лишь листья, корнеплоды предназначались в лекарственных целях. В Древней Греции свёкла использовалась в жертву Апполону."
+    },
+    "default": "Initially, only leaves were used for food from beets, root crops were intended for medicinal purposes. In ancient Greece, beets were used as a sacrifice to Apollo."
   },
   "growth_chance": 1.0,
   "growth_bonus": 0.025,

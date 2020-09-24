@@ -2,8 +2,8 @@
   "path": "vanilla/plants/red_mushroom_plant.json",
   "enabled": true,
   "id": "vanilla:red_mushroom_plant",
-  "plant_name": "Red Mushroom",
-  "seed_name": "Red Mushroom Spores",
+  "plant_name": "Amanita",
+  "seed_name": "Amanita sporis",
   "seed_items": [
     {
       "item": "agricraft:agri_seed",
@@ -28,9 +28,10 @@
   ],
   "description": {
     "translations": {
-      "en_US": "Shrooms, ever so trippy."
+      "en_us": "Some types of fly agarics are edible: but most of them are poisonous and contain hallucinogens. Siberian shamans use this tincture for spiritualistic purposes.",
+      "ru_ru": "Некоторые виды мухоморов сьедобны: но в большинстве своём ядовиты и содержат галлюциногены. Сибирские шаманы используют такую настойку для спиритических целей."
     },
-    "default": "Badger, badger, badger."
+    "default": "Some types of fly agarics are edible: but most of them are poisonous and contain hallucinogens. Siberian shamans use this tincture for spiritualistic purposes."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

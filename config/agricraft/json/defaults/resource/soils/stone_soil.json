@@ -1,6 +1,6 @@
 {
   "path": "resource/soils/stone_soil.json",
-  "enabled": true,
+  "enabled": false,
   "id": "stone_soil",
   "name": "Stone",
   "varients": [

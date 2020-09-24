@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/bellpepper_plant.json",
   "enabled": true,
   "id": "harvestcraft:bellpepper_plant",
-  "plant_name": "Bellpepper",
-  "seed_name": "Bellpepper Seeds",
+  "plant_name": "Campana piperis",
+  "seed_name": "Campana piperis semina",
   "seed_items": [
     {
       "item": "harvestcraft:bellpepperseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Bellpepper Seeds."
+    "translations": {
+      "en_us": "In some US states, green bell peppers are sometimes called mangoes. Bell peppers are a botanical fruit.",
+      "ru_ru": "В некоторых штатах США зелёные болгарские перцы иногда называют манго. Болгарские перцы - это фрукты с ботанической точки зрения."
+    },
+    "default": "In some US states, green bell peppers are sometimes called mangoes. Bell peppers are a botanical fruit."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

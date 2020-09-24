@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/brusselsprout_plant.json",
   "enabled": true,
   "id": "harvestcraft:brusselsprout_plant",
-  "plant_name": "Brussel Sprout",
-  "seed_name": "Brussel Sprout Seeds",
+  "plant_name": "Brussel pullulant",
+  "seed_name": "Brussel pullulant semina",
   "seed_items": [
     {
       "item": "harvestcraft:brusselsproutseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Brussel Sprout Seeds."
+    "translations": {
+      "en_us": "In the wild, Brussels sprouts do not exist: they are artificially bred. In honor of the capital, this culture of Brussels sprouts was named by Carl Linnaeus, a Swedish naturalist.",
+      "ru_ru": "В диком виде брюссельской капусты не существует: она выведена искуственно. В честь столицы эту культуру брюссельской капустой назвал Карл Линней – шведский естествоиспытатель."
+    },
+    "default": "In the wild, Brussels sprouts do not exist: they are artificially bred. In honor of the capital, this culture of Brussels sprouts was named by Carl Linnaeus, a Swedish naturalist."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

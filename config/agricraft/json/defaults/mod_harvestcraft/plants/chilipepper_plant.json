@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/chilipepper_plant.json",
   "enabled": true,
   "id": "harvestcraft:chilipepper_plant",
-  "plant_name": "Chili Pepper",
-  "seed_name": "Chili Pepper Seeds",
+  "plant_name": "Chilli piperis",
+  "seed_name": "Chilli piperis semina",
   "seed_items": [
     {
       "item": "harvestcraft:chilipepperseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Chili Pepper Seeds."
+    "translations": {
+      "en_us": "Chili peppers are approximately 5,000 years old and have been used as a toothache remedy, a means of payment, and as a seasoning. Chili pepper is the oldest condiment in the world. At the same time, it is one of the most common and is second only to salt in demand.",
+      "ru_ru": "Перцу чили примерно 5000 лет, за это время он использовался как средство от зубной боли, средство платежа и как приправа. Перец чили – самая старая приправа в мире. Одновременно с этим она одна из наиболее распространенных и уступает по востребованности только соли."
+    },
+    "default": "Chili peppers are approximately 5,000 years old and have been used as a toothache remedy, a means of payment, and as a seasoning. Chili pepper is the oldest condiment in the world. At the same time, it is one of the most common and is second only to salt in demand."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

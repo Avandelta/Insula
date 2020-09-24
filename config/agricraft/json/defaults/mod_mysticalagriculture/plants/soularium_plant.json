@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/soularium_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:soularium_plant",
-  "plant_name": "Soularium Crop",
-  "seed_name": "Soularium Seeds",
+  "plant_name": "Planta soularium",
+  "seed_name": "Semina soularium",
   "seed_items": [
     {
       "item": "mysticalagriculture:soularium_seeds",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Soularium Seeds."
+    "translations": {
+      "en_us": "This type of plant grows from special seeds containing elementary matter, while the fruit of such a shrub is a special form of essence that allows you to create resources from it.",
+      "ru_ru": "Данный вид растений произрастает из особых семян, содержащих в себе элементарную материю, плодом же такого кустарника является особой формы эссенция, которая позволяет создавать ресурсы из неё."
+    },
+    "default": "This type of plant grows from special seeds containing elementary matter, while the fruit of such a shrub is a special form of essence that allows you to create resources from it."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

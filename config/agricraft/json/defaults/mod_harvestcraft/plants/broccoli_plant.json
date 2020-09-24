@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/broccoli_plant.json",
   "enabled": true,
   "id": "harvestcraft:broccoli_plant",
-  "plant_name": "Broccoli",
-  "seed_name": "Broccoli Seeds",
+  "plant_name": "Algentem",
+  "seed_name": "Algentem semina",
   "seed_items": [
     {
       "item": "harvestcraft:broccoliseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Broccoli Seeds."
+    "translations": {
+      "en_us": "Broccoli is the genetic precursor to cauliflower called asparagus. Broccoli is a hybrid that originated in the Mediterranean.",
+      "ru_ru": "Брокколи - генетическая предшественница цветной капусты, именуемая спаржевой капустой. Брокколи является гибридом, которую вывели в Средиземноморье."
+    },
+    "default": "Broccoli is the genetic precursor to cauliflower called asparagus. Broccoli is a hybrid that originated in the Mediterranean."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

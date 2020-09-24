@@ -2,12 +2,15 @@
   "path": "vanilla/plants/poppy_plant.json",
   "enabled": true,
   "id": "vanilla:poppy_plant",
-  "plant_name": "Poppy",
-  "seed_name": "Poppy Seeds",
+  "plant_name": "Papaver",
+  "seed_name": "Papaver semina",
   "seed_items": [],
   "description": {
-    "translations": {},
-    "default": "Producing colorful blooms, this plant has gained a reputation for certain medicinal uses. A better use, perhaps, this plant produces seeds that go well with baked goods, particularly for lemon-flavored ones."
+    "translations": {
+      "en_us": "Poppy: a plant that is the progenitor of the drug opium, used in pain relievers and sleeping pills, but also as a narcotic. Poppy cultivation is prohibited in a number of countries.",
+      "ru_ru": "Мак: растение, которое является прародителем наркотика опиума, использующееся в болеутоляющих и снотворных, но и как наркотическое средство. Культивирование мака запрещено в ряде стран."
+    },
+    "default": "Poppy: a plant that is the progenitor of the drug opium, used in pain relievers and sleeping pills, but also as a narcotic. Poppy cultivation is prohibited in a number of countries."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,

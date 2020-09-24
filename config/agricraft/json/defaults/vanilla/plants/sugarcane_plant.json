@@ -2,8 +2,8 @@
   "path": "vanilla/plants/sugarcane_plant.json",
   "enabled": true,
   "id": "vanilla:sugarcane_plant",
-  "plant_name": "Sugarcane",
-  "seed_name": "Sugarcane Seeds",
+  "plant_name": "Saccharum officinarum",
+  "seed_name": "Saccharum officinarum semina",
   "seed_items": [
     {
       "item": "agricraft:agri_seed",
@@ -28,10 +28,10 @@
   ],
   "description": {
     "translations": {
-      "en_US": "High in fructose, a healthy part of your daily breakfast.",
-      "es_ES": "Mucho azucar."
+      "en_us": "Sugar cane is a perennial herb: in South America, some canes stretch over the mountains up to 3000 meters above sea level.",
+      "ru_ru": "Сахарный тростник - многолетняя трава: в Южной Америке некоторые тростники простираются по горам на высоту до 3000 метров над уровнем моря."
     },
-    "default": "A good source of sugar."
+    "default": "Sugar cane is a perennial herb: in South America, some canes stretch over the mountains up to 3000 meters above sea level."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

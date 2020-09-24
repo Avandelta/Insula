@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/soybean_plant.json",
   "enabled": true,
   "id": "harvestcraft:soybean_plant",
-  "plant_name": "Soybean",
-  "seed_name": "Soybean Seeds",
+  "plant_name": "Glycine max",
+  "seed_name": "Glycine max semina",
   "seed_items": [
     {
       "item": "harvestcraft:soybeanseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Soybean Seeds."
+    "translations": {
+      "en_us": "Soybeans are the most common among pulses and oilseeds. It serves as a raw material for a wide range of food products, and its high content of protein and valuable food components allows it to be used as an inexpensive and healthy substitute for meat and dairy products.",
+      "ru_ru": "Соя - самая распространенная среди зер­но­бо­бо­вых и мас­лич­ных куль­тур. Она служит сырьем для широкого спектра пищевых продуктов, а высокое содержание белка и ценных пищевых компонентов позволяет использовать ее в качестве недорогого и полезного заменителя мяса и молочных продуктов."
+    },
+    "default": "Soybeans are the most common among pulses and oilseeds. It serves as a raw material for a wide range of food products, and its high content of protein and valuable food components allows it to be used as an inexpensive and healthy substitute for meat and dairy products."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

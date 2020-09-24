@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/peas_plant.json",
   "enabled": true,
   "id": "harvestcraft:peas_plant",
-  "plant_name": "Peas",
-  "seed_name": "Peas Seeds",
+  "plant_name": "Pisum",
+  "seed_name": "Pisum semina",
   "seed_items": [
     {
       "item": "harvestcraft:peasseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Peas Seeds."
+    "translations": {
+      "en_us": "Peas are a herbaceous plant from the legume family. This culture is entrenched in history as the founder of the theory of inheritance, as well as a derivative of bioplastic.",
+      "ru_ru": "Горох - травянистое растение из семейства Бобовых. Данная культура в истории закрепилась как основательница теории наследования, а также как производная биопластмассы."
+    },
+    "default": "Peas are a herbaceous plant from the legume family. This culture is entrenched in history as the founder of the theory of inheritance, as well as a derivative of bioplastic."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

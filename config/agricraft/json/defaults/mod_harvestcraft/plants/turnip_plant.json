@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/turnip_plant.json",
   "enabled": true,
   "id": "harvestcraft:turnip_plant",
-  "plant_name": "Turnip",
-  "seed_name": "Turnip Seeds",
+  "plant_name": "Brassica rapa",
+  "seed_name": "Brassica rapa",
   "seed_items": [
     {
       "item": "harvestcraft:turnipseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Turnip Seeds."
+    "translations": {
+      "en_us": "Turnip is an annual or biennial plant, a species of the Cabbage genus. This is one of the oldest cultivated plants. Turnip was introduced into the culture about 40 centuries ago. The ancient Egyptians and Greeks cultivated turnips extensively, but considered it food for slaves and the poorest peasants. In ancient Rome, baked turnips were already used by representatives of all classes.",
+      "ru_ru": "Репа - однолетнее или двулетнее растение, вид рода Капусты. Это одно из древнейших культурных растений. Репа была введена в культуру около 40 веков назад. Древние египтяне и греки широко возделывали репу, но считали её пищей рабов и беднейших крестьян. В Древнем Риме печёную репу употребляли уже представители всех сословий."
+    },
+    "default": "Turnip is an annual or biennial plant, a species of the Cabbage genus. This is one of the oldest cultivated plants. Turnip was introduced into the culture about 40 centuries ago. The ancient Egyptians and Greeks cultivated turnips extensively, but considered it food for slaves and the poorest peasants. In ancient Rome, baked turnips were already used by representatives of all classes."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/rice_plant.json",
   "enabled": true,
   "id": "harvestcraft:rice_plant",
-  "plant_name": "Rice",
-  "seed_name": "Rice Seeds",
+  "plant_name": "Oryza",
+  "seed_name": "Oryza semina",
   "seed_items": [
     {
       "item": "harvestcraft:riceseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Rice Seeds."
+    "translations": {
+      "en_us": "Rice is a cereal: a cereal crop. Interesting fact: in Russia until the 20th century, rice was called Saracen wheat. Rice can be white, purple, yellow or red.",
+      "ru_ru": "Рис - это злак: крупяная культура. Интересный факт: в России до 20 века рис называли сарацинской пшеницей. Рис может быть белым, фиолетовым, жёлтым или красным."
+    },
+    "default": "Rice is a cereal: a cereal crop. Interesting fact: in Russia until the 20th century, rice was called Saracen wheat. Rice can be white, purple, yellow or red."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

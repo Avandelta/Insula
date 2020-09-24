@@ -2,8 +2,8 @@
   "path": "vanilla/plants/carrot_plant.json",
   "enabled": true,
   "id": "vanilla:carrot_plant",
-  "plant_name": "Carrot",
-  "seed_name": "Carrot Seeds",
+  "plant_name": "Daucus",
+  "seed_name": "Daucus semina",
   "seed_items": [
     {
       "item": "agricraft:agri_seed",
@@ -27,8 +27,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Rabbit attractant."
+    "translations": {
+      "en_us": "Carrots are a representative of the Umbrella family. At first, carrots were grown for seeds and scented foliage, not as a root vegetable. Carrots come in yellow, orange, red and purple colors.",
+      "ru_ru": "Морковь - представитель семейства Зонтичные. Поначалу морковку растили для получения семян и душистой листвы, а не в качестве корнеплода. Морковь бывает жёлтого, апельсинового, красного и фиолетового цветов."
+    },
+    "default": "Carrots are a representative of the Umbrella family. At first, carrots were grown for seeds and scented foliage, not as a root vegetable. Carrots come in yellow, orange, red and purple colors."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

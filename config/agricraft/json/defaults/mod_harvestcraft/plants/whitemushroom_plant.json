@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/whitemushroom_plant.json",
   "enabled": true,
   "id": "harvestcraft:whitemushroom_plant",
-  "plant_name": "White Mushroom",
-  "seed_name": "White Mushroom Seeds",
+  "plant_name": "Boletus edulis",
+  "seed_name": "Boletus edulis semina",
   "seed_items": [
     {
       "item": "harvestcraft:whitemushroomseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "White Mushroom Seeds."
+    "translations": {
+      "en_us": "The white mushroom in different cultures and peoples has as many names as there are stars in the sky. The explanation of many names is difficult, and in those places where the mentioned species does not occur, other mushrooms are called under the name of the white mushroom.",
+      "ru_ru": "Белый гриб в разных культурах и народах имеет столько же названий сколько звёзд на небе. Объяснение многих названий затруднено, а в тех местах, где упомянутый вид не встречается - под названием белого гриба называют другие грибы."
+    },
+    "default": "The white mushroom in different cultures and peoples has as many names as there are stars in the sky. The explanation of many names is difficult, and in those places where the mentioned species does not occur, other mushrooms are called under the name of the white mushroom."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

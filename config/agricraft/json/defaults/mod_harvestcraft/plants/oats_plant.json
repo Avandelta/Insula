@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/oats_plant.json",
   "enabled": true,
   "id": "harvestcraft:oats_plant",
-  "plant_name": "Oats",
-  "seed_name": "Oats Seeds",
+  "plant_name": "Avena sativa",
+  "seed_name": "Avena sativa semina",
   "seed_items": [
     {
       "item": "harvestcraft:oatsseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Oats Seeds."
+    "translations": {
+      "en_us": "Oats are the fodder brother of wheat and rye. Initially, it was from oats that jelly was made, and fruit and berry jelly in Europe is usually referred to as porridge.",
+      "ru_ru": "Овёс - кормовой брат пшеницы и ржи. Изначально именно из овса изготавливали кисели, а фруктово-ягодные кисели в Западной Европе принято было относить к кашам."
+    },
+    "default": "Oats are the fodder brother of wheat and rye. Initially, it was from oats that jelly was made, and fruit and berry jelly in Europe is usually referred to as porridge."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

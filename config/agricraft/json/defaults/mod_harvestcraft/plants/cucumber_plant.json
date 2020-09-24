@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/cucumber_plant.json",
   "enabled": true,
   "id": "harvestcraft:cucumber_plant",
-  "plant_name": "Cucumber",
-  "seed_name": "Cucumber Seeds",
+  "plant_name": "Cucumis sativus",
+  "seed_name": "Cucumis sativus semina",
   "seed_items": [
     {
       "item": "harvestcraft:cucumberseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Cucumber Seeds."
+    "translations": {
+      "en_us": "Cucumber is a plant belonging to the Pumpkin family. The ancient Egyptians put cucumbers in the graves of their pharaohs along with other valuable gifts.",
+      "ru_ru": "Огурец - растение, принадлежащее к семейству Тыквеннных. Древние египтяне клали огурцы в могилы к своим фараонам вместе с другими ценными дарами."
+    },
+    "default": "Cucumber is a plant belonging to the Pumpkin family. The ancient Egyptians put cucumbers in the graves of their pharaohs along with other valuable gifts."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

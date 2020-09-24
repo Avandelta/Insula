@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/kiwi_plant.json",
   "enabled": true,
   "id": "harvestcraft:kiwi_plant",
-  "plant_name": "Kiwi",
-  "seed_name": "Kiwi Seeds",
+  "plant_name": "Seres gooseberry",
+  "seed_name": "Seres gooseberry semina",
   "seed_items": [
     {
       "item": "harvestcraft:kiwiseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Kiwi Seeds."
+    "translations": {
+      "en_us": "The homeland of kiwi is China, until the 20th century it was called the Chinese gooseberry. You cannot make jelly from kiwi.",
+      "ru_ru": "Родина киви - Китай, до 20 века его называли китайским крыжовником. Из киви нельзя приготовить желе."
+    },
+    "default": "The homeland of kiwi is China, until the 20th century it was called the Chinese gooseberry. You cannot make jelly from kiwi."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/corn_plant.json",
   "enabled": true,
   "id": "harvestcraft:corn_plant",
-  "plant_name": "Corn",
-  "seed_name": "Corn Seeds",
+  "plant_name": "Maize",
+  "seed_name": "Maize semina",
   "seed_items": [
     {
       "item": "harvestcraft:cornseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Corn Seeds."
+    "translations": {
+      "en_us": "The possible age of corn is more than 55 thousand years, which makes it older than wheat. Corn contains 26 elements of the periodic table.",
+      "ru_ru": "Возможный возраст кукурузы - более 55 тысяч лет, что делает её старше чем пшеница. Кукуруза содержит 26 элементов таблицы Менделеева."
+    },
+    "default": "The possible age of corn is more than 55 thousand years, which makes it older than wheat. Corn contains 26 elements of the periodic table."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

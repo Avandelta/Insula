@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/blueberry_plant.json",
   "enabled": true,
   "id": "harvestcraft:blueberry_plant",
-  "plant_name": "Blueberry",
-  "seed_name": "Blueberry Seeds",
+  "plant_name": "Vaccinium corymbosum",
+  "seed_name": "Vaccinium corymbosum semina",
   "seed_items": [
     {
       "item": "harvestcraft:blueberryseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Blueberry Seeds."
+    "translations": {
+      "en_us": "Blueberries are a popular berry native to the Earth's Northern Hemisphere. The scientific name of the genus vaccinium is taken from classical Latin, and its popular names go back to the Baltic-Finnish to Indo-Iranian groups.",
+      "ru_ru": "Голубика - популярная ягода, растущая в Северном полушарии Земли. Научное название рода vaccinium взято из классической латыни, а её народные названия идут корнями от прибалтийско-финнских до индо-иранских групп."
+    },
+    "default": "Blueberries are a popular berry native to the Earth's Northern Hemisphere. The scientific name of the genus vaccinium is taken from classical Latin, and its popular names go back to the Baltic-Finnish to Indo-Iranian groups."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

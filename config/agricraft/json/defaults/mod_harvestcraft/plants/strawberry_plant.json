@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/strawberry_plant.json",
   "enabled": true,
   "id": "harvestcraft:strawberry_plant",
-  "plant_name": "Strawberry",
-  "seed_name": "Strawberry Seeds",
+  "plant_name": "Fragaria ananassa",
+  "seed_name": "Fragaria ananassa semina",
   "seed_items": [
     {
       "item": "harvestcraft:strawberryseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Strawberry Seeds."
+    "translations": {
+      "en_us": "Strawberries, or how to correctly call them pineapple strawberries, is a widespread berry crop, originating simultaneously in Europe and America. In Russia, the cultivation of garden strawberries has almost 200 years of history, while foreign varieties were cultivated.",
+      "ru_ru": "Клубника, или как её правильно называть земляника ананасная является широко распространенной ягодной культурой, возникнув одновременно в Европе и Америке. В России культура земляники садовойи имеет почти 200-летнюю историю, при этом возделывались сорта зарубежной селекции."
+    },
+    "default": "Strawberries, or how to correctly call them pineapple strawberries, is a widespread berry crop, originating simultaneously in Europe and America. In Russia, the cultivation of garden strawberries has almost 200 years of history, while foreign varieties were cultivated."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

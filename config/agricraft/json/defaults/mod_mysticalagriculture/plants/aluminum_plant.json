@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/aluminum_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:aluminum_plant",
-  "plant_name": "Aluminum Crop",
-  "seed_name": "Aluminum Seeds",
+  "plant_name": "Planta aluminium",
+  "seed_name": "Semina aluminium",
   "seed_items": [
     {
       "item": "mysticalagriculture:aluminum_seeds",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Aluminum Seeds."
+    "translations": {
+      "en_us": "This type of plant grows from special seeds containing elementary matter, while the fruit of such a shrub is a special form of essence that allows you to create resources from it.",
+      "ru_ru": "Данный вид растений произрастает из особых семян, содержащих в себе элементарную материю, плодом же такого кустарника является особой формы эссенция, которая позволяет создавать ресурсы из неё."
+    },
+    "default": "This type of plant grows from special seeds containing elementary matter, while the fruit of such a shrub is a special form of essence that allows you to create resources from it."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

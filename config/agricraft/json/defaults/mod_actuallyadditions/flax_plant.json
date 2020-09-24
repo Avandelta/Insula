@@ -2,8 +2,8 @@
   "path": "mod_actuallyadditions/flax_plant.json",
   "enabled": true,
   "id": "actuallyadditions:flax_plant",
-  "plant_name": "Flax",
-  "seed_name": "Flax Seeds",
+  "plant_name": "Linum",
+  "seed_name": "Linum semina",
   "seed_items": [
     {
       "item": "actuallyadditions:item_flax_seed",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "The source of Linseed oil, as that makes total sense."
+    "translations": {
+      "en_us": "Flax: its group includes more than 100 species, but the most important is common flax. Flax is not mowed, but pulled out by the roots - teasing. Previously, this work was done by hand, but now there are special machines for this. Used in medicine, cooking, paint and varnish production, in the production of soap.",
+      "ru_ru": "Лён: к его группе относится более 100 видов, но самый важный - лён обыкновенный. Лён не косят, а выдёргивают с корнем — теребят. Раньше эту работу делали вручную, но сейчас для этого есть специальные машины. Используется в медицине, кулинарии, лако-красочном производстве, в производстве мыла."
+    },
+    "default": "Flax: its group includes more than 100 species, but the most important is common flax. Flax is not mowed, but pulled out by the roots - teasing. Previously, this work was done by hand, but now there are special machines for this. Used in medicine, cooking, paint and varnish production, in the production of soap."
   },
   "growth_chance": 1.0,
   "growth_bonus": 0.025,

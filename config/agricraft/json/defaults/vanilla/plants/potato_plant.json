@@ -2,8 +2,8 @@
   "path": "vanilla/plants/potato_plant.json",
   "enabled": true,
   "id": "vanilla:potato_plant",
-  "plant_name": "Potato",
-  "seed_name": "Potato Seeds",
+  "plant_name": "Solanum tuberosum",
+  "seed_name": "Solanum tuberosum semina",
   "seed_items": [
     {
       "item": "agricraft:agri_seed",
@@ -27,8 +27,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Po-ta-toes! Boil them, mash them, stick them in a stew."
+    "translations": {
+      "en_us": "Potatoes are surprisingly poisonous due to their salonin content. An interesting fact: under Peter the Great, when potatoes were brought to Russia, the people did not understand how to grow this plant, rejected it and even rebelled, such riots were called potato riots.",
+      "ru_ru": "Картофель на удивление ядовит из-за содержания салонина в нём. Интересный факт: при Петре Великом, когда картофель завезли в Россию - народ не понимал как выращивать данное растение, отвергал его и даже бунтовал, такие бунты назывались картофельными."
+    },
+    "default": "Potatoes are surprisingly poisonous due to their salonin content. An interesting fact: under Peter the Great, when potatoes were brought to Russia, the people did not understand how to grow this plant, rejected it and even rebelled, such riots were called potato riots."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

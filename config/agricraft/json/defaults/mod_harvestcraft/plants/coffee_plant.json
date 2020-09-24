@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/coffee_plant.json",
   "enabled": true,
   "id": "harvestcraft:coffee_plant",
-  "plant_name": "Coffee",
-  "seed_name": "Coffee Seeds",
+  "plant_name": "Coffea",
+  "seed_name": "Coffea fabam",
   "seed_items": [
     {
       "item": "harvestcraft:coffeeseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Coffee Seeds."
+    "translations": {
+      "en_us": "The coffee beans are located inside the fruit of the coffee tree. Caffeine is a substance that is banned by the International Olympic Committee.",
+      "ru_ru": "Кофейные зёрна расположены внутри плодов кофейного дерева. Кофеин - это вещество, которое запрещено Международным Олимпийским Комитетом."
+    },
+    "default": "The coffee beans are located inside the fruit of the coffee tree. Caffeine is a substance that is banned by the International Olympic Committee."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

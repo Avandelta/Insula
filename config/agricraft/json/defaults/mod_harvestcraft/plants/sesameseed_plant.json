@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/sesameseed_plant.json",
   "enabled": true,
   "id": "harvestcraft:sesameseed_plant",
-  "plant_name": "Sesame Seeds",
-  "seed_name": "Sesame Seeds Seeds",
+  "plant_name": "Sesamum semina",
+  "seed_name": "Sesamum semina",
   "seed_items": [
     {
       "item": "harvestcraft:sesameseedsseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Sesame Seeds Seeds."
+    "translations": {
+      "en_us": "Sesame is a herbaceous plant. The seeds are used for making halva, kozinaki and as a sprinkling on bakery products. Sesame is available in white and black.",
+      "ru_ru": "Кунжут - травянистое растение. Семена используются для изготовления халвы, козинаков и в качестве посыпки на хлебо-булочных изделиях. Кунжут бывает в белом и чёрном цветах."
+    },
+    "default": "Sesame is a herbaceous plant. The seeds are used for making halva, kozinaki and as a sprinkling on bakery products. Sesame is available in white and black."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

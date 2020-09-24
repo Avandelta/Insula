@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/curryleaf_plant.json",
   "enabled": true,
   "id": "harvestcraft:curryleaf_plant",
-  "plant_name": "Curryleaf",
-  "seed_name": "Curryleaf Seeds",
+  "plant_name": "Murraya koenigii",
+  "seed_name": "Murraya koenigii semina",
   "seed_items": [
     {
       "item": "harvestcraft:curryleafseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Curryleaf Seeds."
+    "translations": {
+      "en_us": "Curry Leaves - glossy leaves from the Murraya koenigii tree. In traditional Indian cuisine, fresh curry leaves are combined with coconut pulp or milk.",
+      "ru_ru": "Листья карри - глянцевые листья с дерева Murraya koenigii. В традиционной индийской кухне свежие листья карри сочетают с мякотью или молоком кокоса."
+    },
+    "default": "Curry Leaves - glossy leaves from the Murraya koenigii tree. In traditional Indian cuisine, fresh curry leaves are combined with coconut pulp or milk."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/mustard_plant.json",
   "enabled": true,
   "id": "harvestcraft:mustard_plant",
-  "plant_name": "Mustard",
-  "seed_name": "Mustard Seeds",
+  "plant_name": "Sinapi",
+  "seed_name": "Sinapi semina",
   "seed_items": [
     {
       "item": "harvestcraft:mustardseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Mustard Seeds."
+    "translations": {
+      "en_us": "Mustard is a plant from the cabbage family. The first mentions of mustard can be found in the pages of the Bible and in Indian chronicles three thousand years ago.",
+      "ru_ru": "Горчица - растение из семейства капустных. Первые упоминания о горчице можно найти на страницах Библии и в индийских летописях трехтысячной давности."
+    },
+    "default": "Mustard is a plant from the cabbage family. The first mentions of mustard can be found in the pages of the Bible and in Indian chronicles three thousand years ago."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
