@@ -10,7 +10,7 @@ If you want to see full mods list, just  check folder with mods.
 
 ## License
 
-This repository and modpack are licensed under [GNU General Public License v2.0](https://github.com/Avandelta/Fabrica/blob/master/LICENSE).
+This repository and modpack are licensed under [GNU General Public License v2.0](https://github.com/Avandelta/Insula/blob/master/LICENSE).
 
 ```LICENSE
                     GNU GENERAL PUBLIC LICENSE
