@@ -24,7 +24,6 @@ config/brandon3055/ProjectIntelligence/
 saves/
 logs/
 crash-reports/
-craftpresence/
 .mixin.out/
 local/
 patchouli_books/
