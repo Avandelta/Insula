@@ -11,12 +11,14 @@ As mentioned earlier, modifications develop the path of the gameplay (and contro
 ## Additional
 
 **Direction:** ProjectSky.
+
 **Version:** forge-1.12.2-14.23.5.2854.
+
 **Last Update:** 10/16/2020.
 
 ## License
 
-This repository and modpack are licensed under [GNU General Public License v2.0](https://github.com/Avandelta/Insula/blob/main/LICENSE).
+This repository and all copyrighted content are licensed under [GNU General Public License v2.0](https://github.com/Avandelta/Insula/blob/main/LICENSE).
 
 ```LICENSE
                     GNU GENERAL PUBLIC LICENSE
