@@ -1,19 +1,13 @@
-This modpack was made by Falcion (see https://github.com/Falcion). If you want to
-establish a server with this modpack, indicate the author in the links of your server,
-also, in addition - you can use this modpack for private (no publicity) and commercial
-purposes, but under the original terms of the General Public License v2.0:
+This game build was created by Falcion (see GitHub profile). You can run the server 
+with this assembly, as well as use it for private and non-commercial purposes while 
+fulfilling these agreements of the original GNU General Public License v2.0:
 
-* License and copyright notice.
-* State changes.
-* Disclose source.
-* Same license.
+• License and copyright notice.
+• State changes.
+• Disclose source.
+• Same license.
 
-GNU General Public License v2.0
-
-The GNU GPL is the most widely used free software license and has a strong 
-copyleft requirement. When distributing derived works, the source code of the work 
-must be made available under the same license. There are multiple variants of the
-GNU GPL, each with different requirements.
+Below you can read the GNU General Public License v2.0 text:
 
 
 
