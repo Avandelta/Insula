@@ -1,12 +1,18 @@
-** **
+## Information
 
-## Introduction
+A modpack of ProjectSky direction (genre) for Minecraft version 1.12.2 (for). It aims at full-fledged survival and full-fledged development in all areas of the game on one island in the middle of the void: from the initial automation of the simplest resources to the final in the development of magic and technology, roughly speaking, a full-fledged mixed development on the island with modifications under the [Sky Resources 2](https://www.curseforge.com/minecraft/mc-mods/sky-resources) series.
 
-**Insula** - is a modpack of ProjectSky (modded SkyBlock) genre for Minecraft 1.12.2. It's based on the process of transition from one stage of development to another, with the parallel discovery of new recipes, this mechanics is very similar to [SevTech](https://www.curseforge.com/minecraft/modpacks/sevtech-ages). But unlike the aforementioned, Insula combines magic, technology, survival and all sorts of different areas in one playthrough: where the player survives on one island and extracts resources as they progress, this assembly literally combines all areas of the game and genres of assemblies in one playthrough.
+**Insula** - game assembly of ProjectSky genre (directions) for Minecraft version 1.12.2. This assembly sets as its initial goal survival on the island, extraction of resources and development in the magical and technical spheres, roughly speaking, a full-fledged mixed development on the island with modifications under the [Sky Resources 2](https://www.curseforge.com/minecraft/mc-mods/sky-resources) series.
 
-There are 271 mods in total, the list of the main (core) modifications cannot be specified due to their huge number, except that the gameplay is based on the [Sky Resources](https://www.curseforge.com/minecraft/mc-mods/sky-resources) modification (and children).
+As mentioned earlier, modifications develop the path of the gameplay (and control it): from blocks of lava on an island or wheat to full automation of the production of all resources, all of the specified modifications in the game build 271 (not including self-written modifications):
 
-If you want to see full mods list, just  check folder with mods.
+* [Sky Resources 2](https://www.curseforge.com/minecraft/mc-mods/sky-resources)
+
+## Additional
+
+**Direction:** ProjectSky.
+**Version:** forge-1.12.2-14.23.5.2854.
+**Last Update:** 10/16/2020.
 
 ## License
 
