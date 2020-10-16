@@ -6,7 +6,7 @@ A modpack of ProjectSky direction (genre) for Minecraft version 1.12.2 (for). It
 
 As mentioned earlier, modifications develop the path of the gameplay (and control it): from blocks of lava on an island or wheat to full automation of the production of all resources, all of the specified modifications in the game build 271 (not including self-written modifications):
 
-* [Sky Resources 2](https://www.curseforge.com/minecraft/mc-mods/sky-resources)
+* **[Sky Resources 2](https://www.curseforge.com/minecraft/mc-mods/sky-resources)**
 
 ## Additional
 
