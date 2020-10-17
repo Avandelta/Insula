@@ -1,3 +1,12 @@
+---
+name: Bug report
+about: Report a crash or something that isn't working as it should.
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ## Bug Report
 
 **Modpack (depending on the type of request - and server number):** 
