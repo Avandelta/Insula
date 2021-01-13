@@ -1,10 +1,10 @@
 # Insula
 
-![Size](https://img.shields.io/github/repo-size/Avandelta/Fabrica)
-![Contributors](https://img.shields.io/github/contributors/Avandelta/Fabrica) 
-![Stars](https://img.shields.io/github/stars/Avandelta/Fabrica?style=social) 
-![Forks](https://img.shields.io/github/forks/Avandelta/Fabrica?style=social) 
-![Issues](https://img.shields.io/github/issues/Avandelta/Fabrica?logo=github&style=social)
+![Size](https://img.shields.io/github/repo-size/Avandelta/Insula)
+![Contributors](https://img.shields.io/github/contributors/Avandelta/Insula) 
+![Stars](https://img.shields.io/github/stars/Avandelta/Insula?style=social) 
+![Forks](https://img.shields.io/github/forks/Avandelta/Insula?style=social) 
+![Issues](https://img.shields.io/github/issues/Avandelta/Insula?logo=github&style=social)
 
 Insula is a pack filled to the brim of mods ranging from of mods ranging from tech to magic to even exploration. It's based on the same progress system as the famous [SevTech: Ages](https://www.curseforge.com/minecraft/modpacks/sevtech-ages).
 .
