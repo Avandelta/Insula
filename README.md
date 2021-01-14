@@ -14,8 +14,8 @@ For more information on content distribution or copyright, see the dedicated fil
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the 1.12.2-forge-14.23.5.2855
-- You have installed the Minecraft 1.12.2
+- You have installed the [Forge](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html) of version 1.12.2-14.23.5.2855
+- You have installed the [Minecraft](https://www.minecraft.net/en-us/) of version 1.12.2
 
 ## Installing Insula
 
