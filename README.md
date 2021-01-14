@@ -21,7 +21,7 @@ Before you begin, ensure you have met the following requirements:
 
 If you want to download the source, you can use GitHub CLI:
 
-`gh repo clone Avandelta/Insula.`
+`gh repo clone Avandelta/Insula`
 
 If you want to download the release: follow this [tag](https://github.com/Avandelta/Insula/releases/latest/download/6524398b036c170db89f92be8403ef9b.zip).
 

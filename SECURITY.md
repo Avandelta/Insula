@@ -18,5 +18,5 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 
 To report a vulnerability, follow these steps:
 
-1. Contact with developers team.
+1. Contact with a developers team.
 2. Report a vulnerability.
