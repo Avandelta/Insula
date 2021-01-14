@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report about bug to help us improve
+about: Create a report about bug to help us improve.
 title: ''
 labels: 'priority: medium, type: bug'
 assignees: Falcion
