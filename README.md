@@ -7,7 +7,7 @@
 ![Issues](https://img.shields.io/github/issues/Avandelta/Insula?logo=github&style=social)
 
 Insula is a pack filled to the brim of mods ranging from tech to magic on island in void. It's based on the same progress system as the famous [SevTech: Ages](https://www.curseforge.com/minecraft/modpacks/sevtech-ages).
-.
+
 For more information on content distribution or copyright, see the dedicated file.
 
 ## Prerequisites
