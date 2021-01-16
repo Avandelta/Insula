@@ -43,4 +43,4 @@ If you want to contact me you can reach me at our forum or use issue topic.
 
 ## License
 
-This project uses the following license: [Apache License 2.0](https://spdx.org/licenses/Apache-2.0.html).
+This project uses the following license: [Custom License](https://github.com/Avandelta/Fabrica/blob/main/LICENSE).
