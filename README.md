@@ -43,4 +43,4 @@ If you want to contact me you can reach me at our forum or use issue topic.
 
 ## License
 
-This project uses the following license: [Custom License](https://github.com/Avandelta/Fabrica/blob/main/LICENSE).
+This project uses the following license: [Custom License](https://github.com/Avandelta/Insula/blob/main/LICENSE).
