@@ -1,0 +1,108 @@
+{
+    "images":
+    {
+		"icon":
+        {
+            "image": "custommainmenu:textures/ui/Insula.png",
+            "posX": 84,
+            "posY": -80,
+            "width": 220,
+            "height": 49,
+            "alignment": "left_center"
+        }
+	
+	},
+
+    "buttons":
+    {     
+		"singleplayer":
+        {
+            "text": "menu.singleplayer",
+            "posX": 96,
+            "posY": 0,
+            "width": 198,
+            "height": 20,
+			"imageWidth": 100,
+			"imageHeight": 50,
+			"alignment": "left_center",
+            "action": 
+            {
+                "type": "openGui",
+                "gui": "singleplayer"
+            }
+        },		
+
+		"multiplayer":
+        {
+            "text": "menu.multiplayer",			
+            "posX": 96,
+            "posY": 25,
+            "width": 198,
+            "height": 20,
+			"imageWidth": 100,
+			"imageHeight": 50,
+			"alignment": "left_center",
+            "action": 
+            {
+                "type": "openGui",
+                "gui": "multiplayer"
+            }
+        },
+               
+		"options":
+        {
+            "text": "menu.options",
+            "posX": 96,
+            "posY": 50,
+            "width": 98,
+            "height": 20,
+			"imageWidth": 100,
+			"imageHeight": 50,
+			"alignment": "left_center",
+            "action": 
+            {
+                "type": "openGui",
+                "gui": "options"
+            }
+        },
+		                  
+        "quit":
+        {
+            "text": "menu.quit",
+            "posX": 196,
+            "posY": 50,
+            "width": 98,
+            "height": 20,
+			"imageWidth": 100,
+			"imageHeight": 50,
+			"alignment": "left_center",
+            "action": 
+            {
+                "type" : "quit"
+            }
+        },
+       
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -154,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" :
+            {
+                "type" : "refresh"
+            }
+        }
+	},
+    
+    "other":
+    {
+		"background":
+		{
+			"image": "custommainmenu:textures/ui/Background.jpg",
+			"mode": "fill"
+		}
+    }
+}
