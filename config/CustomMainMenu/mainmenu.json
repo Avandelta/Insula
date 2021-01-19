@@ -3,82 +3,132 @@
     {
 		"icon":
         {
-            "image": "custommainmenu:textures/ui/Insula.png",
-            "posX": 84,
-            "posY": -80,
+            "image": "custommainmenu:textures/icon/odyssea.png",
+            "posX": -120,
+            "posY": -110,
             "width": 220,
             "height": 49,
-            "alignment": "left_center"
+            "alignment": "center"
         }
 	
 	},
-
+    
     "buttons":
     {     
 		"singleplayer":
         {
             "text": "menu.singleplayer",
-            "posX": 96,
-            "posY": 0,
-            "width": 198,
-            "height": 20,
-			"imageWidth": 100,
+			"normalTextColor": 12303291,
+			"hoverTextColor": 3125670,
+			"texture": "custommainmenu:textures/gui/button.png",
+            "posX": -110,
+            "posY": -40,
+            "width": 196,
+            "height": 30,
+            "imageWidth": 100,
 			"imageHeight": 50,
-			"alignment": "left_center",
+			"alignment": "center",
             "action": 
             {
-                "type": "openGui",
-                "gui": "singleplayer"
+                "type" : "openGui",
+                "gui" : "singleplayer"
             }
         },		
 
 		"multiplayer":
         {
-            "text": "menu.multiplayer",			
-            "posX": 96,
-            "posY": 25,
-            "width": 198,
-            "height": 20,
-			"imageWidth": 100,
+            "text" : "menu.multiplayer",			
+			"normalTextColor": 12303291,
+			"hoverTextColor": 3125670,
+			"texture": "custommainmenu:textures/gui/button.png",
+            "posX": -110,
+            "posY": -10,
+            "width": 196,
+            "height": 30,
+            "imageWidth": 100,
 			"imageHeight": 50,
-			"alignment": "left_center",
+			"alignment": "center",
             "action": 
             {
-                "type": "openGui",
-                "gui": "multiplayer"
+                "type" : "openGui",
+                "gui" : "multiplayer"
             }
         },
                
 		"options":
         {
             "text": "menu.options",
-            "posX": 96,
-            "posY": 50,
-            "width": 98,
+			"normalTextColor": 12303291,
+			"hoverTextColor": 3125670,
+			"texture": "custommainmenu:textures/gui/button.png",
+            "posX": -110,
+            "posY": 30,
+            "width": 196,
             "height": 20,
-			"imageWidth": 100,
+            "imageWidth": 100,
 			"imageHeight": 50,
-			"alignment": "left_center",
+			"alignment": "center",
             "action": 
             {
                 "type": "openGui",
                 "gui": "options"
             }
         },
-		                  
+		        
+		"language":
+        {
+            "text": "options.language",
+			"texture": "custommainmenu:textures/gui/button.png",
+            "posX": -110,
+            "posY": 50,
+            "width": 196,
+            "height": 20,	
+            "imageWidth": 100,
+			"imageHeight": 50,	
+			"alignment": "center",
+            "action": 
+            {
+                "type": "openGui",
+                "gui": "languages"
+            }
+        },
+                    
         "quit":
         {
             "text": "menu.quit",
-            "posX": 196,
-            "posY": 50,
-            "width": 98,
+			"normalTextColor": 16729156,
+			"hoverTextColor": 14483456,
+			"texture": "custommainmenu:textures/gui/button.png",
+            "posX": -110,
+            "posY": 70,
+            "width": 196,
             "height": 20,
-			"imageWidth": 100,
+            "imageWidth": 100,
 			"imageHeight": 50,
-			"alignment": "left_center",
+			"alignment": "center",
             "action": 
             {
-                "type" : "quit"
+                "type": "quit"
+            }
+        },
+		
+        "mods":
+        {
+            "text": "(#modsloaded#/#modsactive#)",
+			"normalTextColor": 6710886,
+			"hoverTextColor": 3125670,
+			"texture": "custommainmenu:textures/gui/button.png",
+            "posX": -110,
+            "posY": 100,
+            "width": 196,
+            "height": 20,
+            "imageWidth": 100,
+			"imageHeight": 50,
+			"alignment": "center",
+            "action": 
+            {
+                "type": "openGui",
+                "gui": "mods"
             }
         }
 	},
@@ -87,8 +137,8 @@
     {
 		"background":
 		{
-			"image": "custommainmenu:textures/ui/Background.jpg",
-			"mode": "fill"
+			"image" : "custommainmenu:textures/ui/background.png",
+			"mode" : "fill"
 		}
     }
 }
