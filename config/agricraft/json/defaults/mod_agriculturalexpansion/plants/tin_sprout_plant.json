@@ -1,6 +1,6 @@
 {
   "path": "mod_agriculturalexpansion/plants/tin_sprout_plant.json",
-  "enabled": true,
+  "enabled": false,
   "id": "agriculturalexpansion:tin_sprout_plant",
   "plant_name": "Tin Crop",
   "seed_name": "Tin Sprout",
