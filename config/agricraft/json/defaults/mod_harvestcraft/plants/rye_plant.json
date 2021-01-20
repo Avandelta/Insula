@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/rye_plant.json",
   "enabled": true,
   "id": "harvestcraft:rye_plant",
-  "plant_name": "Rye",
-  "seed_name": "Rye Seeds",
+  "plant_name": "Secale cereale",
+  "seed_name": "Secale cereale semina",
   "seed_items": [
     {
       "item": "harvestcraft:ryeseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Rye Seeds."
+    "translations": {
+      "en_us": "Rye is an annual or biennial herb. It is used in construction, animal feeding, land irrigation, protection of other crops, and also in cooking.",
+      "ru_ru": "Рожь - однолетнее или двулетнее травянистое растение. Используется в строительстве, прикормки животных, орошения земли, защиты других культур, а также в кулинарии."
+    },
+    "default": "Rye is an annual or biennial herb. It is used in construction, animal feeding, land irrigation, protection of other crops, and also in cooking."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

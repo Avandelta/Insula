@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/spinach_plant.json",
   "enabled": true,
   "id": "harvestcraft:spinach_plant",
-  "plant_name": "Spinach",
-  "seed_name": "Spinach Seeds",
+  "plant_name": "Spinacia",
+  "seed_name": "Spinacia semina",
   "seed_items": [
     {
       "item": "harvestcraft:spinachseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Spinach Seeds."
+    "translations": {
+      "en_us": "Spinach has been cultivated for a very long time - perhaps about 2,000 years ago, or after the 6th century AD. There is no consensus among researchers about the place of origin of cultivated spinach. Iran or the Caucasus is called a possible place of origin of culture.",
+      "ru_ru": "Шпинат вошёл в культуру уже очень давно — возможно, около 2000 лет назад, или после VI века нашей эры. Среди исследователей нет единого мнения о месте происхождения культурного шпината. Возможным местом возникновения культуры называют Иран или Кавказ."
+    },
+    "default": "Spinach has been cultivated for a very long time - perhaps about 2,000 years ago, or after the 6th century AD. There is no consensus among researchers about the place of origin of cultivated spinach. Iran or the Caucasus is called a possible place of origin of culture."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

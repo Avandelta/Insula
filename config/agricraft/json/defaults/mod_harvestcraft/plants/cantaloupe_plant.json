@@ -3,7 +3,7 @@
   "enabled": true,
   "id": "harvestcraft:cantaloupe_plant",
   "plant_name": "Cantaloupe",
-  "seed_name": "Cantaloupe Seeds",
+  "seed_name": "Cantaloupe semina",
   "seed_items": [
     {
       "item": "harvestcraft:cantaloupeseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Cantaloupe Seeds."
+    "translations": {
+      "en_us": "Cantaloupe is a pumpkin-type melon. These melons were once presented to the Pope as a gourmet dessert. The treat was to the taste and the Pope sent the seeds for cultivation to his estate in Cantalupia.",
+      "ru_ru": "Канталупа - тыквенный вид дыни. Эти дыни однажды были преподнесены Папу Римскому как изысканный десерт. Угощение пришлось по вкусу и Папа отправил семена для возделывания в своё имение в Канталупии."
+    },
+    "default": "Cantaloupe is a pumpkin-type melon. These melons were once presented to the Pope as a gourmet dessert. The treat was to the taste and the Pope sent the seeds for cultivation to his estate in Cantalupia."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/okra_plant.json",
   "enabled": true,
   "id": "harvestcraft:okra_plant",
-  "plant_name": "Okra",
-  "seed_name": "Okra Seeds",
+  "plant_name": "Abelmoschus esculentus",
+  "seed_name": "Abelmoschus esculentus semina",
   "seed_items": [
     {
       "item": "harvestcraft:okraseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Okra Seeds."
+    "translations": {
+      "en_us": "Abelmos, or okra, is a vegetable from the Malvov family. Okra has its roots in Ethiopia, although it is said to have originated in Egypt in the 12th century. Eventually, okra spread throughout North Africa and the Middle East, and cultivation in North America began in the 18th century. Today, okra is often used in southern cuisine.",
+      "ru_ru": "Абельмош, или окра - овощ из семейства Мальвовых. Корни окры уходят в Эфиопию, хотя, как говорят, она появилась в Египте в 12 веке. В конце концов, окра распространилась по всей Северной Африке и Ближнему Востоку, а культивирование в Северной Америке началось в 18 веке. Сегодня окра часто используется в кухне южных стран."
+    },
+    "default": "Abelmos, or okra, is a vegetable from the Malvov family. Okra has its roots in Ethiopia, although it is said to have originated in Egypt in the 12th century. Eventually, okra spread throughout North Africa and the Middle East, and cultivation in North America began in the 18th century. Today, okra is often used in southern cuisine."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

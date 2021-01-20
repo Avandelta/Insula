@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/scallion_plant.json",
   "enabled": true,
   "id": "harvestcraft:scallion_plant",
-  "plant_name": "Scallion",
-  "seed_name": "Scallion Seeds",
+  "plant_name": "Allium sativum",
+  "seed_name": "Allium sativum semina",
   "seed_items": [
     {
       "item": "harvestcraft:scallionseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Scallion Seeds."
+    "translations": {
+      "en_us": "Scallions are only a small part in the onion subfamily. Due to the change in the habitat under the influence of human economic activities, as well as the use of bulbs for food, the natural locations of onions are decreasing. The genus has a little less than 1000 species.",
+      "ru_ru": "Зелёный лук - лишь мелкая часть в подсемействе луковых. В связи с изменением среды обитания под влиянием хозяйственной деятельности человека, а также употребления луковиц в пищу, происходит сокращение природных местонахождений луков. Род насчитывает немногим менее 1000 видов."
+    },
+    "default": "Scallions are only a small part in the onion subfamily. Due to the change in the habitat under the influence of human economic activities, as well as the use of bulbs for food, the natural locations of onions are decreasing. The genus has a little less than 1000 species."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

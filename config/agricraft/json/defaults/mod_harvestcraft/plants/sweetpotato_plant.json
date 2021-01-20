@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/sweetpotato_plant.json",
   "enabled": true,
   "id": "harvestcraft:sweetpotato_plant",
-  "plant_name": "Sweet Potato",
-  "seed_name": "Sweet Potato Seeds",
+  "plant_name": "Ipomoea batatas",
+  "seed_name": "Ipomoea batatas semina",
   "seed_items": [
     {
       "item": "harvestcraft:sweetpotatoseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Sweet Potato Seeds."
+    "translations": {
+      "en_us": "The sweet potato, or sweet potato, is a valuable food and forage crop. Sweet potatoes, especially the orange variety, are sometimes called yams in parts of North America.",
+      "ru_ru": "Батат, или сладкий картофель - ценная пищевая и кормовая культура. Батат, особенно апельсиновый сорт, иногда называют ямс в некоторых частях Северной Америки."
+    },
+    "default": "The sweet potato, or sweet potato, is a valuable food and forage crop. Sweet potatoes, especially the orange variety, are sometimes called yams in parts of North America."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

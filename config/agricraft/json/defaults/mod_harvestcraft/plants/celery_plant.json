@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/celery_plant.json",
   "enabled": true,
   "id": "harvestcraft:celery_plant",
-  "plant_name": "Celery",
-  "seed_name": "Celery Seeds",
+  "plant_name": "Apium",
+  "seed_name": "Apium semina",
   "seed_items": [
     {
       "item": "harvestcraft:celeryseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Celery Seeds."
+    "translations": {
+      "en_us": "In the ancient world, celery was popular. But in Greece and Rome, wreaths were woven from its leaves for triumphants, and in Egypt all parts of the plant were used for medicinal purposes. Not surprisingly, the earliest forms of celery tasted too bitter and the stems were too fibrous to be eaten.",
+      "ru_ru": "В античном мире сельдерей пользовался популярностью. Но в Греции и Риме из его листьев плели венки для триумфаторов, а в Египте все части растения использовались в лечебных целях. Это неудивительно, первые формы сельдерея имели слишком горький вкус, а стебли были слишком волокнистыми, чтобы употреблять их в пищу."
+    },
+    "default": "In the ancient world, celery was popular. But in Greece and Rome, wreaths were woven from its leaves for triumphants, and in Egypt all parts of the plant were used for medicinal purposes. Not surprisingly, the earliest forms of celery tasted too bitter and the stems were too fibrous to be eaten."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

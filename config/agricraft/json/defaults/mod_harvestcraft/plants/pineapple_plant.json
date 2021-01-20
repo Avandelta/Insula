@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/pineapple_plant.json",
   "enabled": true,
   "id": "harvestcraft:pineapple_plant",
-  "plant_name": "Pineapple",
-  "seed_name": "Pineapple Seeds",
+  "plant_name": "Ananas comosus",
+  "seed_name": "Ananas comosus semina",
   "seed_items": [
     {
       "item": "harvestcraft:pineappleseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Pineapple Seeds."
+    "translations": {
+      "en_us": "This genus of pineapples was first described by a European botanist, and this happened back in 1735. The name pineapple comes from the local name for this plant, but it was slightly distorted. This plant comes from Paraguay, Colombia, Brazil, and Venezuela.",
+      "ru_ru": "Данный род ананасов первым описал европейский ботаник, и это произошло в далеком 1735 году. Название ананас произошло от местного наименования данного растение, но оно было слегка искажено. Родом это растение из Парагвай, Колумбии, Бразилии, а также Венесуэлы."
+    },
+    "default": "This genus of pineapples was first described by a European botanist, and this happened back in 1735. The name pineapple comes from the local name for this plant, but it was slightly distorted. This plant comes from Paraguay, Colombia, Brazil, and Venezuela."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

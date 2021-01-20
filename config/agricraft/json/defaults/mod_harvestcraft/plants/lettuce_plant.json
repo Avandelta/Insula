@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/lettuce_plant.json",
   "enabled": true,
   "id": "harvestcraft:lettuce_plant",
-  "plant_name": "Lettuce",
-  "seed_name": "Lettuce Seeds",
+  "plant_name": "Lactuca sativa",
+  "seed_name": "Lactuca sativa semina",
   "seed_items": [
     {
       "item": "harvestcraft:lettuceseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Lettuce Seeds."
+    "translations": {
+      "en_us": "Lettuce is a flowering plant spread all over the world, its scientific name was given in honor of the milky juice contained inside the stems and leaves. For ancient people, lettuce was too expensive. Seed oil was eaten.",
+      "ru_ru": "Салат - цветковое растение, распотранённое по всему миру, своё научное название получило в честь млечного сока содержащегося внутри стеблей и листьев. Для древних людей салат был слишком дорогим удовольствием. В пищу употребляли масло семян."
+    },
+    "default": "Lettuce is a flowering plant spread all over the world, its scientific name was given in honor of the milky juice contained inside the stems and leaves. For ancient people, lettuce was too expensive. Seed oil was eaten."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/cotton_plant.json",
   "enabled": true,
   "id": "harvestcraft:cotton_plant",
-  "plant_name": "Cotton",
-  "seed_name": "Cotton Seeds",
+  "plant_name": "Gossypium hirsutum",
+  "seed_name": "Gossypium hirsutum semina",
   "seed_items": [
     {
       "item": "harvestcraft:cottonseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Cotton Seeds."
+    "translations": {
+      "en_us": "Cotton seeds are used to make oil and flour. In the 20th century in the GDR, housings for some Trabant cars were made from pressed cotton waste. As a result, several cases were recorded when in rural areas goats tried to chew car body parts, and not without success.",
+      "ru_ru": "Семена хлопка используются в изготовлении масла и муки. В XX веке в ГДР корпуса для некоторых автомобилей марки Trabant изготавливались из прессованных отходов хлопкового производства. В результате было зафиксировано несколько случаев, когда в сельской местности козы пытались жевать детали автомобильного кузова, причём небезуспешно."
+    },
+    "default": "Cotton seeds are used to make oil and flour. In the 20th century in the GDR, housings for some Trabant cars were made from pressed cotton waste. As a result, several cases were recorded when in rural areas goats tried to chew car body parts, and not without success."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

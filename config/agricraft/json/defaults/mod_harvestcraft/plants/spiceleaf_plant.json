@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/spiceleaf_plant.json",
   "enabled": true,
   "id": "harvestcraft:spiceleaf_plant",
-  "plant_name": "Spiceleaf",
-  "seed_name": "Spiceleaf Seeds",
+  "plant_name": "Laurus nobilis",
+  "seed_name": "Laurus nobilis semina",
   "seed_items": [
     {
       "item": "harvestcraft:spiceleafseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Spiceleaf Seeds."
+    "translations": {
+      "en_us": "Laurel noble - subtropical tree or shrub. Its leaves are used as a spice - bay leaf. Laurel was considered a sacred tree, and the heads of the victors in Ancient Greece were decorated with wreaths.",
+      "ru_ru": "Лавр благородный - субтропическое дерево или кустарник. Его листья используют как пряность - лавровый лист. Лавр считали священным деревом, его венками украшали головы победителей в Древней Греции."
+    },
+    "default": "Laurel noble - subtropical tree or shrub. Its leaves are used as a spice - bay leaf. Laurel was considered a sacred tree, and the heads of the victors in Ancient Greece were decorated with wreaths."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

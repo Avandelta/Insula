@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/eggplant_plant.json",
   "enabled": true,
   "id": "harvestcraft:eggplant_plant",
-  "plant_name": "Eggplant",
-  "seed_name": "Eggplant Seeds",
+  "plant_name": "Solanum melongena",
+  "seed_name": "Solanum melongena semina",
   "seed_items": [
     {
       "item": "harvestcraft:eggplantseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Eggplant Seeds."
+    "translations": {
+      "en_us": "Eggplant is a relative of squash. In fact, from a botanical point of view, eggplant is a berry.",
+      "ru_ru": "Баклажан - родственник кабачка. На самом деле баклажан с точки зрения ботаники относится к ягодам."
+    },
+    "default": "Eggplant is a relative of squash. In fact, from a botanical point of view, eggplant is a berry."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

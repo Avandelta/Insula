@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/bambooshoot_plant.json",
   "enabled": true,
   "id": "harvestcraft:bambooshoot_plant",
-  "plant_name": "Bamboo Shoot",
-  "seed_name": "Bamboo Shoot Seeds",
+  "plant_name": "Bamboo propagines",
+  "seed_name": "Bamboo propagines semina",
   "seed_items": [
     {
       "item": "harvestcraft:bambooshootseeditem",
@@ -17,9 +17,12 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Bamboo Shoot Seeds."
-  },
+    "translations": {
+      "en_us": "Bamboo shoots are a symbol of East Asian cuisine and are eaten fresh, boiled and even canned. In the 1900s in the United States, it was believed that bamboo shoots would become a common American food.",
+      "ru_ru": "Бамбуковые побеги являются символом восточноазиатской кухни, их едят свежими, варёными и даже в виде консерв. В 1900 годах в США, считали что побеги бамбука станут обычной американской едой."
+    },
+    "default": "Bamboo shoots are a symbol of East Asian cuisine and are eaten fresh, boiled and even canned. In the 1900s in the United States, it was believed that bamboo shoots would become a common American food."
+  },	
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
   "bonemeal": true,

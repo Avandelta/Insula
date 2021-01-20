@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/beet_plant.json",
   "enabled": true,
   "id": "harvestcraft:beet_plant",
-  "plant_name": "Beet",
-  "seed_name": "Beet Seeds",
+  "plant_name": "Beta vulgaris",
+  "seed_name": "Beta vulgaris semina",
   "seed_items": [
     {
       "item": "harvestcraft:beetseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Beet Seeds."
+    "translations": {
+      "en_us": "Initially, only leaves were used for food from beets, root crops were intended for medicinal purposes. In ancient Greece, beets were used as a sacrifice to Apollo.",
+      "ru_ru": "Первоначально в пищу от свеклы использовали лишь листья, корнеплоды предназначались в лекарственных целях. В Древней Греции свёкла использовалась в жертву Апполону."
+    },
+    "default": "Initially, only leaves were used for food from beets, root crops were intended for medicinal purposes. In ancient Greece, beets were used as a sacrifice to Apollo."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

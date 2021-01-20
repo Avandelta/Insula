@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/rutabaga_plant.json",
   "enabled": true,
   "id": "harvestcraft:rutabaga_plant",
-  "plant_name": "Rutabaga",
-  "seed_name": "Rutabaga Seeds",
+  "plant_name": "Brassica napobrassica",
+  "seed_name": "Brassica napobrassica semina",
   "seed_items": [
     {
       "item": "harvestcraft:rutabagaseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Rutabaga Seeds."
+    "translations": {
+      "en_us": "The appearance of the rutabaga took place in very ancient times in the Mediterranean through the natural crossing of kale with one of the forms of turnip. For the first time, this plant was mentioned by the Swiss botanist Kaspar Baugin, who described it, and also wrote that it is found in the wild in Sweden. Other sources suggest that Siberia is the homeland of fodder beet.",
+      "ru_ru": "Появление брюквы произошло в очень древние времена в Средиземноморье благодаря естественному скрещиванию листовой капусты с одной из форм репы. Впервые о данном растении упомянул швейцарский ботаник Каспар Баугин, который дал его описание, а также написал, что в диких условиях оно встречается на территории Швеции. В иных источниках есть предположение того, что родиной кормовой свеклы является Сибирь."
+    },
+    "default": "The appearance of the rutabaga took place in very ancient times in the Mediterranean through the natural crossing of kale with one of the forms of turnip. For the first time, this plant was mentioned by the Swiss botanist Kaspar Baugin, who described it, and also wrote that it is found in the wild in Sweden. Other sources suggest that Siberia is the homeland of fodder beet."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

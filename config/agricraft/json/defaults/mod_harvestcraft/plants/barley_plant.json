@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/barley_plant.json",
   "enabled": true,
   "id": "harvestcraft:barley_plant",
-  "plant_name": "Barley",
-  "seed_name": "Barley Seeds",
+  "plant_name": "Hordeum vulgare",
+  "seed_name": "Hordeum vulgare semina",
   "seed_items": [
     {
       "item": "harvestcraft:barleyseeditem",
@@ -17,9 +17,12 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Barley Seeds."
-  },
+    "translations": {
+      "en_us": "Barley is the younger brother of wheat, along with rye, its cultivation began 10,000 years ago. In ancient Greece, barley was used in sacred rites, and in Rome it was the personification of the culture of gladiators.",
+      "ru_ru": "Ячмень - младший брат пшеницы наряду с рожью, его культивация началась 10000 лет назад. В Древней Греции ячмень использовался в священных обрядах, а в Риме он был олицетворением культуры гладиаторов."
+    },
+    "default": "Barley is the younger brother of wheat, along with rye, its cultivation began 10,000 years ago. In ancient Greece, barley was used in sacred rites, and in Rome it was the personification of the culture of gladiators."
+  },	
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
   "bonemeal": true,

@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/grape_plant.json",
   "enabled": true,
   "id": "harvestcraft:grape_plant",
-  "plant_name": "Grape",
-  "seed_name": "Grape Seeds",
+  "plant_name": "Vitis vinifera",
+  "seed_name": "Vitis vinifera semina",
   "seed_items": [
     {
       "item": "harvestcraft:grapeseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Grape Seeds."
+    "translations": {
+      "en_us": "The grape is a vine plant of the same name; it was domesticated 8000 years ago. The fluff-like bloom on fresh grapes is actually colonies of millions of microorganisms.",
+      "ru_ru": "Виноград - одноименное растение-лоза, окультурили его ещё 8000 лет назад. Налёт на свежих виноградинах, напоминающий пушок, на самом деле представляет собой колонии из миллионов микроорганизмов."
+    },
+    "default": "The grape is a vine plant of the same name; it was domesticated 8000 years ago. The fluff-like bloom on fresh grapes is actually colonies of millions of microorganisms."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

@@ -2,8 +2,8 @@
   "path": "mod_harvestcraft/plants/blackberry_plant.json",
   "enabled": true,
   "id": "harvestcraft:blackberry_plant",
-  "plant_name": "Blackberry",
-  "seed_name": "Blackberry Seeds",
+  "plant_name": "Etiam",
+  "seed_name": "Etiam semina",
   "seed_items": [
     {
       "item": "harvestcraft:blackberryseeditem",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Blackberry Seeds."
+    "translations": {
+      "en_us": "Blackberries are a sweet and sour berry, the botanical sister of raspberries. In the north of Russia, the blackberry is called Syrbalina in honor of the relationship with raspberry, their common genus numbers over 600 species.",
+      "ru_ru": "Ежевика - кисло-сладкая ягода, ботаническая сестра малины. На севере России ежевику называют Сырбалина в честь родства с малиной, их общий род насчитывает свыше 600 видов."
+    },
+    "default": "Blackberries are a sweet and sour berry, the botanical sister of raspberries. In the north of Russia, the blackberry is called Syrbalina in honor of the relationship with raspberry, their common genus numbers over 600 species."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
