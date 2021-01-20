@@ -2,12 +2,15 @@
   "path": "vanilla/plants/daisy_plant.json",
   "enabled": true,
   "id": "vanilla:daisy_plant",
-  "plant_name": "Daisy",
-  "seed_name": "Daisy Seeds",
+  "plant_name": "Matricaria",
+  "seed_name": "Matricaria semina",
   "seed_items": [],
   "description": {
-    "translations": {},
-    "default": "A rarity by any measure."
+    "translations": {
+      "en_us": "Often, daisy or chamomile (from a botanical point of view, mistakenly) is called plant species of other genera of the Astrov family. Chamomile got its name from the combination of words: low and apple, which personifies the low apple tree due to the characteristic smell of the flower.",
+      "ru_ru": "Часто ромашкой (с ботанической точки зрения ошибочно) называют виды растений других родов семейства Астровые. Ромашка получило своё название в честь соединений слов: низкий и яблоко, что олицетворяет низкую яблоню из-за характерного запаха цветка."
+    },
+    "default": "Often, daisy or chamomile (from a botanical point of view, mistakenly) is called plant species of other genera of the Astrov family. Chamomile got its name from the combination of words: low and apple, which personifies the low apple tree due to the characteristic smell of the flower."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,

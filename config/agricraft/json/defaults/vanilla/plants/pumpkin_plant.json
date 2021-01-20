@@ -2,8 +2,8 @@
   "path": "vanilla/plants/pumpkin_plant.json",
   "enabled": true,
   "id": "vanilla:pumpkin_plant",
-  "plant_name": "Pumpkin",
-  "seed_name": "Pumpkin Seeds",
+  "plant_name": "Cucurbita",
+  "seed_name": "Cucurbita semina",
   "seed_items": [
     {
       "item": "minecraft:pumpkin_seeds",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "If I eat enough of these will I turn orange?"
+    "translations": {
+      "en_us": "Pumpkin is a herbal plant. Pumpkin has been growing in the Oaxaca Valley for at least 8 thousand years. Already before the advent of our era, such a plant spread in North America in the valleys of the Mississippi and Missouri rivers.",
+      "ru_ru": "Тыква - это травяное растение. Тыква произрастает в Оахакской долине не меньше 8 тысяч лет. Уже до наступления нашей эры такое растение распространилось в Северной Америке в долинах рек Миссисипи и Миссури."
+    },
+    "default": "Pumpkin is a herbal plant. Pumpkin has been growing in the Oaxaca Valley for at least 8 thousand years. Already before the advent of our era, such a plant spread in North America in the valleys of the Mississippi and Missouri rivers."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,

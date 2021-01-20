@@ -2,12 +2,15 @@
   "path": "vanilla/plants/allium_plant.json",
   "enabled": true,
   "id": "vanilla:allium_plant",
-  "plant_name": "Allium",
-  "seed_name": "Allium Seeds",
+  "plant_name": "Allium fistulosum",
+  "seed_name": "Allium fistulosum semina",
   "seed_items": [],
   "description": {
-    "translations": {},
-    "default": "From the family of plants including the garlic, onion, and chive this plant produces a beautiful umbel consisting of many small purple blooms."
+    "translations": {
+      "en_us": "Allium fistulosum is a perennial plant, also called Chinese onion. A whole onion festival is dedicated to onions and other onions, which is held annually in Bern, Switzerland.",
+      "ru_ru": "Лук-батун - многолетнее растение, ещё именуемый китайский лук. Луку и прочим луковым посвящен целый луковый фестиваль, который ежегодно проводится в Берне, что в Швейцарии."
+    },
+    "default": "Allium fistulosum is a perennial plant, also called Chinese onion. A whole onion festival is dedicated to onions and other onions, which is held annually in Bern, Switzerland."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,

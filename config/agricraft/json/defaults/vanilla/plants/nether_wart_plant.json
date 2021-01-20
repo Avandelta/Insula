@@ -2,8 +2,8 @@
   "path": "vanilla/plants/nether_wart_plant.json",
   "enabled": true,
   "id": "vanilla:nether_wart_plant",
-  "plant_name": "Nether Wart",
-  "seed_name": "Nether Spores",
+  "plant_name": "Calcaneum Wart",
+  "seed_name": "Calcaneum Wart sporis",
   "seed_items": [
     {
       "item": "agricraft:agri_seed",
@@ -27,8 +27,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "An oddity from the nether, said to have somewhat mystical properties. The fungus appears to have a strong aptitude for heat, yet oddly cannot withstand the burning of the sun. Its fruit makes a covetable prize for the aspiring young brewer."
+    "translations": {
+      "en_us": "The Nether Wart is one of the few plants that survived into one: along with its mushroom brothers, it is actively used in potions. Extremely unpretentious and resistant to almost everything except lava.",
+      "ru_ru": "Адский нарост - одно из немногих растений, выживших в одну: наряду со своими грибными братьями, активно используется в зельеварении. Крайне неприхотливый и устойчивый почти ко всему, кроме лавы."
+    },
+    "default": "The Nether Wart is one of the few plants that survived into one: along with its mushroom brothers, it is actively used in potions. Extremely unpretentious and resistant to almost everything except lava."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

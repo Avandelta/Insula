@@ -2,12 +2,15 @@
   "path": "vanilla/plants/orchid_plant.json",
   "enabled": true,
   "id": "vanilla:orchid_plant",
-  "plant_name": "Blue Orchid",
-  "seed_name": "Blue Orchid Seeds",
+  "plant_name": "Hyacintho Orchid",
+  "seed_name": "Hyacintho Orchid semina",
   "seed_items": [],
   "description": {
-    "translations": {},
-    "default": "A rarity by any measure."
+    "translations": {
+      "en_us": "The blue orchid is a natural anomaly created by man. Over time, it is rejected by nature or dies, even with natural excretion.",
+      "ru_ru": "Синяя орхидея - природная аномалия, созданная человеком. Она со временем отвергается природой или умирает, даже при условии натурального выведения."
+    },
+    "default": "The blue orchid is a natural anomaly created by man. Over time, it is rejected by nature or dies, even with natural excretion."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,

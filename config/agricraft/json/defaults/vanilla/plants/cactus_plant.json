@@ -2,8 +2,8 @@
   "path": "vanilla/plants/cactus_plant.json",
   "enabled": true,
   "id": "vanilla:cactus_plant",
-  "plant_name": "Cactus",
-  "seed_name": "Cactus Seeds",
+  "plant_name": "Cactaceae",
+  "seed_name": "Cactaceae semina",
   "seed_items": [
     {
       "item": "agricraft:agri_seed",
@@ -27,8 +27,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "A very prickly plant."
+    "translations": {
+      "en_us": "Cactus as a plant did not originally bear its modern name. Cacti are plants of the New World, their natural range is South America and North America, as well as the islands of the West Indies.",
+      "ru_ru": "Кактус как растение изначально не носил современное имя. Кактусы — растения Нового Света, их естественный ареал - Южная Америка и Северная Америка, а также острова Вест-Индии."
+    },
+    "default": "Cactus as a plant did not originally bear its modern name. Cacti are plants of the New World, their natural range is South America and North America, as well as the islands of the West Indies."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

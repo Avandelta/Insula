@@ -6,8 +6,11 @@
   "seed_name": "Weed Seeds",
   "seed_items": [],
   "description": {
-    "translations": {},
-    "default": "An annoying plant of no use."
+    "translations": {
+      "en_us": "Grass as a concept is so large that it combines from noble plants to weeds. Certain grasses, or weeds, are the founders of certain eco-systems and still play the same role today.",
+      "ru_ru": "Трава как понятие настолько крупное, что объединяет в себе от благородных растений до сорняков. Некоторые травы, или сорняки - являются основателями некоторых эко-систем, и по сей день играют такую же роль."
+    },
+    "default": "Grass as a concept is so large that it combines from noble plants to weeds. Certain grasses, or weeds, are the founders of certain eco-systems and still play the same role today."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

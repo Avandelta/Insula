@@ -2,12 +2,15 @@
   "path": "vanilla/plants/dandelion_plant.json",
   "enabled": true,
   "id": "vanilla:dandelion_plant",
-  "plant_name": "Dandelion",
-  "seed_name": "Dandelion Seeds",
+  "plant_name": "Taraxacum",
+  "seed_name": "Taraxacum semina",
   "seed_items": [],
   "description": {
-    "translations": {},
-    "default": "While colloquially considered a weed, this yellow-flowering plant is one of unspoken value. Having a deep-rooting taproot, the plant brings up nutrients from lower levels of soil, making it a good companion plant for shallow rooting plants."
+    "translations": {
+      "en_us": "Dandelion: medicine, food, food for domestic rodents, and a great honey plant. All parts of the plant contain a thick white milky sap.",
+      "ru_ru": "Одуванчик: лекарство, пища, корм для домашних грызунов, а также великий медонос. Все части растения содержат густой белый млечный сок."
+    },
+    "default": "Dandelion: medicine, food, food for domestic rodents, and a great honey plant. All parts of the plant contain a thick white milky sap."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,
