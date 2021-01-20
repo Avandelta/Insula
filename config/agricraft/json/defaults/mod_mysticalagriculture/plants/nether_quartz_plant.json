@@ -2,8 +2,8 @@
   "path": "mod_mysticalagriculture/plants/nether_quartz_plant.json",
   "enabled": true,
   "id": "mysticalagriculture:nether_quartz_plant",
-  "plant_name": "Nether Quartz Crop",
-  "seed_name": "Nether Quartz Seeds",
+  "plant_name": "Planta quartz",
+  "seed_name": "Semina quartz",
   "seed_items": [
     {
       "item": "mysticalagriculture:nether_quartz_seeds",
@@ -17,8 +17,11 @@
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Nether Quartz Seeds."
+    "translations": {
+      "en_us": "This type of plant grows from special seeds containing elementary matter, while the fruit of such a shrub is a special form of essence that allows you to create resources from it.",
+      "ru_ru": "Данный вид растений произрастает из особых семян, содержащих в себе элементарную материю, плодом же такого кустарника является особой формы эссенция, которая позволяет создавать ресурсы из неё."
+    },
+    "default": "This type of plant grows from special seeds containing elementary matter, while the fruit of such a shrub is a special form of essence that allows you to create resources from it."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
