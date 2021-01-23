@@ -5,10 +5,10 @@
       "name": "LocalSkin",
       "type": "Legacy",
       "checkPNG": true,
-      "skin": "LocalSkin/skins/{USERNAME}.png",
+      "skin": "Local/skins/{USERNAME}.png",
       "model": "auto",
-      "cape": "LocalSkin/capes/{USERNAME}.png",
-      "elytra": "LocalSkin/elytras/{USERNAME}.png"
+      "cape": "Local/capes/{USERNAME}.png",
+      "elytra": "Local/elytras/{USERNAME}.png"
     }
   ],
   "enableDynamicSkull": true,
