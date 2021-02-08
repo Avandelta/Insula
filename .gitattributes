@@ -4,16 +4,22 @@
 *.cfg text
 *.conf text
 *.config text
+
+*.xml text
+
 *.csv text
 *.ini text
 *.json text
+
 *.lang text
 *.mcmeta text
-*.md text
 *.properties text
+
+*.md text
 *.txt text
-*.xml text
+
 *.yml text
+
 *.zs text
 
 *.dat binary
