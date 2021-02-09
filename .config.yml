@@ -1,0 +1,26 @@
+# Kernel for MC-setup.
+.setup-template:
+
+  client:
+
+    integrated-gpu: '-XX:+CMSClassUnloadingEnabled -XX:+CMSPermGenSweepingEnabled -Xnoclassgc -XX:UseSSE=3 -Xincgc -Xmx768M -Xms512M -XX:PermSize=512M -XX:MaxPermSize=768M'
+
+    included-gpu: [
+      # Windows (32-bit): 2GB
+      w32-2g: '-XX:+CMSClassUnloadingEnabled -XX:+CMSPermGenSweepingEnabled -Xnoclassgc -XX:UseSSE=3 -Xincgc -Xmx768M -Xms512M -XX:PermSize=512M -XX:MaxPermSize=768M',
+
+      # Windows (64-bit): 4GB
+      w64-4g: '-XX:+CMSClassUnloadingEnabled -XX:+CMSPermGenSweepingEnabled -Xnoclassgc -XX:UseSSE=3 -Xincgc -Xmx2048M -Xms1024M -XX:PermSize=1024M -XX:MaxPermSize=2048M',
+
+      # Windows (64-bit): 6GB
+      w64-6g: '-XX:+CMSClassUnloadingEnabled -XX:+CMSPermGenSweepingEnabled -Xnoclassgc -XX:UseSSE=3 -Xincgc -Xmx4096M -Xms2048M -XX:PermSize=2048M -XX:MaxPermSize=2048M',
+
+      # Windows (64-bit): 10GB
+      w64-10g: '-XX:+CMSClassUnloadingEnabled -XX:+CMSPermGenSweepingEnabled -Xnoclassgc -XX:UseSSE=3 -Xincgc -Xmx6144M -Xms1024M -XX:PermSize=1024M -XX:MaxPermSize=2048M'
+    ]
+
+  server: 'java -Xincgc -server -Xmx4G -XX:+UseConcMarkSweepGC -XX:G1HeapRegionSize=32 -XX:SurvivorRatio=8 -XX:TargetSurvivorRatio=90 -XX:+AggressiveOpts -XX:+UseFastAccessorMethods -XX:+UseBiasedLocking -XX:+OptimizeStringConcat -XX:+UseThreadPriorities -XX:ThreadPriorityPolicy=42 -jar forge-1.12.2-14.23.5.2855.jar nogui -o true'
+
+  path: %cd%
+
+    
