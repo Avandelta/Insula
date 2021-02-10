@@ -1,0 +1,75 @@
+{
+  "path": "mod_harvestcraft/plants/cotton_plant.json",
+  "enabled": true,
+  "id": "harvestcraft:cotton_plant",
+  "plant_name": "Gossypium hirsutum",
+  "seed_name": "Gossypium hirsutum semina",
+  "seed_items": [
+    {
+      "item": "harvestcraft:cottonseeditem",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ],
+  "description": {
+    "translations": {
+      "en_us": "Cotton seeds are used to make oil and flour. In the 20th century in the GDR, housings for some Trabant cars were made from pressed cotton waste. As a result, several cases were recorded when in rural areas goats tried to chew car body parts, and not without success.",
+      "ru_ru": "Семена хлопка используются в изготовлении масла и муки. В XX веке в ГДР корпуса для некоторых автомобилей марки Trabant изготавливались из прессованных отходов хлопкового производства. В результате было зафиксировано несколько случаев, когда в сельской местности козы пытались жевать детали автомобильного кузова, причём небезуспешно."
+    },
+    "default": "Cotton seeds are used to make oil and flour. In the 20th century in the GDR, housings for some Trabant cars were made from pressed cotton waste. As a result, several cases were recorded when in rural areas goats tried to chew car body parts, and not without success."
+  },
+  "growth_chance": 0.9,
+  "growth_bonus": 0.025,
+  "bonemeal": true,
+  "tier": 1,
+  "weedable": false,
+  "aggressive": false,
+  "spread_chance": 0.1,
+  "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
+  "products": {
+    "products": [
+      {
+        "min": 1,
+        "max": 5,
+        "chance": 0.9,
+        "required": true,
+        "item": "harvestcraft:cottonitem",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
+      }
+    ]
+  },
+  "requirement": {
+    "min_light": 10,
+    "max_light": 16,
+    "soils": [
+      "farmland_soil"
+    ],
+    "conditions": []
+  },
+  "texture": {
+    "render_type": "hash",
+    "seed_texture": "harvestcraft:items/cottonitem",
+    "plant_textures": [
+      "harvestcraft:blocks/crops/cotton_stage_0",
+      "harvestcraft:blocks/crops/cotton_stage_0",
+      "harvestcraft:blocks/crops/cotton_stage_0",
+      "harvestcraft:blocks/crops/cotton_stage_1",
+      "harvestcraft:blocks/crops/cotton_stage_1",
+      "harvestcraft:blocks/crops/cotton_stage_2",
+      "harvestcraft:blocks/crops/cotton_stage_2",
+      "harvestcraft:blocks/crops/cotton_stage_3"
+    ]
+  }
+}

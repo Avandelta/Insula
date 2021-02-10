@@ -1,0 +1,73 @@
+{
+  "path": "mod_Botania/plants/botania_cyan_plant.json",
+  "enabled": true,
+  "id": "botania:cyan_flower_plant",
+  "plant_name": "Fabulosa tuorum gemmam flos",
+  "seed_name": "Semina fabulosa tuorum gemmam flos",
+  "seed_items": [
+    {
+      "item": "botania:petal",
+      "meta": 9,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [],
+      "useOreDict": false
+    }
+  ],
+  "description": {
+    "translations": {
+      "en_us": "This type of plant is much older than others and has learned to absorb ancient energy, there is only one question, under what conditions you can start using this energy.",
+      "ru_ru": "Данный вид растений намного старше других и научился впитывать в себя древнюю энергию, остаётся лишь один вопрос, при каких условиях можно начать использовать эту энергию."
+    },
+    "default": "This type of plant is much older than others and has learned to absorb ancient energy, there is only one question, under what conditions you can start using this energy."
+  },
+  "growth_chance": 0.75,
+  "growth_bonus": 0.025,
+  "bonemeal": false,
+  "tier": 1,
+  "weedable": false,
+  "aggressive": false,
+  "spread_chance": 0.1,
+  "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
+  "products": {
+    "products": [
+      {
+        "min": 1,
+        "max": 4,
+        "chance": 1.0,
+        "required": true,
+        "item": "botania:petal",
+        "meta": 9,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
+      }
+    ]
+  },
+  "requirement": {
+    "min_light": 10,
+    "max_light": 16,
+    "soils": [
+      "podzol_soil"
+    ],
+    "conditions": []
+  },
+  "texture": {
+    "render_type": "cross",
+    "seed_texture": "agricraft:items/seed_botania_cyan",
+    "plant_textures": [
+      "agricraft:blocks/crop_botania_cyan1",
+      "agricraft:blocks/crop_botania_cyan1",
+      "agricraft:blocks/crop_botania_cyan1",
+      "agricraft:blocks/crop_botania_cyan2",
+      "agricraft:blocks/crop_botania_cyan2",
+      "agricraft:blocks/crop_botania_cyan3",
+      "agricraft:blocks/crop_botania_cyan3",
+      "agricraft:blocks/crop_botania_cyan4"
+    ]
+  }
+}

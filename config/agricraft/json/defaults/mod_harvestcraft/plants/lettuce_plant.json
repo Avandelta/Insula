@@ -1,0 +1,75 @@
+{
+  "path": "mod_harvestcraft/plants/lettuce_plant.json",
+  "enabled": true,
+  "id": "harvestcraft:lettuce_plant",
+  "plant_name": "Lactuca sativa",
+  "seed_name": "Lactuca sativa semina",
+  "seed_items": [
+    {
+      "item": "harvestcraft:lettuceseeditem",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ],
+  "description": {
+    "translations": {
+      "en_us": "Lettuce is a flowering plant spread all over the world, its scientific name was given in honor of the milky juice contained inside the stems and leaves. For ancient people, lettuce was too expensive. Seed oil was eaten.",
+      "ru_ru": "Салат - цветковое растение, распотранённое по всему миру, своё научное название получило в честь млечного сока содержащегося внутри стеблей и листьев. Для древних людей салат был слишком дорогим удовольствием. В пищу употребляли масло семян."
+    },
+    "default": "Lettuce is a flowering plant spread all over the world, its scientific name was given in honor of the milky juice contained inside the stems and leaves. For ancient people, lettuce was too expensive. Seed oil was eaten."
+  },
+  "growth_chance": 0.9,
+  "growth_bonus": 0.025,
+  "bonemeal": true,
+  "tier": 1,
+  "weedable": false,
+  "aggressive": false,
+  "spread_chance": 0.1,
+  "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
+  "products": {
+    "products": [
+      {
+        "min": 1,
+        "max": 5,
+        "chance": 0.9,
+        "required": true,
+        "item": "harvestcraft:lettuceitem",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
+      }
+    ]
+  },
+  "requirement": {
+    "min_light": 10,
+    "max_light": 16,
+    "soils": [
+      "farmland_soil"
+    ],
+    "conditions": []
+  },
+  "texture": {
+    "render_type": "hash",
+    "seed_texture": "harvestcraft:items/lettuceseeditem",
+    "plant_textures": [
+      "harvestcraft:blocks/crops/lettuce_stage_0",
+      "harvestcraft:blocks/crops/lettuce_stage_0",
+      "harvestcraft:blocks/crops/lettuce_stage_0",
+      "harvestcraft:blocks/crops/lettuce_stage_1",
+      "harvestcraft:blocks/crops/lettuce_stage_1",
+      "harvestcraft:blocks/crops/lettuce_stage_2",
+      "harvestcraft:blocks/crops/lettuce_stage_2",
+      "harvestcraft:blocks/crops/lettuce_stage_3"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "path": "mod_harvestcraft/plants/garlic_plant.json",
+  "enabled": true,
+  "id": "harvestcraft:garlic_plant",
+  "plant_name": "Allium sativum",
+  "seed_name": "Allium sativum semina",
+  "seed_items": [
+    {
+      "item": "harvestcraft:garlicseeditem",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ],
+  "description": {
+    "translations": {
+      "en_us": "Garlic is a plant native to Central Asia and a relative of onions. Depending on the variety of garlic, its bulb can contain from 2 to 50 cloves.",
+      "ru_ru": "Чеснок - растение родом из Средней Азии и родственник лука. В зависимости от сорта чеснока в его луковице может быть от 2 до 50 зубчиков."
+    },
+    "default": "Garlic is a plant native to Central Asia and a relative of onions. Depending on the variety of garlic, its bulb can contain from 2 to 50 cloves."
+  },
+  "growth_chance": 0.9,
+  "growth_bonus": 0.025,
+  "bonemeal": true,
+  "tier": 1,
+  "weedable": false,
+  "aggressive": false,
+  "spread_chance": 0.1,
+  "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
+  "products": {
+    "products": [
+      {
+        "min": 1,
+        "max": 5,
+        "chance": 0.9,
+        "required": true,
+        "item": "harvestcraft:garlicitem",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
+      }
+    ]
+  },
+  "requirement": {
+    "min_light": 10,
+    "max_light": 16,
+    "soils": [
+      "farmland_soil"
+    ],
+    "conditions": []
+  },
+  "texture": {
+    "render_type": "hash",
+    "seed_texture": "harvestcraft:items/garlicitem",
+    "plant_textures": [
+      "harvestcraft:blocks/crops/garlic_stage_0",
+      "harvestcraft:blocks/crops/garlic_stage_0",
+      "harvestcraft:blocks/crops/garlic_stage_0",
+      "harvestcraft:blocks/crops/garlic_stage_1",
+      "harvestcraft:blocks/crops/garlic_stage_1",
+      "harvestcraft:blocks/crops/garlic_stage_2",
+      "harvestcraft:blocks/crops/garlic_stage_2",
+      "harvestcraft:blocks/crops/garlic_stage_3"
+    ]
+  }
+}

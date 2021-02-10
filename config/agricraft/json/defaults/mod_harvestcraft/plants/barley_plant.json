@@ -1,0 +1,75 @@
+{
+  "path": "mod_harvestcraft/plants/barley_plant.json",
+  "enabled": true,
+  "id": "harvestcraft:barley_plant",
+  "plant_name": "Hordeum vulgare",
+  "seed_name": "Hordeum vulgare semina",
+  "seed_items": [
+    {
+      "item": "harvestcraft:barleyseeditem",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ],
+  "description": {
+    "translations": {
+      "en_us": "Barley is the younger brother of wheat, along with rye, its cultivation began 10,000 years ago. In ancient Greece, barley was used in sacred rites, and in Rome it was the personification of the culture of gladiators.",
+      "ru_ru": "Ячмень - младший брат пшеницы наряду с рожью, его культивация началась 10000 лет назад. В Древней Греции ячмень использовался в священных обрядах, а в Риме он был олицетворением культуры гладиаторов."
+    },
+    "default": "Barley is the younger brother of wheat, along with rye, its cultivation began 10,000 years ago. In ancient Greece, barley was used in sacred rites, and in Rome it was the personification of the culture of gladiators."
+  },	
+  "growth_chance": 0.9,
+  "growth_bonus": 0.025,
+  "bonemeal": true,
+  "tier": 1,
+  "weedable": false,
+  "aggressive": false,
+  "spread_chance": 0.1,
+  "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
+  "products": {
+    "products": [
+      {
+        "min": 1,
+        "max": 5,
+        "chance": 0.9,
+        "required": true,
+        "item": "harvestcraft:barleyitem",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
+      }
+    ]
+  },
+  "requirement": {
+    "min_light": 10,
+    "max_light": 16,
+    "soils": [
+      "farmland_soil"
+    ],
+    "conditions": []
+  },
+  "texture": {
+    "render_type": "hash",
+    "seed_texture": "harvestcraft:items/barleyitem",
+    "plant_textures": [
+      "harvestcraft:blocks/crops/barley_stage_0",
+      "harvestcraft:blocks/crops/barley_stage_0",
+      "harvestcraft:blocks/crops/barley_stage_0",
+      "harvestcraft:blocks/crops/barley_stage_1",
+      "harvestcraft:blocks/crops/barley_stage_1",
+      "harvestcraft:blocks/crops/barley_stage_2",
+      "harvestcraft:blocks/crops/barley_stage_2",
+      "harvestcraft:blocks/crops/barley_stage_3"
+    ]
+  }
+}

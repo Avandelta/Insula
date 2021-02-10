@@ -1,0 +1,75 @@
+{
+  "path": "mod_harvestcraft/plants/rhubarb_plant.json",
+  "enabled": true,
+  "id": "harvestcraft:rhubarb_plant",
+  "plant_name": "Rheum",
+  "seed_name": "Rheum semina",
+  "seed_items": [
+    {
+      "item": "harvestcraft:rhubarbseeditem",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ],
+  "description": {
+    "translations": {
+      "en_us": "Rhubarb has a rather confusing origin story. A mention of him was found in the writings of Pedanius Dioscorides, who lived in the 1st century AD.",
+      "ru_ru": "Ревень обладает достаточно запутанной историей происхождения. Упоминание о нем были обнаружены в трудах Педания Диоскорида, который жил в 1 веке нашей эры."
+    },
+    "default": "Rhubarb has a rather confusing origin story. A mention of him was found in the writings of Pedanius Dioscorides, who lived in the 1st century AD."
+  },
+  "growth_chance": 0.9,
+  "growth_bonus": 0.025,
+  "bonemeal": true,
+  "tier": 1,
+  "weedable": false,
+  "aggressive": false,
+  "spread_chance": 0.1,
+  "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
+  "products": {
+    "products": [
+      {
+        "min": 1,
+        "max": 5,
+        "chance": 0.9,
+        "required": true,
+        "item": "harvestcraft:rhubarbitem",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
+      }
+    ]
+  },
+  "requirement": {
+    "min_light": 10,
+    "max_light": 16,
+    "soils": [
+      "farmland_soil"
+    ],
+    "conditions": []
+  },
+  "texture": {
+    "render_type": "hash",
+    "seed_texture": "harvestcraft:items/rhubarbitem",
+    "plant_textures": [
+      "harvestcraft:blocks/crops/rhubarb_stage_0",
+      "harvestcraft:blocks/crops/rhubarb_stage_0",
+      "harvestcraft:blocks/crops/rhubarb_stage_0",
+      "harvestcraft:blocks/crops/rhubarb_stage_1",
+      "harvestcraft:blocks/crops/rhubarb_stage_1",
+      "harvestcraft:blocks/crops/rhubarb_stage_2",
+      "harvestcraft:blocks/crops/rhubarb_stage_2",
+      "harvestcraft:blocks/crops/rhubarb_stage_3"
+    ]
+  }
+}

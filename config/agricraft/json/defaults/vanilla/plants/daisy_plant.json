@@ -1,0 +1,64 @@
+{
+  "path": "vanilla/plants/daisy_plant.json",
+  "enabled": true,
+  "id": "vanilla:daisy_plant",
+  "plant_name": "Matricaria",
+  "seed_name": "Matricaria semina",
+  "seed_items": [],
+  "description": {
+    "translations": {
+      "en_us": "Often, daisy or chamomile (from a botanical point of view, mistakenly) is called plant species of other genera of the Astrov family. Chamomile got its name from the combination of words: low and apple, which personifies the low apple tree due to the characteristic smell of the flower.",
+      "ru_ru": "Часто ромашкой (с ботанической точки зрения ошибочно) называют виды растений других родов семейства Астровые. Ромашка получило своё название в честь соединений слов: низкий и яблоко, что олицетворяет низкую яблоню из-за характерного запаха цветка."
+    },
+    "default": "Often, daisy or chamomile (from a botanical point of view, mistakenly) is called plant species of other genera of the Astrov family. Chamomile got its name from the combination of words: low and apple, which personifies the low apple tree due to the characteristic smell of the flower."
+  },
+  "growth_chance": 0.75,
+  "growth_bonus": 0.025,
+  "bonemeal": true,
+  "tier": 1,
+  "weedable": false,
+  "aggressive": false,
+  "spread_chance": 0.1,
+  "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
+  "products": {
+    "products": [
+      {
+        "min": 1,
+        "max": 1,
+        "chance": 0.75,
+        "required": true,
+        "item": "minecraft:dye",
+        "meta": 7,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
+      }
+    ]
+  },
+  "requirement": {
+    "min_light": 10,
+    "max_light": 16,
+    "soils": [
+      "farmland_soil"
+    ],
+    "conditions": []
+  },
+  "texture": {
+    "render_type": "hash",
+    "seed_texture": "agricraft:items/seed_daisy",
+    "plant_textures": [
+      "agricraft:blocks/crop_daisy1",
+      "agricraft:blocks/crop_daisy1",
+      "agricraft:blocks/crop_daisy2",
+      "agricraft:blocks/crop_daisy2",
+      "agricraft:blocks/crop_daisy2",
+      "agricraft:blocks/crop_daisy3",
+      "agricraft:blocks/crop_daisy3",
+      "agricraft:blocks/crop_daisy4"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "path": "vanilla/plants/white_tulip_plant.json",
+  "enabled": true,
+  "id": "vanilla:white_tulip_plant",
+  "plant_name": "Alba Tulipa",
+  "seed_name": "Alba Tulipa semina",
+  "seed_items": [],
+  "description": {
+    "translations": {
+      "en_us": "The tulip is one of the most popular industrial flowers. In the 17th century, the tulip caused the European economic crisis. A tulip can be of any color from the light spectrum, including black.",
+      "ru_ru": "Тюльпан - один из самых популярных промышленных цветков. В 17 веке тюльпан стал причиной европейского экономического кризиса. Тюльпан может иметь любой цвет из светового спектра, включая чёрный."
+    },
+    "default": "The tulip is one of the most popular industrial flowers. In the 17th century, the tulip caused the European economic crisis. A tulip can be of any color from the light spectrum, including black."
+  },
+  "growth_chance": 0.75,
+  "growth_bonus": 0.025,
+  "bonemeal": true,
+  "tier": 1,
+  "weedable": false,
+  "aggressive": false,
+  "spread_chance": 0.1,
+  "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
+  "products": {
+    "products": [
+      {
+        "min": 1,
+        "max": 1,
+        "chance": 0.75,
+        "required": true,
+        "item": "minecraft:dye",
+        "meta": 7,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
+      }
+    ]
+  },
+  "requirement": {
+    "min_light": 10,
+    "max_light": 16,
+    "soils": [
+      "farmland_soil"
+    ],
+    "conditions": []
+  },
+  "texture": {
+    "render_type": "hash",
+    "seed_texture": "agricraft:items/seed_tulip_white",
+    "plant_textures": [
+      "agricraft:blocks/crop_tulip_white1",
+      "agricraft:blocks/crop_tulip_white1",
+      "agricraft:blocks/crop_tulip_white2",
+      "agricraft:blocks/crop_tulip_white2",
+      "agricraft:blocks/crop_tulip_white2",
+      "agricraft:blocks/crop_tulip_white3",
+      "agricraft:blocks/crop_tulip_white3",
+      "agricraft:blocks/crop_tulip_white4"
+    ]
+  }
+}

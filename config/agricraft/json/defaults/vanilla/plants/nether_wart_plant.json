@@ -1,0 +1,85 @@
+{
+  "path": "vanilla/plants/nether_wart_plant.json",
+  "enabled": true,
+  "id": "vanilla:nether_wart_plant",
+  "plant_name": "Calcaneum Wart",
+  "seed_name": "Calcaneum Wart sporis",
+  "seed_items": [
+    {
+      "item": "agricraft:agri_seed",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    },
+    {
+      "item": "minecraft:nether_wart",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ],
+  "description": {
+    "translations": {
+      "en_us": "The Nether Wart is one of the few plants that survived into one: along with its mushroom brothers, it is actively used in potions. Extremely unpretentious and resistant to almost everything except lava.",
+      "ru_ru": "Адский нарост - одно из немногих растений, выживших в одну: наряду со своими грибными братьями, активно используется в зельеварении. Крайне неприхотливый и устойчивый почти ко всему, кроме лавы."
+    },
+    "default": "The Nether Wart is one of the few plants that survived into one: along with its mushroom brothers, it is actively used in potions. Extremely unpretentious and resistant to almost everything except lava."
+  },
+  "growth_chance": 0.9,
+  "growth_bonus": 0.025,
+  "bonemeal": true,
+  "tier": 1,
+  "weedable": false,
+  "aggressive": false,
+  "spread_chance": 0.1,
+  "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
+  "products": {
+    "products": [
+      {
+        "min": 1,
+        "max": 3,
+        "chance": 0.95,
+        "required": true,
+        "item": "minecraft:nether_wart",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
+      }
+    ]
+  },
+  "requirement": {
+    "min_light": 0,
+    "max_light": 8,
+    "soils": [
+      "soul_sand_soil"
+    ],
+    "conditions": []
+  },
+  "texture": {
+    "render_type": "hash",
+    "seed_texture": "agricraft:items/seed_nether_wart",
+    "plant_textures": [
+      "minecraft:blocks/nether_wart_stage_0",
+      "minecraft:blocks/nether_wart_stage_0",
+      "minecraft:blocks/nether_wart_stage_0",
+      "minecraft:blocks/nether_wart_stage_1",
+      "minecraft:blocks/nether_wart_stage_1",
+      "minecraft:blocks/nether_wart_stage_1",
+      "minecraft:blocks/nether_wart_stage_1",
+      "minecraft:blocks/nether_wart_stage_2"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "path": "mod_harvestcraft/plants/leek_plant.json",
+  "enabled": true,
+  "id": "harvestcraft:leek_plant",
+  "plant_name": "Allium ampeloprasum",
+  "seed_name": "Allium ampeloprasum semina",
+  "seed_items": [
+    {
+      "item": "harvestcraft:leekseeditem",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ],
+  "description": {
+    "translations": {
+      "en_us": "Onions have become a popular crop even among the ancient Egyptians: they had leeks as the most important vegetable crop. The vegetable has long been considered a symbol of Wales; the local people celebrate March 1 every year - St. David's Day.",
+      "ru_ru": "Лук стал популярной культурой ещё у древних Египтян: у них порей был важнейшей овощной культурой. Овощ давно принято считать символом Уэльса, здешние жители каждый год празднуют 1 марта - День святого Давида."
+    },
+    "default": "Onions have become a popular crop even among the ancient Egyptians: they had leeks as the most important vegetable crop. The vegetable has long been considered a symbol of Wales; the local people celebrate March 1 every year - St. David's Day."
+  },
+  "growth_chance": 0.9,
+  "growth_bonus": 0.025,
+  "bonemeal": true,
+  "tier": 1,
+  "weedable": false,
+  "aggressive": false,
+  "spread_chance": 0.1,
+  "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
+  "products": {
+    "products": [
+      {
+        "min": 1,
+        "max": 5,
+        "chance": 0.9,
+        "required": true,
+        "item": "harvestcraft:leekitem",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
+      }
+    ]
+  },
+  "requirement": {
+    "min_light": 10,
+    "max_light": 16,
+    "soils": [
+      "farmland_soil"
+    ],
+    "conditions": []
+  },
+  "texture": {
+    "render_type": "hash",
+    "seed_texture": "harvestcraft:items/leekitem",
+    "plant_textures": [
+      "harvestcraft:blocks/crops/leek_stage_0",
+      "harvestcraft:blocks/crops/leek_stage_0",
+      "harvestcraft:blocks/crops/leek_stage_0",
+      "harvestcraft:blocks/crops/leek_stage_1",
+      "harvestcraft:blocks/crops/leek_stage_1",
+      "harvestcraft:blocks/crops/leek_stage_2",
+      "harvestcraft:blocks/crops/leek_stage_2",
+      "harvestcraft:blocks/crops/leek_stage_3"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "path": "vanilla/plants/poppy_plant.json",
+  "enabled": true,
+  "id": "vanilla:poppy_plant",
+  "plant_name": "Papaver",
+  "seed_name": "Papaver semina",
+  "seed_items": [],
+  "description": {
+    "translations": {
+      "en_us": "Poppy: a plant that is the progenitor of the drug opium, used in pain relievers and sleeping pills, but also as a narcotic. Poppy cultivation is prohibited in a number of countries.",
+      "ru_ru": "Мак: растение, которое является прародителем наркотика опиума, использующееся в болеутоляющих и снотворных, но и как наркотическое средство. Культивирование мака запрещено в ряде стран."
+    },
+    "default": "Poppy: a plant that is the progenitor of the drug opium, used in pain relievers and sleeping pills, but also as a narcotic. Poppy cultivation is prohibited in a number of countries."
+  },
+  "growth_chance": 0.75,
+  "growth_bonus": 0.025,
+  "bonemeal": true,
+  "tier": 1,
+  "weedable": false,
+  "aggressive": false,
+  "spread_chance": 0.1,
+  "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
+  "products": {
+    "products": [
+      {
+        "min": 1,
+        "max": 1,
+        "chance": 0.75,
+        "required": true,
+        "item": "minecraft:dye",
+        "meta": 1,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
+      }
+    ]
+  },
+  "requirement": {
+    "min_light": 10,
+    "max_light": 16,
+    "soils": [
+      "farmland_soil"
+    ],
+    "conditions": []
+  },
+  "texture": {
+    "render_type": "hash",
+    "seed_texture": "agricraft:items/seed_poppy",
+    "plant_textures": [
+      "agricraft:blocks/crop_poppy1",
+      "agricraft:blocks/crop_poppy1",
+      "agricraft:blocks/crop_poppy2",
+      "agricraft:blocks/crop_poppy2",
+      "agricraft:blocks/crop_poppy2",
+      "agricraft:blocks/crop_poppy3",
+      "agricraft:blocks/crop_poppy3",
+      "agricraft:blocks/crop_poppy4"
+    ]
+  }
+}

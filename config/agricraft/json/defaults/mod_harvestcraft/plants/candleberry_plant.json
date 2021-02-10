@@ -1,0 +1,75 @@
+{
+  "path": "mod_harvestcraft/plants/candleberry_plant.json",
+  "enabled": true,
+  "id": "harvestcraft:candleberry_plant",
+  "plant_name": "Myrica gale",
+  "seed_name": "Myrica gale semina",
+  "seed_items": [
+    {
+      "item": "harvestcraft:candleberryseeditem",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ],
+  "description": {
+    "translations": {
+      "en_us": "Candleberry is a genus that combines shrubs from 1 meter to trees 20 meters tall. This plant is named after its plant wax, which was used to make candles.",
+      "ru_ru": "Восковница - род, объединяющий в себе кустарники от 1 метра до деревьев ростом 20 метров. Данное растение получило своё название в честь своего растительного воска, который использовался для создания свечей."
+    },
+    "default": "Candleberry is a genus that combines shrubs from 1 meter to trees 20 meters tall. This plant is named after its plant wax, which was used to make candles."
+  },
+  "growth_chance": 0.9,
+  "growth_bonus": 0.025,
+  "bonemeal": true,
+  "tier": 1,
+  "weedable": false,
+  "aggressive": false,
+  "spread_chance": 0.1,
+  "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
+  "products": {
+    "products": [
+      {
+        "min": 1,
+        "max": 5,
+        "chance": 0.9,
+        "required": true,
+        "item": "harvestcraft:candleberryitem",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
+      }
+    ]
+  },
+  "requirement": {
+    "min_light": 10,
+    "max_light": 16,
+    "soils": [
+      "farmland_soil"
+    ],
+    "conditions": []
+  },
+  "texture": {
+    "render_type": "hash",
+    "seed_texture": "harvestcraft:items/candleberryitem",
+    "plant_textures": [
+      "harvestcraft:blocks/crops/candleberry_stage_0",
+      "harvestcraft:blocks/crops/candleberry_stage_0",
+      "harvestcraft:blocks/crops/candleberry_stage_0",
+      "harvestcraft:blocks/crops/candleberry_stage_1",
+      "harvestcraft:blocks/crops/candleberry_stage_1",
+      "harvestcraft:blocks/crops/candleberry_stage_2",
+      "harvestcraft:blocks/crops/candleberry_stage_2",
+      "harvestcraft:blocks/crops/candleberry_stage_3"
+    ]
+  }
+}

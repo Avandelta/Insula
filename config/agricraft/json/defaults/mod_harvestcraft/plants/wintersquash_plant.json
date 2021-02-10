@@ -1,0 +1,75 @@
+{
+  "path": "mod_harvestcraft/plants/wintersquash_plant.json",
+  "enabled": true,
+  "id": "harvestcraft:wintersquash_plant",
+  "plant_name": "Hiems cucurbitae",
+  "seed_name": "Hiems cucurbitae semina",
+  "seed_items": [
+    {
+      "item": "harvestcraft:wintersquashseeditem",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ],
+  "description": {
+    "translations": {
+      "en_us": "Winter squash is one of the oldest crops in America. The seeds found in Mexico have been dated 10,000 years ago. Winter squash is not grown or harvested in winter, but when fully ripe, the vegetable has a hard shell with a thick, inedible skin and is full of developed seeds. The thick shell allows it to be stored for many months, which is why it is called winter squash.",
+      "ru_ru": "Зимний сквош - одна из старейших культур в Америке. Семена, найденные в Мексике, были датированы 10000 лет назад. Зимний сквош не выращивают и не собирают в зимний период, но при полном созревании овощ имеет твердую оболочку с толстой, несъедобной кожурой и полон развитых семян. Толстая оболочка позволяет ему храниться много месяцев, потому его и называют зимний сквош."
+    },
+    "default": "Winter squash is one of the oldest crops in America. The seeds found in Mexico have been dated 10,000 years ago. Winter squash is not grown or harvested in winter, but when fully ripe, the vegetable has a hard shell with a thick, inedible skin and is full of developed seeds. The thick shell allows it to be stored for many months, which is why it is called winter squash."
+  },
+  "growth_chance": 0.9,
+  "growth_bonus": 0.025,
+  "bonemeal": true,
+  "tier": 1,
+  "weedable": false,
+  "aggressive": false,
+  "spread_chance": 0.1,
+  "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
+  "products": {
+    "products": [
+      {
+        "min": 1,
+        "max": 5,
+        "chance": 0.9,
+        "required": true,
+        "item": "harvestcraft:wintersquashitem",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
+      }
+    ]
+  },
+  "requirement": {
+    "min_light": 10,
+    "max_light": 16,
+    "soils": [
+      "farmland_soil"
+    ],
+    "conditions": []
+  },
+  "texture": {
+    "render_type": "hash",
+    "seed_texture": "harvestcraft:items/wintersquashitem",
+    "plant_textures": [
+      "harvestcraft:blocks/crops/wintersquash_stage_0",
+      "harvestcraft:blocks/crops/wintersquash_stage_0",
+      "harvestcraft:blocks/crops/wintersquash_stage_0",
+      "harvestcraft:blocks/crops/wintersquash_stage_1",
+      "harvestcraft:blocks/crops/wintersquash_stage_1",
+      "harvestcraft:blocks/crops/wintersquash_stage_2",
+      "harvestcraft:blocks/crops/wintersquash_stage_2",
+      "harvestcraft:blocks/crops/wintersquash_stage_3"
+    ]
+  }
+}

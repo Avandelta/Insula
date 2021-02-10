@@ -1,0 +1,75 @@
+{
+  "path": "mod_harvestcraft/plants/beet_plant.json",
+  "enabled": true,
+  "id": "harvestcraft:beet_plant",
+  "plant_name": "Beta vulgaris",
+  "seed_name": "Beta vulgaris semina",
+  "seed_items": [
+    {
+      "item": "harvestcraft:beetseeditem",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ],
+  "description": {
+    "translations": {
+      "en_us": "Initially, only leaves were used for food from beets, root crops were intended for medicinal purposes. In ancient Greece, beets were used as a sacrifice to Apollo.",
+      "ru_ru": "Первоначально в пищу от свеклы использовали лишь листья, корнеплоды предназначались в лекарственных целях. В Древней Греции свёкла использовалась в жертву Апполону."
+    },
+    "default": "Initially, only leaves were used for food from beets, root crops were intended for medicinal purposes. In ancient Greece, beets were used as a sacrifice to Apollo."
+  },
+  "growth_chance": 0.9,
+  "growth_bonus": 0.025,
+  "bonemeal": true,
+  "tier": 1,
+  "weedable": false,
+  "aggressive": false,
+  "spread_chance": 0.1,
+  "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
+  "products": {
+    "products": [
+      {
+        "min": 1,
+        "max": 5,
+        "chance": 0.9,
+        "required": true,
+        "item": "harvestcraft:beetitem",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
+      }
+    ]
+  },
+  "requirement": {
+    "min_light": 10,
+    "max_light": 16,
+    "soils": [
+      "farmland_soil"
+    ],
+    "conditions": []
+  },
+  "texture": {
+    "render_type": "hash",
+    "seed_texture": "harvestcraft:items/beetitem",
+    "plant_textures": [
+      "harvestcraft:blocks/crops/beet_stage_0",
+      "harvestcraft:blocks/crops/beet_stage_0",
+      "harvestcraft:blocks/crops/beet_stage_0",
+      "harvestcraft:blocks/crops/beet_stage_1",
+      "harvestcraft:blocks/crops/beet_stage_1",
+      "harvestcraft:blocks/crops/beet_stage_2",
+      "harvestcraft:blocks/crops/beet_stage_2",
+      "harvestcraft:blocks/crops/beet_stage_3"
+    ]
+  }
+}
