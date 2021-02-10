@@ -1,0 +1,26 @@
+{
+  "version": "14.13",
+  "loadlist": [
+    {
+      "name": "LocalSkin",
+      "type": "Legacy",
+      "checkPNG": true,
+      "skin": "Local/skins/{USERNAME}.png",
+      "model": "auto",
+      "cape": "Local/capes/{USERNAME}.png",
+      "elytra": "Local/elytras/{USERNAME}.png"
+    }
+  ],
+  "enableDynamicSkull": true,
+  "enableTransparentSkin": true,
+  "forceIgnoreHttpsCertificate": true,
+  "forceLoadAllTextures": false,
+  "enableCape": true,
+  "threadPoolSize": 4,
+  "retryTime": 2,
+  "cacheExpiry": 32,
+  "forceUpdateSkull": true,
+  "enableLocalProfileCache": false,
+  "enableCacheAutoClean": true,
+  "forceDisableCache": false
+}
